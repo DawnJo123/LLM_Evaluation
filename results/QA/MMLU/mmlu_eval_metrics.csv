@@ -1,0 +1,6 @@
+model_provider,model_name,accuracy,total_questions,accuracy_pct
+azure,gpt-4o-mini,0.87,100,87.0
+groq,gemma2-9b-it,0.75,100,75.0
+groq,llama-3.1-8b-instant,0.72,100,72.0
+groq,llama-3.3-70b-versatile,0.83,100,83.0
+groq,mistral-saba-24b,0.78,100,78.0

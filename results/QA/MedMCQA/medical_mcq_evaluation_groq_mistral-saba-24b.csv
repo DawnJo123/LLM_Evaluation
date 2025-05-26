@@ -1,0 +1,104 @@
+question_id,subject,question,predicted_answer,correct_answer,is_correct
+0,Physiology,A couple comes for evaluation of infeility. The HSG was normal but semen analysis revealed azoospermia. What is the diagnostic test to differentiate between testicular failure and vas deferens obstruction?,A,A,True
+1,Physiology,Histamine is present on surface of:,B,B,True
+2,Physiology,Which of the following is not a physiological method of heat loss from the body?,C,D,False
+3,Physiology,Blood brain barrier is absent in all of the following areas except,D,B,False
+4,Physiology,The most common problem with blood transfusion is:,A,A,True
+5,Medicine,Hepatitis B occurs after an incubation period of:,B,C,False
+6,Medicine,A 25 years old lady with a history of fever for 1 month presents with headache and ataxia.Brain imaging shows dilated ventricles and significant basal exudates. Which of the following will be the most likely CSF finding?,B,A,False
+7,Medicine,"A 20 years old female came with complaints of headache, vomiting and decrease in movement of right leg. In the past, she had episodes of violent and aggressive behaviour and abdominal pain. Which of the following is the most probable diagnosis?",D,D,True
+8,Medicine,What is the best management of the case shown?,B,D,False
+9,Medicine,A patient comes to ED with fever and headache. On examination he has neck stiffness. CSF analysis was done:- Parameter Finding Normal range Glucose (mg/dl) 55 50-80 Protein (g/L) 0.50 0.18-0.45 ICT (cmH2O) 35 5-20 WBC 25 (predominantly lymphocytes) <5 Most likely diagnosis is-,C,D,False
+10,Biochemistry,Lipids are ………………group of compounds:,A,A,True
+11,Biochemistry,"In lead poisoning, there is an inhibition of some of the enzymes of the heme biosynthetic pathway. This is reflected by the accumulation of what substance in blood?",D,D,True
+12,Biochemistry,Which of the following binds mRNA with ribosome in prokaryotes?,B,B,True
+13,Biochemistry,VLDL is concerned with:,A,A,True
+14,Biochemistry,Which of the following doesn't occur in 5' to 3' direction?,C,C,True
+15,Ophthalmology,Concentration of tropicamide:,B,A,False
+16,Ophthalmology,Cherry red spot and Hollenhorst plaque are seen in:,A,A,True
+17,Ophthalmology,A patient with hypeension and diabetes presents with blurred vision. Fluorescein angiography shows,A,A,True
+18,Ophthalmology,Which of the following is true?,A,B,False
+19,Ophthalmology,"IOL placed in the young male., After 10 year what should be done..?",A,A,True
+20,Anatomy,"In gene studies, the specific site to which the enzyme CRE recombinase binds is:",B,B,True
+21,Anatomy,Dense irregular connective tissue is found in,A,A,True
+22,Anatomy,"Post parotidectomy, patient feels numb while shaving. Which nerve was involved ?",C,D,False
+23,Anatomy,Motor supply of infrahyoid muscle is:,A,A,True
+24,Anatomy,All of the following muscles have parallel oriented fibers except:,C,D,False
+25,Pediatrics,A 6 months old child having severe dehydration comes to the casualty with weak pulse and unrecordable B.P. Repeated attempt in gaining I.V. access has failed – The next best step is –,C,C,True
+26,Pediatrics,"A child presented at 2 years of age with delayed motor development, mental retardation and finger biting. He was normal at bih. He subsequently develops cerebral palsy ahritis and dies due to renal failure at age of 25 years. What is the likely enzyme deficiency implicated?",A,C,False
+27,Pediatrics,Palpable purpura is seen in all. except –,C,C,True
+28,Pediatrics,Pulsatile varicose veins in lower limbs is seen in –,A,A,True
+29,Pediatrics,Which of the following is the most common inherited malignancy :,B,B,True
+30,Pathology,Which of following in not true about SLE?,B,B,True
+31,Pathology,Transudate is characterized by:,B,B,True
+32,Pathology,Lesions of oral tuberculosis are associated with all the following except:,B,B,True
+33,Pathology,"A 40 year old woman has arneloblastoma, the histomorphologic features will be",A,A,True
+34,Pathology,Which of the following is most common location of intracranial neurocysticercoses:,A,A,True
+35,Dental,Crab claw separator is,C,B,False
+36,Dental,Calcification of roots of deciduous teeth is completed by:,B,B,True
+37,Dental,The systolic blood pressure in normal healthy males of age group of 40 — 60 has a normal distribution with a mean of 130 in a sample of 100. People with systolic blood pressure more than 130 will be:,C,C,True
+38,Dental,Rooting reflex also known as search reflex disappears:,C,C,True
+39,Dental,Definitive treatment for the condition shown in radiograph below is?,Unknown,D,False
+40,Microbiology,Chemotactic cytokine is,C,C,True
+41,Microbiology,Helminth implicated in causing pernicious anemia is:,A,A,True
+42,Microbiology,Which of the following is microaerophilic -,A,A,True
+43,Microbiology,"A 30 year old female is on antibiotics with prolonged IV cannulation, has spike of fever, the likely cause is :",B,B,True
+44,Microbiology,Malaria relapse common with which type plasmodium species?,C,C,True
+45,Anaesthesia,What is the most reliable site to measure core temperature during general anesthesia?,B,D,False
+46,Anaesthesia,A pregnant woman with placenta pre staed to bleed as she went into labor. Her blood pressure was 80/50 mm Hg. A lower segment caesarean section was planned in view of acute shock. What type of anesthesia will you plan for this patient?,C,A,False
+47,Anaesthesia,Which of the following intravenous anesthetic agents is contraindicated in epileptic patients posted for general anaesthesia,A,A,True
+48,Anaesthesia,A surgeon decides to operate a patient under epidural anesthesia. 3% Xylocaine with adrenaline is used for administering epidural anesthesia. The patient suddenly develops hypotension after 3 minutes of administration. What is the most likely cause for this?,A,D,False
+49,Anaesthesia,A patient of head injury is intubated and ventilated. The ideal mode of ventilation in him would be:,D,A,False
+50,Radiology,Cementosis are commonly seen in:,D,B,False
+51,Radiology,Characteristic of venous blood flow of lower limb in duplex Doppler is?,B,A,False
+52,Radiology,Radio density can be increased by,C,C,True
+53,Radiology,Consistent radiographs require:,B,B,True
+54,Radiology,Occluded submandibular salivary duct can be best observed by,B,B,True
+55,Gynaecology & Obstetrics,Best parameter for ultrasound evaluation of IUGR is:,C,C,True
+56,Gynaecology & Obstetrics,"A female of 36 weeks gestation presents with hypertension, blurring of vision and headache. Her blood pressure reading was 180/120 mm Hg and 174/110 mm Hg after 20 minutes. How will you manage the patient?",C,C,True
+57,Gynaecology & Obstetrics,Most common cause of post neonatal mortality is:,D,C,False
+58,Gynaecology & Obstetrics,Which of the following antihypertensives is not safe in pregnancy:,B,B,True
+59,Gynaecology & Obstetrics,"In endometriotic lesions, histology represents its:",A,A,True
+60,Pharmacology,All are Gp lIbilIla inhibitors except:,B,A,False
+61,Pharmacology,"Drug adveisement letter is a necessary component of each drug formulation and contains various information about the drug like drug dosing, frequency and half-life. Which of the following information need not be given in the drug adveisement letter?",A,B,False
+62,Pharmacology,Major aim of phase 1 clinical trials is:-,A,C,False
+63,Pharmacology,"Cephalosporin	active	against	pseudomonas
+aeruginosa",A,A,True
+64,Pharmacology,Storage of drug in the tissues is suggested by:,A,A,True
+65,Social & Preventive Medicine,Recommnended daily intake of iodine in pregnancy-,C,D,False
+66,Social & Preventive Medicine,A researcher said he has discovers a new drug which is effective in chronic hypeensives with a p value of < 0.10. Which of the following is true regarding the same?,C,C,True
+67,Social & Preventive Medicine,The prevalence of disease in a population is expected to be 50%. An investigator is interested in the range of 45 to 55% with 95% confidence. The minimum sample size required for the study is:,B,D,False
+68,Social & Preventive Medicine,You have been asked to design a study for a disease whose prevalence in the community is 10%. The alpha error has to be kept at 5% with a relative precision of 20% and a power of 20%. What will be the accurate sample size for this study?,C,B,False
+69,Social & Preventive Medicine,"According to WHO definition, what is the criteria for considering a high endemic area for meningococcal meningitis?",C,C,True
+70,ENT,Which of the following sinus grows till early adulthood:-,C,C,True
+71,ENT,Best surgery to relieve intractable veigo in a menieres disease patient is?,B,A,False
+72,ENT,All are characteristic features of superior semicircular canal dehiscence except?,B,B,True
+73,ENT,"A child presents with high grade fever, inspiratory stridor and develops swallowing difficulty with drooling of saliva since last 4-6 hours. Which of the following treatment is recommended apa from general airway management?",A,A,True
+74,ENT,"Kamla 4 yrs of age presented in emergency with mild respiratory ""stress. On laryngoscopy she was diagnosed to have multiple juvenile papilomatosis of the larynx. Next line of management is -",B,B,True
+75,Surgery,Which of the following is common to all types of shock?,B,B,True
+76,Surgery,Delayed haemolytic transfusion involves all except?,D,B,False
+77,Surgery,Most common mediastinal tumor:,A,A,True
+78,Surgery,On abdominal ultrasound gallbladder shows diffuse wall thickening with hyperechoic nodules at neck and comet tail aifacts. The most likely diagnosis will be:,A,A,True
+79,Surgery,Patellar cluck syndrome is interposition of soft tissue at or hyperophied scar:,A,B,False
+80,Forensic Medicine,Ewing's postulates concerns with which of the following:,A,A,True
+81,Forensic Medicine,Boiled lobster syndrome is seen in poisoning of:,A,A,True
+82,Forensic Medicine,"Concentric teeth bite mark on forearm, what to do next?",C,C,True
+83,Forensic Medicine,Which acid does not show coagulation necrosis on contact?,C,C,True
+84,Forensic Medicine,Which of the following principles governs biomedical research in human subjects?,B,B,True
+85,Psychiatry,A patient believes he is the most impoant person in the world than anyone so his neighbors and family is trying to harm him as they are jealous of him. His wife says otherwise and says he behaves like this recently only before he was working as a school-teacher peacefully and brought to OPD. He is suffering from:,C,D,False
+86,Psychiatry,Z tracking technique is used in?,A,A,True
+87,Psychiatry,"About depersonalization, which of the following is false:",D,D,True
+88,Psychiatry,"A man comes with history of abnormal excessive blinking and grunting. He says he has no control over his symptoms, which have risen in frequency of late. This has staed affecting his social life making him depressed. Which of the following medications should be used in him?",C,A,False
+89,Psychiatry,Which of the following best describes paradoxical suicide?,C,B,False
+90,Skin,Which type of oral candidiasis does not presents with white patch?,A,A,True
+91,Skin,A young female presented with vaginal itching and green frothy genital discharge. Strawberry vagina is seen on examination. What w ill be the drug of choice?,C,C,True
+92,Skin,An 8-year-old boy presents with well defined annular lesion over the buttock with central scarring that is gradually progressive over the last 8 months. The diagnosis is,C,B,False
+93,Skin,A 12 years old boy came with complaints of 4 hypopigmented patches on back and on left arm. The patches had loss of sensation. Which of the following is the treatment for this case?,A,C,False
+94,Skin,Maculopapular rash is not seen in ?,D,D,True
+95,Orthopaedics,A 55 yr old patient presented to the opd with complaint of pain in back. On examination his limbs seemed to be bent with overlying warm and thick skin. Patient also complain of decreased hearing over a few days. On biochemical analysis his serum ALP was raised. X-ray obtained showed the following features. Most probable diagnosis?,C,C,True
+96,Orthopaedics,Positive pivot shift test in knee is because of injury to -,B,B,True
+97,Orthopaedics,"A 9 year old boy presenting with lytic lesion on midshaft tibia. On HPE, there are grooved nuclei, giant cells eosinophilic cytoplasm and fibroblastic proliferation. Xray is as shown below. What is the likely diagnosis?",A,A,True
+98,Orthopaedics,Elderly female present with pain and swelling in the thigh. Xray shows multiple lytic lesions in distal femur with no periosteal reaction. Aspirate from the swelling shows homogenous serosanguinous fluid with RBCs. Which investigation can confirm the diagnosis?,D,B,False
+99,Orthopaedics,"All of the following are complications of supracondylar fracture of humerus in children,except -",D,D,True
+100,Unknown,The following angle is associated with fracture of,B,A,False
+101,Unknown,Consumption of which of the following poison produce bluish discoloration of stomach during postmortem examination.,D,A,False

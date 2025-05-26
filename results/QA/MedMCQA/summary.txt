@@ -1,0 +1,150 @@
+Model Performance Comparison:
+                              accuracy  valid_responses  total_questions
+groq_llama-3.3-70b-versatile  0.754902            102.0            102.0
+azure_gpt-4o-mini             0.715686            102.0            102.0
+groq_mistral-saba-24b         0.637255            101.0            102.0
+groq_gemma2-9b-it             0.637255            100.0            102.0
+groq_llama-3.1-8b-instant     0.598039            102.0            102.0
+
+
+
+Model Accuracy by Subject:
+                              azure_gpt-4o-mini             groq_llama-3.3-70b-versatile  \
+Pediatrics                                  1.0                           0.8   
+Anaesthesia                                 0.6                           0.8   
+Dental                                      0.8                           0.4   
+Radiology                                   0.8                           0.8   
+Gynaecology & Obstetrics                    0.8                           1.0   
+Microbiology                                1.0                           1.0   
+Medicine                                    0.6                           0.6   
+Physiology                                  0.8                           1.0   
+Pharmacology                                0.6                           0.4   
+ENT                                         0.6                           0.8   
+Biochemistry                                0.8                           1.0   
+Skin                                        1.0                           1.0   
+Pathology                                   0.8                           1.0   
+Anatomy                                     0.6                           0.8   
+Psychiatry                                  0.8                           0.6   
+Surgery                                     0.4                           0.6   
+Social & Preventive Medicine                0.6                           0.8   
+Ophthalmology                               0.6                           0.4   
+Orthopaedics                                0.8                           0.8   
+Forensic Medicine                           0.6                           0.6   
+
+                                       groq_mistral-saba-24b  \
+Pediatrics                                      0.8   
+Anaesthesia                                     0.2   
+Dental                                          0.6   
+Radiology                                       0.6   
+Gynaecology & Obstetrics                        0.8   
+Microbiology                                    1.0   
+Medicine                                        0.2   
+Physiology                                      0.6   
+Pharmacology                                    0.4   
+ENT                                             0.8   
+Biochemistry                                    1.0   
+Skin                                            0.6   
+Pathology                                       1.0   
+Anatomy                                         0.6   
+Psychiatry                                      0.4   
+Surgery                                         0.6   
+Social & Preventive Medicine                    0.4   
+Ophthalmology                                   0.6   
+Orthopaedics                                    0.8   
+Forensic Medicine                               1.0   
+
+                              groq_llama-3.1-8b-instant  groq_gemma2-9b-it  
+Pediatrics                                          1.0                0.8  
+Anaesthesia                                         0.6                0.4  
+Dental                                              0.0                0.2  
+Radiology                                           0.4                0.6  
+Gynaecology & Obstetrics                            0.8                0.8  
+Microbiology                                        0.8                1.0  
+Medicine                                            0.6                0.6  
+Physiology                                          0.8                0.6  
+Pharmacology                                        0.4                0.6  
+ENT                                                 0.4                0.6  
+Biochemistry                                        0.8                1.0  
+Skin                                                0.4                0.8  
+Pathology                                           0.6                1.0  
+Anatomy                                             0.6                0.4  
+Psychiatry                                          0.4                0.6  
+Surgery                                             0.6                0.4  
+Social & Preventive Medicine                        0.4                0.4  
+Ophthalmology                                       0.8                0.4  
+Orthopaedics                                        0.8                0.6  
+Forensic Medicine                                   0.8                1.0  
+
+
+
+
+
+Top 5 subjects for azure_gpt-4o-mini:
+Skin (5 questions): 100.00%
+Microbiology (5 questions): 100.00%
+Pediatrics (5 questions): 100.00%
+Orthopaedics (5 questions): 80.00%
+Biochemistry (5 questions): 80.00%
+
+Top 5 subjects for groq_llama-3.3-70b-versatile:
+Pathology (5 questions): 100.00%
+Biochemistry (5 questions): 100.00%
+Skin (5 questions): 100.00%
+Gynaecology & Obstetrics (5 questions): 100.00%
+Physiology (5 questions): 100.00%
+
+Top 5 subjects for groq_mistral-saba-24b:
+Pathology (5 questions): 100.00%
+Biochemistry (5 questions): 100.00%
+Forensic Medicine (5 questions): 100.00%
+Microbiology (5 questions): 100.00%
+Orthopaedics (5 questions): 80.00%
+
+Top 5 subjects for groq_llama-3.1-8b-instant:
+Pediatrics (5 questions): 100.00%
+Orthopaedics (5 questions): 80.00%
+Biochemistry (5 questions): 80.00%
+Physiology (5 questions): 80.00%
+Forensic Medicine (5 questions): 80.00%
+
+Top 5 subjects for groq_gemma2-9b-it:
+Biochemistry (5 questions): 100.00%
+Forensic Medicine (5 questions): 100.00%
+Microbiology (5 questions): 100.00%
+Pathology (5 questions): 100.00%
+Skin (5 questions): 80.00%
+
+
+
+
+=== Medical MCQ Evaluation Summary ===
+Number of questions evaluated: 102
+Questions per subject: 5
+Number of subjects: 21
+
+Model Performance:
+
+azure_gpt-4o-mini:
+  Accuracy: 71.57%
+  Valid responses: 102/102
+
+groq_llama-3.3-70b-versatile:
+  Accuracy: 75.49%
+  Valid responses: 102/102
+
+groq_mistral-saba-24b:
+  Accuracy: 63.73%
+  Valid responses: 101/102
+
+groq_llama-3.1-8b-instant:
+  Accuracy: 59.80%
+  Valid responses: 102/102
+
+groq_gemma2-9b-it:
+  Accuracy: 63.73%
+  Valid responses: 100/102
+
+Best performing model by accuracy: groq_llama-3.3-70b-versatile
+Best performing model by F1 score: groq_llama-3.3-70b-versatile
+
+Number of questions with model disagreement: 55 (53.9% of questions)

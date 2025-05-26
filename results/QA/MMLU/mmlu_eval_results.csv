@@ -1,0 +1,501 @@
+question_id,model_provider,model_name,model_answer,correct_option,correct_answer,is_correct
+0,azure,gpt-4o-mini,A,A,Ductography,True
+1,azure,gpt-4o-mini,D,D,A moon face and a buffalo hump are characteristic of the disease,True
+2,azure,gpt-4o-mini,B,B,The floor,True
+3,azure,gpt-4o-mini,D,D,is attached to the condylar process and protrudes the mandible.,True
+4,azure,gpt-4o-mini,A,A,keratinised and has submucosa and minor salivary glands posterolaterally.,True
+5,azure,gpt-4o-mini,A,D,relative contribution of aerobic metabolism increases.,False
+6,azure,gpt-4o-mini,D,D,Prescribe rifampin,True
+7,azure,gpt-4o-mini,D,D,Provide education for well-baby care,True
+8,azure,gpt-4o-mini,C,C,Using water may cause electrolyte imbalance.,True
+9,azure,gpt-4o-mini,A,B,cricothyroid muscle is still functional but the interarytenoids are weak.,False
+10,azure,gpt-4o-mini,A,B,20 litres per minute of each other.,False
+11,azure,gpt-4o-mini,D,D,"When drugs are withdrawn from a sealed vial, fragments of the rubber bung can be cut out by the needle.",True
+12,azure,gpt-4o-mini,D,B,The outer image is always the false image,False
+13,azure,gpt-4o-mini,B,B,Chvostek sign,True
+14,azure,gpt-4o-mini,B,B,Bartholin's,True
+15,azure,gpt-4o-mini,B,B,2 seconds.,True
+16,azure,gpt-4o-mini,B,B,A pea-sized amount.,True
+17,azure,gpt-4o-mini,B,A,More prominent in expiration,False
+18,azure,gpt-4o-mini,B,B,Expiratory component louder and longer with a gap between inspiration and expiration,True
+19,azure,gpt-4o-mini,D,D,uninhibited neurogenic bladder,True
+20,azure,gpt-4o-mini,A,A,can be carried out by the patient.,True
+21,azure,gpt-4o-mini,D,D,Patients have a beaked shaped nose and waxy skin,True
+22,azure,gpt-4o-mini,D,D,store of calcium ions.,True
+23,azure,gpt-4o-mini,B,B,Fine-needle aspiration of the nodule,True
+24,azure,gpt-4o-mini,D,D,sacral spinal nerves.,True
+25,azure,gpt-4o-mini,B,B,Sweating and vomiting,True
+26,azure,gpt-4o-mini,A,A,Stroke volume × heart rate.,True
+27,azure,gpt-4o-mini,D,D,Intramuscular ceftriaxone and oral doxycycline,True
+28,azure,gpt-4o-mini,D,D,Serotonin,True
+29,azure,gpt-4o-mini,A,A,triplet sequences of nucleotide bases in mRNA or DNA .,True
+30,azure,gpt-4o-mini,B,B,Assess for suicidal ideation,True
+31,azure,gpt-4o-mini,C,C,in the nucleus.,True
+32,azure,gpt-4o-mini,C,C,non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.,True
+33,azure,gpt-4o-mini,D,D,Homeostasis,True
+34,azure,gpt-4o-mini,C,C,Herniorrhaphy should be scheduled at the earliest convenient time,True
+35,azure,gpt-4o-mini,D,D,Non-small cell lung carcinoma,True
+36,azure,gpt-4o-mini,D,D,Vitamin B12 (cyanocobalamin),True
+37,azure,gpt-4o-mini,D,D,"malabsorption of vitamins A, D, E, and K",True
+38,azure,gpt-4o-mini,C,C,Kiesselbach plexus,True
+39,azure,gpt-4o-mini,B,B,One in six over 65s is providing some form of informal care.,True
+40,azure,gpt-4o-mini,B,B,inferior to the thyroid cartilage.,True
+41,azure,gpt-4o-mini,A,B,3-5cm in length.,False
+42,azure,gpt-4o-mini,A,A,Antidiuretic hormone.,True
+43,azure,gpt-4o-mini,D,D,surgical evaluation,True
+44,azure,gpt-4o-mini,C,C,diastole and systole.,True
+45,azure,gpt-4o-mini,B,D,"Movement without resistance, stopping at end of range.",False
+46,azure,gpt-4o-mini,D,C,350,False
+47,azure,gpt-4o-mini,D,D,Left tube thoracostomy,True
+48,azure,gpt-4o-mini,C,C,A raised TSH level,True
+49,azure,gpt-4o-mini,A,A,Confusion following a blackout is strongly suggestive of a fit,True
+50,azure,gpt-4o-mini,D,D,Pituitary,True
+51,azure,gpt-4o-mini,D,D,Incision and drainage,True
+52,azure,gpt-4o-mini,D,D,Spleen,True
+53,azure,gpt-4o-mini,A,A,Alveoli,True
+54,azure,gpt-4o-mini,C,C,The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla,True
+55,azure,gpt-4o-mini,D,D,underestimate the blood pressure.,True
+56,azure,gpt-4o-mini,D,D,Pupil response.,True
+57,azure,gpt-4o-mini,C,C,Minimize ascertainment bias,True
+58,azure,gpt-4o-mini,D,D,Splitting,True
+59,azure,gpt-4o-mini,C,C,Pernicious anemia,True
+60,azure,gpt-4o-mini,D,D,smooth muscle and respiratory epithelium.,True
+61,azure,gpt-4o-mini,C,C,IV administration allows titration of a drug with its desired effect.,True
+62,azure,gpt-4o-mini,A,A,Chronic lymphocytic thyroiditis (Hashimoto disease),True
+63,azure,gpt-4o-mini,B,B,Prostate,True
+64,azure,gpt-4o-mini,D,D,Dopamine and serotonin.,True
+65,azure,gpt-4o-mini,B,B,Cartilage,True
+66,azure,gpt-4o-mini,A,A,2 from glucose and 3 from glycogen.,True
+67,azure,gpt-4o-mini,C,C,Anaemia is a common finding,True
+68,azure,gpt-4o-mini,C,C,12 weeks.,True
+69,azure,gpt-4o-mini,A,A,1 mg/mL,True
+70,azure,gpt-4o-mini,D,D,Prostate biopsies of men with test results equal to or below 5 ng/mL,True
+71,azure,gpt-4o-mini,A,A,Diffuse interstitial fibrosis,True
+72,azure,gpt-4o-mini,B,B,Transient lactase deficiency,True
+73,azure,gpt-4o-mini,D,D,All of the above,True
+74,azure,gpt-4o-mini,B,B,The ability to draw shapes.,True
+75,azure,gpt-4o-mini,A,A,Left lateral pterygoid muscle,True
+76,azure,gpt-4o-mini,A,B,anterior and lateral to medial pterygoid.,False
+77,azure,gpt-4o-mini,D,D,increased sympathetic nerve activity.,True
+78,azure,gpt-4o-mini,C,C,Liver,True
+79,azure,gpt-4o-mini,A,D,Ventilator-associated pneumonia.,False
+80,azure,gpt-4o-mini,B,B,Epiglottis,True
+81,azure,gpt-4o-mini,C,C,"The presence of jaundice, spider naevi and purpura suggest alcohol as a cause",True
+82,azure,gpt-4o-mini,C,C,An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion,True
+83,azure,gpt-4o-mini,B,B,anaerobic energy production.,True
+84,azure,gpt-4o-mini,D,B,"Grip, percussion, sensory.",False
+85,azure,gpt-4o-mini,B,D,The second and third pharyngeal arches,False
+86,azure,gpt-4o-mini,A,A,facial artery crosses the mandible.,True
+87,azure,gpt-4o-mini,A,A,increased when intracellular ADP rises.,True
+88,azure,gpt-4o-mini,C,C,Previous tuberculosis of the right upper lobe,True
+89,azure,gpt-4o-mini,A,A,sweat glands.,True
+90,azure,gpt-4o-mini,D,D,Streptococcus pneumoniae,True
+91,azure,gpt-4o-mini,B,B,The muscles of mastication and anterior belly of digastric,True
+92,azure,gpt-4o-mini,D,D,Persistence of a patent processus vaginalis,True
+93,azure,gpt-4o-mini,A,A,Inactivation of cellular p53,True
+94,azure,gpt-4o-mini,B,B,the capsule and ligaments of the TMJ and the lateral pterygoid muscle.,True
+95,azure,gpt-4o-mini,C,C,"The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",True
+96,azure,gpt-4o-mini,A,A,adjustment disorder with anxious mood,True
+97,azure,gpt-4o-mini,A,A,Dermatomyositis,True
+98,azure,gpt-4o-mini,A,C,ten weeks post-fertilization.,False
+99,azure,gpt-4o-mini,C,C,return it to the blood bank and inform them of why you have done so.,True
+0,groq,llama-3.3-70b-versatile,A,A,Ductography,True
+1,groq,llama-3.3-70b-versatile,D,D,A moon face and a buffalo hump are characteristic of the disease,True
+2,groq,llama-3.3-70b-versatile,B,B,The floor,True
+3,groq,llama-3.3-70b-versatile,C,D,is attached to the condylar process and protrudes the mandible.,False
+4,groq,llama-3.3-70b-versatile,A,A,keratinised and has submucosa and minor salivary glands posterolaterally.,True
+5,groq,llama-3.3-70b-versatile,D,D,relative contribution of aerobic metabolism increases.,True
+6,groq,llama-3.3-70b-versatile,D,D,Prescribe rifampin,True
+7,groq,llama-3.3-70b-versatile,D,D,Provide education for well-baby care,True
+8,groq,llama-3.3-70b-versatile,C,C,Using water may cause electrolyte imbalance.,True
+9,groq,llama-3.3-70b-versatile,B,B,cricothyroid muscle is still functional but the interarytenoids are weak.,True
+10,groq,llama-3.3-70b-versatile,B,B,20 litres per minute of each other.,True
+11,groq,llama-3.3-70b-versatile,D,D,"When drugs are withdrawn from a sealed vial, fragments of the rubber bung can be cut out by the needle.",True
+12,groq,llama-3.3-70b-versatile,D,B,The outer image is always the false image,False
+13,groq,llama-3.3-70b-versatile,B,B,Chvostek sign,True
+14,groq,llama-3.3-70b-versatile,B,B,Bartholin's,True
+15,groq,llama-3.3-70b-versatile,C,B,2 seconds.,False
+16,groq,llama-3.3-70b-versatile,B,B,A pea-sized amount.,True
+17,groq,llama-3.3-70b-versatile,B,A,More prominent in expiration,False
+18,groq,llama-3.3-70b-versatile,A,B,Expiratory component louder and longer with a gap between inspiration and expiration,False
+19,groq,llama-3.3-70b-versatile,D,D,uninhibited neurogenic bladder,True
+20,groq,llama-3.3-70b-versatile,A,A,can be carried out by the patient.,True
+21,groq,llama-3.3-70b-versatile,C,D,Patients have a beaked shaped nose and waxy skin,False
+22,groq,llama-3.3-70b-versatile,D,D,store of calcium ions.,True
+23,groq,llama-3.3-70b-versatile,B,B,Fine-needle aspiration of the nodule,True
+24,groq,llama-3.3-70b-versatile,D,D,sacral spinal nerves.,True
+25,groq,llama-3.3-70b-versatile,B,B,Sweating and vomiting,True
+26,groq,llama-3.3-70b-versatile,A,A,Stroke volume × heart rate.,True
+27,groq,llama-3.3-70b-versatile,D,D,Intramuscular ceftriaxone and oral doxycycline,True
+28,groq,llama-3.3-70b-versatile,D,D,Serotonin,True
+29,groq,llama-3.3-70b-versatile,A,A,triplet sequences of nucleotide bases in mRNA or DNA .,True
+30,groq,llama-3.3-70b-versatile,B,B,Assess for suicidal ideation,True
+31,groq,llama-3.3-70b-versatile,C,C,in the nucleus.,True
+32,groq,llama-3.3-70b-versatile,C,C,non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.,True
+33,groq,llama-3.3-70b-versatile,D,D,Homeostasis,True
+34,groq,llama-3.3-70b-versatile,C,C,Herniorrhaphy should be scheduled at the earliest convenient time,True
+35,groq,llama-3.3-70b-versatile,D,D,Non-small cell lung carcinoma,True
+36,groq,llama-3.3-70b-versatile,D,D,Vitamin B12 (cyanocobalamin),True
+37,groq,llama-3.3-70b-versatile,D,D,"malabsorption of vitamins A, D, E, and K",True
+38,groq,llama-3.3-70b-versatile,C,C,Kiesselbach plexus,True
+39,groq,llama-3.3-70b-versatile,B,B,One in six over 65s is providing some form of informal care.,True
+40,groq,llama-3.3-70b-versatile,D,B,inferior to the thyroid cartilage.,False
+41,groq,llama-3.3-70b-versatile,A,B,3-5cm in length.,False
+42,groq,llama-3.3-70b-versatile,A,A,Antidiuretic hormone.,True
+43,groq,llama-3.3-70b-versatile,D,D,surgical evaluation,True
+44,groq,llama-3.3-70b-versatile,C,C,diastole and systole.,True
+45,groq,llama-3.3-70b-versatile,B,D,"Movement without resistance, stopping at end of range.",False
+46,groq,llama-3.3-70b-versatile,D,C,350,False
+47,groq,llama-3.3-70b-versatile,D,D,Left tube thoracostomy,True
+48,groq,llama-3.3-70b-versatile,C,C,A raised TSH level,True
+49,groq,llama-3.3-70b-versatile,A,A,Confusion following a blackout is strongly suggestive of a fit,True
+50,groq,llama-3.3-70b-versatile,D,D,Pituitary,True
+51,groq,llama-3.3-70b-versatile,D,D,Incision and drainage,True
+52,groq,llama-3.3-70b-versatile,D,D,Spleen,True
+53,groq,llama-3.3-70b-versatile,A,A,Alveoli,True
+54,groq,llama-3.3-70b-versatile,C,C,The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla,True
+55,groq,llama-3.3-70b-versatile,D,D,underestimate the blood pressure.,True
+56,groq,llama-3.3-70b-versatile,D,D,Pupil response.,True
+57,groq,llama-3.3-70b-versatile,C,C,Minimize ascertainment bias,True
+58,groq,llama-3.3-70b-versatile,D,D,Splitting,True
+59,groq,llama-3.3-70b-versatile,C,C,Pernicious anemia,True
+60,groq,llama-3.3-70b-versatile,D,D,smooth muscle and respiratory epithelium.,True
+61,groq,llama-3.3-70b-versatile,C,C,IV administration allows titration of a drug with its desired effect.,True
+62,groq,llama-3.3-70b-versatile,A,A,Chronic lymphocytic thyroiditis (Hashimoto disease),True
+63,groq,llama-3.3-70b-versatile,B,B,Prostate,True
+64,groq,llama-3.3-70b-versatile,D,D,Dopamine and serotonin.,True
+65,groq,llama-3.3-70b-versatile,B,B,Cartilage,True
+66,groq,llama-3.3-70b-versatile,B,A,2 from glucose and 3 from glycogen.,False
+67,groq,llama-3.3-70b-versatile,C,C,Anaemia is a common finding,True
+68,groq,llama-3.3-70b-versatile,C,C,12 weeks.,True
+69,groq,llama-3.3-70b-versatile,A,A,1 mg/mL,True
+70,groq,llama-3.3-70b-versatile,D,D,Prostate biopsies of men with test results equal to or below 5 ng/mL,True
+71,groq,llama-3.3-70b-versatile,A,A,Diffuse interstitial fibrosis,True
+72,groq,llama-3.3-70b-versatile,B,B,Transient lactase deficiency,True
+73,groq,llama-3.3-70b-versatile,D,D,All of the above,True
+74,groq,llama-3.3-70b-versatile,C,B,The ability to draw shapes.,False
+75,groq,llama-3.3-70b-versatile,A,A,Left lateral pterygoid muscle,True
+76,groq,llama-3.3-70b-versatile,A,B,anterior and lateral to medial pterygoid.,False
+77,groq,llama-3.3-70b-versatile,D,D,increased sympathetic nerve activity.,True
+78,groq,llama-3.3-70b-versatile,C,C,Liver,True
+79,groq,llama-3.3-70b-versatile,B,D,Ventilator-associated pneumonia.,False
+80,groq,llama-3.3-70b-versatile,B,B,Epiglottis,True
+81,groq,llama-3.3-70b-versatile,C,C,"The presence of jaundice, spider naevi and purpura suggest alcohol as a cause",True
+82,groq,llama-3.3-70b-versatile,C,C,An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion,True
+83,groq,llama-3.3-70b-versatile,B,B,anaerobic energy production.,True
+84,groq,llama-3.3-70b-versatile,D,B,"Grip, percussion, sensory.",False
+85,groq,llama-3.3-70b-versatile,D,D,The second and third pharyngeal arches,True
+86,groq,llama-3.3-70b-versatile,A,A,facial artery crosses the mandible.,True
+87,groq,llama-3.3-70b-versatile,A,A,increased when intracellular ADP rises.,True
+88,groq,llama-3.3-70b-versatile,C,C,Previous tuberculosis of the right upper lobe,True
+89,groq,llama-3.3-70b-versatile,A,A,sweat glands.,True
+90,groq,llama-3.3-70b-versatile,D,D,Streptococcus pneumoniae,True
+91,groq,llama-3.3-70b-versatile,B,B,The muscles of mastication and anterior belly of digastric,True
+92,groq,llama-3.3-70b-versatile,D,D,Persistence of a patent processus vaginalis,True
+93,groq,llama-3.3-70b-versatile,A,A,Inactivation of cellular p53,True
+94,groq,llama-3.3-70b-versatile,A,B,the capsule and ligaments of the TMJ and the lateral pterygoid muscle.,False
+95,groq,llama-3.3-70b-versatile,C,C,"The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",True
+96,groq,llama-3.3-70b-versatile,A,A,adjustment disorder with anxious mood,True
+97,groq,llama-3.3-70b-versatile,A,A,Dermatomyositis,True
+98,groq,llama-3.3-70b-versatile,A,C,ten weeks post-fertilization.,False
+99,groq,llama-3.3-70b-versatile,C,C,return it to the blood bank and inform them of why you have done so.,True
+0,groq,mistral-saba-24b,A,A,Ductography,True
+1,groq,mistral-saba-24b,D,D,A moon face and a buffalo hump are characteristic of the disease,True
+2,groq,mistral-saba-24b,B,B,The floor,True
+3,groq,mistral-saba-24b,D,D,is attached to the condylar process and protrudes the mandible.,True
+4,groq,mistral-saba-24b,A,A,keratinised and has submucosa and minor salivary glands posterolaterally.,True
+5,groq,mistral-saba-24b,A,D,relative contribution of aerobic metabolism increases.,False
+6,groq,mistral-saba-24b,A,D,Prescribe rifampin,False
+7,groq,mistral-saba-24b,D,D,Provide education for well-baby care,True
+8,groq,mistral-saba-24b,C,C,Using water may cause electrolyte imbalance.,True
+9,groq,mistral-saba-24b,B,B,cricothyroid muscle is still functional but the interarytenoids are weak.,True
+10,groq,mistral-saba-24b,B,B,20 litres per minute of each other.,True
+11,groq,mistral-saba-24b,D,D,"When drugs are withdrawn from a sealed vial, fragments of the rubber bung can be cut out by the needle.",True
+12,groq,mistral-saba-24b,C,B,The outer image is always the false image,False
+13,groq,mistral-saba-24b,B,B,Chvostek sign,True
+14,groq,mistral-saba-24b,B,B,Bartholin's,True
+15,groq,mistral-saba-24b,C,B,2 seconds.,False
+16,groq,mistral-saba-24b,B,B,A pea-sized amount.,True
+17,groq,mistral-saba-24b,A,A,More prominent in expiration,True
+18,groq,mistral-saba-24b,C,B,Expiratory component louder and longer with a gap between inspiration and expiration,False
+19,groq,mistral-saba-24b,C,D,uninhibited neurogenic bladder,False
+20,groq,mistral-saba-24b,A,A,can be carried out by the patient.,True
+21,groq,mistral-saba-24b,D,D,Patients have a beaked shaped nose and waxy skin,True
+22,groq,mistral-saba-24b,D,D,store of calcium ions.,True
+23,groq,mistral-saba-24b,B,B,Fine-needle aspiration of the nodule,True
+24,groq,mistral-saba-24b,D,D,sacral spinal nerves.,True
+25,groq,mistral-saba-24b,B,B,Sweating and vomiting,True
+26,groq,mistral-saba-24b,A,A,Stroke volume × heart rate.,True
+27,groq,mistral-saba-24b,D,D,Intramuscular ceftriaxone and oral doxycycline,True
+28,groq,mistral-saba-24b,D,D,Serotonin,True
+29,groq,mistral-saba-24b,A,A,triplet sequences of nucleotide bases in mRNA or DNA .,True
+30,groq,mistral-saba-24b,B,B,Assess for suicidal ideation,True
+31,groq,mistral-saba-24b,C,C,in the nucleus.,True
+32,groq,mistral-saba-24b,C,C,non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.,True
+33,groq,mistral-saba-24b,D,D,Homeostasis,True
+34,groq,mistral-saba-24b,C,C,Herniorrhaphy should be scheduled at the earliest convenient time,True
+35,groq,mistral-saba-24b,D,D,Non-small cell lung carcinoma,True
+36,groq,mistral-saba-24b,D,D,Vitamin B12 (cyanocobalamin),True
+37,groq,mistral-saba-24b,A,D,"malabsorption of vitamins A, D, E, and K",False
+38,groq,mistral-saba-24b,C,C,Kiesselbach plexus,True
+39,groq,mistral-saba-24b,B,B,One in six over 65s is providing some form of informal care.,True
+40,groq,mistral-saba-24b,C,B,inferior to the thyroid cartilage.,False
+41,groq,mistral-saba-24b,C,B,3-5cm in length.,False
+42,groq,mistral-saba-24b,A,A,Antidiuretic hormone.,True
+43,groq,mistral-saba-24b,D,D,surgical evaluation,True
+44,groq,mistral-saba-24b,C,C,diastole and systole.,True
+45,groq,mistral-saba-24b,D,D,"Movement without resistance, stopping at end of range.",True
+46,groq,mistral-saba-24b,C,C,350,True
+47,groq,mistral-saba-24b,D,D,Left tube thoracostomy,True
+48,groq,mistral-saba-24b,C,C,A raised TSH level,True
+49,groq,mistral-saba-24b,A,A,Confusion following a blackout is strongly suggestive of a fit,True
+50,groq,mistral-saba-24b,D,D,Pituitary,True
+51,groq,mistral-saba-24b,D,D,Incision and drainage,True
+52,groq,mistral-saba-24b,D,D,Spleen,True
+53,groq,mistral-saba-24b,A,A,Alveoli,True
+54,groq,mistral-saba-24b,C,C,The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla,True
+55,groq,mistral-saba-24b,D,D,underestimate the blood pressure.,True
+56,groq,mistral-saba-24b,D,D,Pupil response.,True
+57,groq,mistral-saba-24b,C,C,Minimize ascertainment bias,True
+58,groq,mistral-saba-24b,B,D,Splitting,False
+59,groq,mistral-saba-24b,C,C,Pernicious anemia,True
+60,groq,mistral-saba-24b,D,D,smooth muscle and respiratory epithelium.,True
+61,groq,mistral-saba-24b,C,C,IV administration allows titration of a drug with its desired effect.,True
+62,groq,mistral-saba-24b,A,A,Chronic lymphocytic thyroiditis (Hashimoto disease),True
+63,groq,mistral-saba-24b,B,B,Prostate,True
+64,groq,mistral-saba-24b,D,D,Dopamine and serotonin.,True
+65,groq,mistral-saba-24b,B,B,Cartilage,True
+66,groq,mistral-saba-24b,D,A,2 from glucose and 3 from glycogen.,False
+67,groq,mistral-saba-24b,C,C,Anaemia is a common finding,True
+68,groq,mistral-saba-24b,C,C,12 weeks.,True
+69,groq,mistral-saba-24b,D,A,1 mg/mL,False
+70,groq,mistral-saba-24b,B,D,Prostate biopsies of men with test results equal to or below 5 ng/mL,False
+71,groq,mistral-saba-24b,A,A,Diffuse interstitial fibrosis,True
+72,groq,mistral-saba-24b,B,B,Transient lactase deficiency,True
+73,groq,mistral-saba-24b,D,D,All of the above,True
+74,groq,mistral-saba-24b,B,B,The ability to draw shapes.,True
+75,groq,mistral-saba-24b,B,A,Left lateral pterygoid muscle,False
+76,groq,mistral-saba-24b,A,B,anterior and lateral to medial pterygoid.,False
+77,groq,mistral-saba-24b,D,D,increased sympathetic nerve activity.,True
+78,groq,mistral-saba-24b,C,C,Liver,True
+79,groq,mistral-saba-24b,A,D,Ventilator-associated pneumonia.,False
+80,groq,mistral-saba-24b,B,B,Epiglottis,True
+81,groq,mistral-saba-24b,C,C,"The presence of jaundice, spider naevi and purpura suggest alcohol as a cause",True
+82,groq,mistral-saba-24b,C,C,An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion,True
+83,groq,mistral-saba-24b,B,B,anaerobic energy production.,True
+84,groq,mistral-saba-24b,D,B,"Grip, percussion, sensory.",False
+85,groq,mistral-saba-24b,C,D,The second and third pharyngeal arches,False
+86,groq,mistral-saba-24b,C,A,facial artery crosses the mandible.,False
+87,groq,mistral-saba-24b,A,A,increased when intracellular ADP rises.,True
+88,groq,mistral-saba-24b,C,C,Previous tuberculosis of the right upper lobe,True
+89,groq,mistral-saba-24b,A,A,sweat glands.,True
+90,groq,mistral-saba-24b,D,D,Streptococcus pneumoniae,True
+91,groq,mistral-saba-24b,C,B,The muscles of mastication and anterior belly of digastric,False
+92,groq,mistral-saba-24b,D,D,Persistence of a patent processus vaginalis,True
+93,groq,mistral-saba-24b,B,A,Inactivation of cellular p53,False
+94,groq,mistral-saba-24b,B,B,the capsule and ligaments of the TMJ and the lateral pterygoid muscle.,True
+95,groq,mistral-saba-24b,C,C,"The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",True
+96,groq,mistral-saba-24b,A,A,adjustment disorder with anxious mood,True
+97,groq,mistral-saba-24b,A,A,Dermatomyositis,True
+98,groq,mistral-saba-24b,B,C,ten weeks post-fertilization.,False
+99,groq,mistral-saba-24b,C,C,return it to the blood bank and inform them of why you have done so.,True
+0,groq,llama-3.1-8b-instant,A,A,Ductography,True
+1,groq,llama-3.1-8b-instant,D,D,A moon face and a buffalo hump are characteristic of the disease,True
+2,groq,llama-3.1-8b-instant,B,B,The floor,True
+3,groq,llama-3.1-8b-instant,C,D,is attached to the condylar process and protrudes the mandible.,False
+4,groq,llama-3.1-8b-instant,A,A,keratinised and has submucosa and minor salivary glands posterolaterally.,True
+5,groq,llama-3.1-8b-instant,A,D,relative contribution of aerobic metabolism increases.,False
+6,groq,llama-3.1-8b-instant,D,D,Prescribe rifampin,True
+7,groq,llama-3.1-8b-instant,B,D,Provide education for well-baby care,False
+8,groq,llama-3.1-8b-instant,A,C,Using water may cause electrolyte imbalance.,False
+9,groq,llama-3.1-8b-instant,A,B,cricothyroid muscle is still functional but the interarytenoids are weak.,False
+10,groq,llama-3.1-8b-instant,A,B,20 litres per minute of each other.,False
+11,groq,llama-3.1-8b-instant,D,D,"When drugs are withdrawn from a sealed vial, fragments of the rubber bung can be cut out by the needle.",True
+12,groq,llama-3.1-8b-instant,D,B,The outer image is always the false image,False
+13,groq,llama-3.1-8b-instant,B,B,Chvostek sign,True
+14,groq,llama-3.1-8b-instant,B,B,Bartholin's,True
+15,groq,llama-3.1-8b-instant,C,B,2 seconds.,False
+16,groq,llama-3.1-8b-instant,B,B,A pea-sized amount.,True
+17,groq,llama-3.1-8b-instant,B,A,More prominent in expiration,False
+18,groq,llama-3.1-8b-instant,C,B,Expiratory component louder and longer with a gap between inspiration and expiration,False
+19,groq,llama-3.1-8b-instant,D,D,uninhibited neurogenic bladder,True
+20,groq,llama-3.1-8b-instant,A,A,can be carried out by the patient.,True
+21,groq,llama-3.1-8b-instant,C,D,Patients have a beaked shaped nose and waxy skin,False
+22,groq,llama-3.1-8b-instant,D,D,store of calcium ions.,True
+23,groq,llama-3.1-8b-instant,B,B,Fine-needle aspiration of the nodule,True
+24,groq,llama-3.1-8b-instant,D,D,sacral spinal nerves.,True
+25,groq,llama-3.1-8b-instant,A,B,Sweating and vomiting,False
+26,groq,llama-3.1-8b-instant,A,A,Stroke volume × heart rate.,True
+27,groq,llama-3.1-8b-instant,D,D,Intramuscular ceftriaxone and oral doxycycline,True
+28,groq,llama-3.1-8b-instant,D,D,Serotonin,True
+29,groq,llama-3.1-8b-instant,A,A,triplet sequences of nucleotide bases in mRNA or DNA .,True
+30,groq,llama-3.1-8b-instant,B,B,Assess for suicidal ideation,True
+31,groq,llama-3.1-8b-instant,C,C,in the nucleus.,True
+32,groq,llama-3.1-8b-instant,C,C,non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.,True
+33,groq,llama-3.1-8b-instant,D,D,Homeostasis,True
+34,groq,llama-3.1-8b-instant,C,C,Herniorrhaphy should be scheduled at the earliest convenient time,True
+35,groq,llama-3.1-8b-instant,D,D,Non-small cell lung carcinoma,True
+36,groq,llama-3.1-8b-instant,D,D,Vitamin B12 (cyanocobalamin),True
+37,groq,llama-3.1-8b-instant,D,D,"malabsorption of vitamins A, D, E, and K",True
+38,groq,llama-3.1-8b-instant,C,C,Kiesselbach plexus,True
+39,groq,llama-3.1-8b-instant,B,B,One in six over 65s is providing some form of informal care.,True
+40,groq,llama-3.1-8b-instant,B,B,inferior to the thyroid cartilage.,True
+41,groq,llama-3.1-8b-instant,A,B,3-5cm in length.,False
+42,groq,llama-3.1-8b-instant,A,A,Antidiuretic hormone.,True
+43,groq,llama-3.1-8b-instant,D,D,surgical evaluation,True
+44,groq,llama-3.1-8b-instant,B,C,diastole and systole.,False
+45,groq,llama-3.1-8b-instant,D,D,"Movement without resistance, stopping at end of range.",True
+46,groq,llama-3.1-8b-instant,B,C,350,False
+47,groq,llama-3.1-8b-instant,D,D,Left tube thoracostomy,True
+48,groq,llama-3.1-8b-instant,C,C,A raised TSH level,True
+49,groq,llama-3.1-8b-instant,B,A,Confusion following a blackout is strongly suggestive of a fit,False
+50,groq,llama-3.1-8b-instant,D,D,Pituitary,True
+51,groq,llama-3.1-8b-instant,C,D,Incision and drainage,False
+52,groq,llama-3.1-8b-instant,D,D,Spleen,True
+53,groq,llama-3.1-8b-instant,A,A,Alveoli,True
+54,groq,llama-3.1-8b-instant,C,C,The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla,True
+55,groq,llama-3.1-8b-instant,D,D,underestimate the blood pressure.,True
+56,groq,llama-3.1-8b-instant,D,D,Pupil response.,True
+57,groq,llama-3.1-8b-instant,C,C,Minimize ascertainment bias,True
+58,groq,llama-3.1-8b-instant,D,D,Splitting,True
+59,groq,llama-3.1-8b-instant,C,C,Pernicious anemia,True
+60,groq,llama-3.1-8b-instant,A,D,smooth muscle and respiratory epithelium.,False
+61,groq,llama-3.1-8b-instant,C,C,IV administration allows titration of a drug with its desired effect.,True
+62,groq,llama-3.1-8b-instant,A,A,Chronic lymphocytic thyroiditis (Hashimoto disease),True
+63,groq,llama-3.1-8b-instant,B,B,Prostate,True
+64,groq,llama-3.1-8b-instant,A,D,Dopamine and serotonin.,False
+65,groq,llama-3.1-8b-instant,B,B,Cartilage,True
+66,groq,llama-3.1-8b-instant,B,A,2 from glucose and 3 from glycogen.,False
+67,groq,llama-3.1-8b-instant,C,C,Anaemia is a common finding,True
+68,groq,llama-3.1-8b-instant,C,C,12 weeks.,True
+69,groq,llama-3.1-8b-instant,A,A,1 mg/mL,True
+70,groq,llama-3.1-8b-instant,D,D,Prostate biopsies of men with test results equal to or below 5 ng/mL,True
+71,groq,llama-3.1-8b-instant,A,A,Diffuse interstitial fibrosis,True
+72,groq,llama-3.1-8b-instant,B,B,Transient lactase deficiency,True
+73,groq,llama-3.1-8b-instant,D,D,All of the above,True
+74,groq,llama-3.1-8b-instant,B,B,The ability to draw shapes.,True
+75,groq,llama-3.1-8b-instant,B,A,Left lateral pterygoid muscle,False
+76,groq,llama-3.1-8b-instant,B,B,anterior and lateral to medial pterygoid.,True
+77,groq,llama-3.1-8b-instant,D,D,increased sympathetic nerve activity.,True
+78,groq,llama-3.1-8b-instant,C,C,Liver,True
+79,groq,llama-3.1-8b-instant,A,D,Ventilator-associated pneumonia.,False
+80,groq,llama-3.1-8b-instant,B,B,Epiglottis,True
+81,groq,llama-3.1-8b-instant,C,C,"The presence of jaundice, spider naevi and purpura suggest alcohol as a cause",True
+82,groq,llama-3.1-8b-instant,C,C,An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion,True
+83,groq,llama-3.1-8b-instant,B,B,anaerobic energy production.,True
+84,groq,llama-3.1-8b-instant,D,B,"Grip, percussion, sensory.",False
+85,groq,llama-3.1-8b-instant,B,D,The second and third pharyngeal arches,False
+86,groq,llama-3.1-8b-instant,A,A,facial artery crosses the mandible.,True
+87,groq,llama-3.1-8b-instant,A,A,increased when intracellular ADP rises.,True
+88,groq,llama-3.1-8b-instant,A,C,Previous tuberculosis of the right upper lobe,False
+89,groq,llama-3.1-8b-instant,A,A,sweat glands.,True
+90,groq,llama-3.1-8b-instant,D,D,Streptococcus pneumoniae,True
+91,groq,llama-3.1-8b-instant,C,B,The muscles of mastication and anterior belly of digastric,False
+92,groq,llama-3.1-8b-instant,D,D,Persistence of a patent processus vaginalis,True
+93,groq,llama-3.1-8b-instant,A,A,Inactivation of cellular p53,True
+94,groq,llama-3.1-8b-instant,A,B,the capsule and ligaments of the TMJ and the lateral pterygoid muscle.,False
+95,groq,llama-3.1-8b-instant,C,C,"The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",True
+96,groq,llama-3.1-8b-instant,A,A,adjustment disorder with anxious mood,True
+97,groq,llama-3.1-8b-instant,A,A,Dermatomyositis,True
+98,groq,llama-3.1-8b-instant,B,C,ten weeks post-fertilization.,False
+99,groq,llama-3.1-8b-instant,C,C,return it to the blood bank and inform them of why you have done so.,True
+0,groq,gemma2-9b-it,A,A,Ductography,True
+1,groq,gemma2-9b-it,D,D,A moon face and a buffalo hump are characteristic of the disease,True
+2,groq,gemma2-9b-it,B,B,The floor,True
+3,groq,gemma2-9b-it,C,D,is attached to the condylar process and protrudes the mandible.,False
+4,groq,gemma2-9b-it,A,A,keratinised and has submucosa and minor salivary glands posterolaterally.,True
+5,groq,gemma2-9b-it,A,D,relative contribution of aerobic metabolism increases.,False
+6,groq,gemma2-9b-it,D,D,Prescribe rifampin,True
+7,groq,gemma2-9b-it,B,D,Provide education for well-baby care,False
+8,groq,gemma2-9b-it,C,C,Using water may cause electrolyte imbalance.,True
+9,groq,gemma2-9b-it,B,B,cricothyroid muscle is still functional but the interarytenoids are weak.,True
+10,groq,gemma2-9b-it,A,B,20 litres per minute of each other.,False
+11,groq,gemma2-9b-it,D,D,"When drugs are withdrawn from a sealed vial, fragments of the rubber bung can be cut out by the needle.",True
+12,groq,gemma2-9b-it,D,B,The outer image is always the false image,False
+13,groq,gemma2-9b-it,B,B,Chvostek sign,True
+14,groq,gemma2-9b-it,B,B,Bartholin's,True
+15,groq,gemma2-9b-it,B,B,2 seconds.,True
+16,groq,gemma2-9b-it,B,B,A pea-sized amount.,True
+17,groq,gemma2-9b-it,B,A,More prominent in expiration,False
+18,groq,gemma2-9b-it,B,B,Expiratory component louder and longer with a gap between inspiration and expiration,True
+19,groq,gemma2-9b-it,A,D,uninhibited neurogenic bladder,False
+20,groq,gemma2-9b-it,A,A,can be carried out by the patient.,True
+21,groq,gemma2-9b-it,D,D,Patients have a beaked shaped nose and waxy skin,True
+22,groq,gemma2-9b-it,D,D,store of calcium ions.,True
+23,groq,gemma2-9b-it,B,B,Fine-needle aspiration of the nodule,True
+24,groq,gemma2-9b-it,D,D,sacral spinal nerves.,True
+25,groq,gemma2-9b-it,B,B,Sweating and vomiting,True
+26,groq,gemma2-9b-it,A,A,Stroke volume × heart rate.,True
+27,groq,gemma2-9b-it,D,D,Intramuscular ceftriaxone and oral doxycycline,True
+28,groq,gemma2-9b-it,D,D,Serotonin,True
+29,groq,gemma2-9b-it,A,A,triplet sequences of nucleotide bases in mRNA or DNA .,True
+30,groq,gemma2-9b-it,B,B,Assess for suicidal ideation,True
+31,groq,gemma2-9b-it,C,C,in the nucleus.,True
+32,groq,gemma2-9b-it,C,C,non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones.,True
+33,groq,gemma2-9b-it,D,D,Homeostasis,True
+34,groq,gemma2-9b-it,A,C,Herniorrhaphy should be scheduled at the earliest convenient time,False
+35,groq,gemma2-9b-it,D,D,Non-small cell lung carcinoma,True
+36,groq,gemma2-9b-it,D,D,Vitamin B12 (cyanocobalamin),True
+37,groq,gemma2-9b-it,D,D,"malabsorption of vitamins A, D, E, and K",True
+38,groq,gemma2-9b-it,C,C,Kiesselbach plexus,True
+39,groq,gemma2-9b-it,B,B,One in six over 65s is providing some form of informal care.,True
+40,groq,gemma2-9b-it,C,B,inferior to the thyroid cartilage.,False
+41,groq,gemma2-9b-it,A,B,3-5cm in length.,False
+42,groq,gemma2-9b-it,A,A,Antidiuretic hormone.,True
+43,groq,gemma2-9b-it,D,D,surgical evaluation,True
+44,groq,gemma2-9b-it,C,C,diastole and systole.,True
+45,groq,gemma2-9b-it,D,D,"Movement without resistance, stopping at end of range.",True
+46,groq,gemma2-9b-it,C,C,350,True
+47,groq,gemma2-9b-it,C,D,Left tube thoracostomy,False
+48,groq,gemma2-9b-it,C,C,A raised TSH level,True
+49,groq,gemma2-9b-it,B,A,Confusion following a blackout is strongly suggestive of a fit,False
+50,groq,gemma2-9b-it,D,D,Pituitary,True
+51,groq,gemma2-9b-it,D,D,Incision and drainage,True
+52,groq,gemma2-9b-it,D,D,Spleen,True
+53,groq,gemma2-9b-it,A,A,Alveoli,True
+54,groq,gemma2-9b-it,C,C,The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla,True
+55,groq,gemma2-9b-it,D,D,underestimate the blood pressure.,True
+56,groq,gemma2-9b-it,D,D,Pupil response.,True
+57,groq,gemma2-9b-it,C,C,Minimize ascertainment bias,True
+58,groq,gemma2-9b-it,D,D,Splitting,True
+59,groq,gemma2-9b-it,C,C,Pernicious anemia,True
+60,groq,gemma2-9b-it,D,D,smooth muscle and respiratory epithelium.,True
+61,groq,gemma2-9b-it,C,C,IV administration allows titration of a drug with its desired effect.,True
+62,groq,gemma2-9b-it,A,A,Chronic lymphocytic thyroiditis (Hashimoto disease),True
+63,groq,gemma2-9b-it,B,B,Prostate,True
+64,groq,gemma2-9b-it,D,D,Dopamine and serotonin.,True
+65,groq,gemma2-9b-it,B,B,Cartilage,True
+66,groq,gemma2-9b-it,A,A,2 from glucose and 3 from glycogen.,True
+67,groq,gemma2-9b-it,C,C,Anaemia is a common finding,True
+68,groq,gemma2-9b-it,D,C,12 weeks.,False
+69,groq,gemma2-9b-it,D,A,1 mg/mL,False
+70,groq,gemma2-9b-it,B,D,Prostate biopsies of men with test results equal to or below 5 ng/mL,False
+71,groq,gemma2-9b-it,A,A,Diffuse interstitial fibrosis,True
+72,groq,gemma2-9b-it,B,B,Transient lactase deficiency,True
+73,groq,gemma2-9b-it,C,D,All of the above,False
+74,groq,gemma2-9b-it,B,B,The ability to draw shapes.,True
+75,groq,gemma2-9b-it,A,A,Left lateral pterygoid muscle,True
+76,groq,gemma2-9b-it,A,B,anterior and lateral to medial pterygoid.,False
+77,groq,gemma2-9b-it,D,D,increased sympathetic nerve activity.,True
+78,groq,gemma2-9b-it,C,C,Liver,True
+79,groq,gemma2-9b-it,A,D,Ventilator-associated pneumonia.,False
+80,groq,gemma2-9b-it,B,B,Epiglottis,True
+81,groq,gemma2-9b-it,C,C,"The presence of jaundice, spider naevi and purpura suggest alcohol as a cause",True
+82,groq,gemma2-9b-it,C,C,An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion,True
+83,groq,gemma2-9b-it,B,B,anaerobic energy production.,True
+84,groq,gemma2-9b-it,D,B,"Grip, percussion, sensory.",False
+85,groq,gemma2-9b-it,C,D,The second and third pharyngeal arches,False
+86,groq,gemma2-9b-it,D,A,facial artery crosses the mandible.,False
+87,groq,gemma2-9b-it,A,A,increased when intracellular ADP rises.,True
+88,groq,gemma2-9b-it,C,C,Previous tuberculosis of the right upper lobe,True
+89,groq,gemma2-9b-it,A,A,sweat glands.,True
+90,groq,gemma2-9b-it,D,D,Streptococcus pneumoniae,True
+91,groq,gemma2-9b-it,C,B,The muscles of mastication and anterior belly of digastric,False
+92,groq,gemma2-9b-it,D,D,Persistence of a patent processus vaginalis,True
+93,groq,gemma2-9b-it,B,A,Inactivation of cellular p53,False
+94,groq,gemma2-9b-it,A,B,the capsule and ligaments of the TMJ and the lateral pterygoid muscle.,False
+95,groq,gemma2-9b-it,C,C,"The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",True
+96,groq,gemma2-9b-it,A,A,adjustment disorder with anxious mood,True
+97,groq,gemma2-9b-it,A,A,Dermatomyositis,True
+98,groq,gemma2-9b-it,C,C,ten weeks post-fertilization.,True
+99,groq,gemma2-9b-it,B,C,return it to the blood bank and inform them of why you have done so.,False

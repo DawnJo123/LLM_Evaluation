@@ -1,0 +1,1002 @@
+[
+  {
+    "idx": 0,
+    "question": "Are bipolar disorders underdiagnosed in patients with depressive episodes?",
+    "context": "['Recent reports indicate that the prevalence of bipolar disorder (BD) in patients with an acute major depressive episode might be higher than previously thought. We aimed to study systematically all patients who sought therapy for major depressive episode (MDE) within the BRIDGE study in Germany, reporting on an increased number (increased from 2 in the international BRIDGE report to 5) of different diagnostic algorithms.'\n \"A total of 252 patients with acute MDE (DSM-IV confirmed) were examined for the existence of BD (a) according to DSM-IV criteria, (b) according to modified DSM-IV criteria (without the exclusion criterion of 'mania not induced by substances/antidepressants'), (c) according to a Bipolarity Specifier Algorithm which expands the DSM-IV criteria, (d) according to HCL-32R (Hypomania-Checklist-32R), and (e) according to a criteria-free physician's diagnosis.\"\n \"The five different diagnostic approaches yielded immensely variable prevalences for BD: (a) 11.6; (b) 24.8%; (c) 40.6%; (d) 58.7; e) 18.4% with only partial overlap between diagnoses according to the physician's diagnosis or HCL-32R with diagnoses according to the three DSM-based algorithms.\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 1,
+    "question": "Is the clinically positive axilla in breast cancer really a contraindication to sentinel lymph node biopsy?",
+    "context": "['Clinically positive axillary nodes are widely considered a contraindication to sentinel lymph node (SLN) biopsy in breast cancer, yet no data support this mandate. In fact, data from the era of axillary lymph node dissection (ALND) suggest that clinical examination of the axilla is falsely positive in as many as 30% of cases. Here we report the results of SLN biopsy in a selected group of breast cancer patients with palpable axillary nodes classified as either moderately or highly suspicious for metastasis.'\n 'Among 2,027 consecutive SLN biopsy procedures performed by two experienced surgeons, clinically suspicious axillary nodes were identified in 106, and categorized as group 1 (asymmetric enlargement of the ipsilateral axillary nodes moderately suspicious for metastasis, n = 62) and group 2 (clinically positive axillary nodes highly suspicious for metastasis, n = 44).'\n 'Clinical examination of the axilla was inaccurate in 41% of patients (43 of 106) overall, and was falsely positive in 53% of patients (33 of 62) with moderately suspicious nodes and 23% of patients (10 of 44) with highly suspicious nodes. False-positive results were less frequent with larger tumor size (p = 0.002) and higher histologic grade (p = 0.002), but were not associated with age, body mass index, or a previous surgical biopsy.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 2,
+    "question": "Can calprotectin predict relapse risk in inflammatory bowel disease?",
+    "context": "['Assessing the clinical course of inflammatory bowel disease (IBD) patients consists of periodical clinical evaluations and laboratory tests. We aimed to assess the role of calprotectin tests in predicting clinical relapse in IBD patients.'\n \"Ninety-seven patients with ulcerative colitis (UC) and 65 with Crohn's disease (CD) in clinical remission were prospectively included in the study. A 10-g stool sample was collected for calprotectin assay. The cutoff level was set at 130 mg/kg of feces. Patients were followed up for 1 yr after the test or until relapse. The cumulative proportion of relapses was estimated by the Kaplan-Meier analysis. Statistics for equality of survival distribution were tested using the log-rank test.\"\n 'The calprotectin test was positive in 44 UC patients and 26 of them relapsed within a year, while 11 of 53 UC patients with a negative calprotectin test relapsed within the same time frame. Thirty CD patients had a positive calprotectin test and 13 of them relapsed within a year, as did 7 of the 35 with a negative test result. A significant correlation emerged between a positive calprotectin test and the probability of relapse in UC patients (P= 0.000). In CD patients, only cases of colonic CD showed a significant correlation between a positive calprotectin test and the probability of relapse, i.e., 6 colonic CD patients were positive for the calprotectin test and 4 relapsed (P= 0.02).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 3,
+    "question": "Household and food shopping environments: do they play a role in socioeconomic inequalities in fruit and vegetable consumption?",
+    "context": "['Fruit and vegetables are protective of a number of chronic diseases; however, their intakes have been shown to vary by socioeconomic position (SEP). Household and food shopping environmental factors are thought to contribute to these differences. To determine whether household and food shopping environmental factors are associated with fruit and vegetable (FV) intakes, and contribute to socioeconomic inequalities in FV consumption.'\n 'Cross-sectional data were obtained by a postal questionnaire among 4333 adults (23-85 years) living in 168 neighbourhoods in the south-eastern Netherlands. Participants agreed/disagreed with a number of statements about the characteristics of their household and food shopping environments, including access, prices and quality. Education was used to characterise socioeconomic position (SEP). Main outcome measures were whether or not participants consumed fruit or vegetables on a daily basis. Multilevel logistic regression models examined between-area variance in FV consumption and associations between characteristics of the household and food shopping environments and FV consumption.'\n 'Only a few household and food shopping environmental factors were significantly associated with fruit and vegetable consumption, and their prevalence was low. Participants who perceived FV to be expensive were more likely to consume them. There were significant socioeconomic inequalities in fruit and vegetable consumption (ORs of not consuming fruit and vegetables were 4.26 and 5.47 among the lowest-educated groups for fruit and vegetables, respectively); however, these were not explained by any household or food shopping environmental factors.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 4,
+    "question": "Is a mandatory general surgery rotation necessary in the surgical clerkship?",
+    "context": "['Changes in the spectrum of general surgery and the delivery of surgical care have placed the requirement for a mandatory general surgery rotation in the surgical clerkship in question.'\n 'We tested the hypothesis that equal mastery of surgical clerkship objectives can be obtained in a clerkship with and without general surgery. Students chose any two surgical rotations and were assessed by written examination, objective structured clinical examination (OSCE), ward evaluations, self-assessment objectives questionnaire, and satisfaction survey.'\n 'Data for 54 students showed no differences in scores between groups on any parameter. No specific concerns related to the absence of general surgery were identified.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 5,
+    "question": "Characterization of the gender dimorphism after injury and hemorrhagic shock: are hormonal differences responsible?",
+    "context": "['To characterize the gender dimorphism after injury with specific reference to the reproductive age of the women (young,<48 yrs of age, vs. old,>52 yrs of age) in a cohort of severely injured trauma patients for which significant variation in postinjury care is minimized.'\n 'Secondary data analysis of an ongoing prospective multicenter cohort study.'\n 'Academic, level I trauma and intensive care unit centers.'\n 'Blunt-injured adults with hemorrhagic shock.' 'None.'\n 'Separate Cox proportional hazard regression models were formulated based on all patients to evaluate the effects of gender on mortality, multiple organ failure, and nosocomial infection, after controlling for all important confounders. These models were then used to characterize the effect of gender in young and old age groups. Overall mortality, multiple organ failure, and nosocomial infection rates for the entire cohort (n = 1,036) were 20%, 40%, and 45%, respectively. Mean Injury Severity Score was 32 +/- 14 (mean +/- SD). Men (n = 680) and women (n = 356) were clinically similar except that men required higher crystalloid volumes, more often had a history of alcoholism and liver disease, and had greater ventilatory and intensive care unit requirements. Female gender was independently associated with a 43% and 23% lower risk of multiple organ failure and nosocomial infection, respectively. Gender remained an independent risk factor in young and old subgroup analysis, with the protection afforded by female gender remaining unchanged.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 6,
+    "question": "Optimism and survival: does an optimistic outlook predict better survival at advanced ages?",
+    "context": "['Studies examining predictors of survival among the oldest-old have primarily focused on objective measures, such as physical function and health status. Only a few studies have examined the effect of personality traits on survival, such as optimism. The aim of this study was to examine whether an optimistic outlook predicts survival among the oldest-old.'\n 'The Danish 1905 Cohort Survey is a nationwide, longitudinal survey comprising all individuals born in Denmark in 1905. At baseline in 1998, a total of 2,262 persons aged 92 or 93 agreed to participate in the intake survey. The baseline in-person interview consisted of a comprehensive questionnaire including physical functioning and health, and a question about whether the respondent had an optimistic, neutral or pessimistic outlook on his or her own future.'\n 'During the follow-up period of 12 years (1998-2010) there were 2,239 deaths (99 %) in the 1905 Cohort Survey. Univariable analyses revealed that optimistic women and men were at lower risk of death compared to their neutral counterparts [HR 0.82, 95 % CI (0.73-0.93) and 0.81, 95 % CI (0.66-0.99), respectively]. When confounding factors such as baseline physical and cognitive functioning and disease were taken into account the association between optimism and survival weakened in both sexes, but the general pattern persisted. Optimistic women were still at lower risk of death compared to neutral women [HR 0.85, 95 % CI (0.74-0.97)]. The risk of death was also decreased for optimistic men compared to their neutral counterparts, but the effect was non-significant [HR 0.91, 95 % CI (0.73-1.13)].']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 7,
+    "question": "Do Web-based and clinic samples of gay men living with HIV differ on self-reported physical and psychological symptoms?",
+    "context": "['Although the Internet is commonly used to recruit samples in studies of human immunodeficiency virus (HIV)-related risk behaviors, it has not been used to measure patient-reported well-being. As the burden of long-term chronic HIV infection rises, the Internet may offer enormous potential for recruitment to research and interventions.'\n 'This study aimed to compare two samples of gay men living with HIV, one recruited via the Web and the other recruited in outpatient settings, in terms of self-reported physical and psychological symptom burden.'\n 'The Internet sample was recruited from a UK-wide Web-based survey of gay men with diagnosed HIV. Of these, 154 respondents identified themselves as resident in London and were included in this analysis. The HIV clinic sample was recruited from five HIV outpatient clinics. Of these participants, 400 gay men recruited in London clinics were included in this analysis.'\n 'The Web-based sample was younger than the clinic sample (37.3 years, SD 7.0 vs 40.9 years, SD 8.3), more likely to be in paid employment (72.8%, 99/136 vs 60.1%, 227/378), less likely to be on antiretroviral therapy (ART) (58.4%, 90/154 vs 68.0%, 266/391), and had worse mean psychological symptom burden compared to the clinic sample (mean scores: 1.61, SD 1.09 vs 1.36, SD 0.96) but similar physical symptom burden (mean scores: 0.78, SD 0.65 vs 0.70, SD 0.74). In multivariable logistic regression, for the physical symptom burden model, adjusted for age, ethnicity, employment status, and ART use, the recruitment setting (ie, Web-based vs clinic) was not significantly associated with high physical symptom score. The only variable that remained significantly associated with high physical symptom score was employment status, with those in employment being less likely to report being in the upper (worst) physical symptom tertile versus the other two tertiles (adjusted OR 0.41, 95% CI 0.28-0.62, P<.001). For the psychological symptom burden model, those recruited via the Web were significantly more likely to report being in the upper (worst) tertile (adjusted OR 2.20, 95% CI 1.41-3.44, P=.001). In addition, those in employment were less likely to report being in the upper (worst) psychological symptom tertile compared to those not in employment (adjusted OR 0.32, 95% CI 0.21-0.49, P<.001).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": false
+  },
+  {
+    "idx": 8,
+    "question": "Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?",
+    "context": "['To describe the biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery.'\n \"Histologic, ultrastructural, and cohesive tensile strength evaluations were performed on 25 normal human corneal specimens, 206 uncomplicated LASIK specimens, 17 uncomplicated sub-Bowman's keratomileusis (SBK) specimens, 4 uncomplicated photorefractive keratectomy (PRK) specimens, 2 uncomplicated advanced surface ablation (ASA) specimens, 5 keratoconus specimens, 12 postoperative LASIK ectasia specimens, and 1 postoperative PRK ectasia specimen and compared to previously published studies.\"\n \"Histologic and ultrastructural studies of normal corneas showed significant differences in the direction of collagen fibrils and/or the degree of lamellar interweaving in Bowman's layer, the anterior third of the corneal stroma, the posterior two-thirds of the corneal stroma, and Descemet's membrane. Cohesive tensile strength testing directly supported these morphologic findings as the stronger, more rigid regions of the cornea were located anteriorly and peripherally. This suggests that PRK and ASA, and secondarily SBK, should be biomechanically safer than conventional LASIK with regard to risk for causing keratectasia after surgery. Because adult human corneal stromal wounds heal slowly and incompletely, all excimer laser keratorefractive surgical techniques still have some distinct disadvantages due to inadequate reparative wound healing. Despite reducing some of the risk for corneal haze compared to conventional PRK, ASA cases still can develop corneal haze or breakthrough haze from the hypercellular fibrotic stromal scarring. In contrast, similar to conventional LASIK, SBK still has the short- and long-term potential for interface wound complications from the hypocellular primitive stromal scar.\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 9,
+    "question": "Do communication disorders extend to musical messages?",
+    "context": "['Effective musical communication requires conveyance of the intended message in a manner perceptible to the receiver. Communication disorders that impair transmitting or decoding of structural features of music (e.g., pitch, timbre) and/or symbolic representation may result in atypical musical communication, which can have a negative impact on music therapy interventions.'\n 'This study compared recognition of symbolic representation of emotions or movements in music by two groups of children with different communicative characteristics: severe to profound hearing loss (using cochlear implants [CI]) and autism spectrum disorder (ASD). Their responses were compared to those of children with typical-development and normal hearing (TD-NH). Accuracy was examined as a function of communicative status, emotional or movement category, and individual characteristics.'\n 'Participants listened to recorded musical excerpts conveying emotions or movements and matched them with labels. Measures relevant to auditory and/or language function were also gathered.'\n 'There was no significant difference between the ASD and TD-NH groups in identification of musical emotions or movements. However, the CI group was significantly less accurate than the other two groups in identification of both emotions and movements. Mixed effects logistic regression revealed different patterns of accuracy for specific emotions as a function of group.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 10,
+    "question": "Are patients willing participants in the new wave of community-based medical education in regional and rural Australia?",
+    "context": "[\"Community-based medical education is growing to meet the increased demand for quality clinical education in expanded settings, and its sustainability relies on patient participation. This study investigated patients' views on being used as an educational resource for teaching medical students.\"\n 'Questionnaire-based survey.'\n 'Patients attending six rural and 11 regional general practices in New South Wales over 18 teaching sessions in November 2008, who consented to student involvement in their consultation.'\n 'Patient perceptions, expectations and acceptance of medical student involvement in consultations, assessed by surveys before and after their consultations.'\n '118 of 122 patients consented to medical student involvement; of these, 117 (99%) completed a survey before the consultation, and 100 (85%) after the consultation. Patients were overwhelmingly positive about their doctor and practice being involved in student teaching and felt they themselves played an important role. Pre-consultation, patients expressed reluctance to allow students to conduct some or all aspects of the consultation independently. However, after the consultation, they reported they would have accepted higher levels of involvement than actually occurred.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 11,
+    "question": "Antiretroviral therapy related adverse effects: Can sub-Saharan Africa cope with the new \"test and treat\" policy of the World Health Organization?",
+    "context": "['Recent studies have shown that early antiretroviral therapy (ART) initiation results in significant HIV transmission reduction. This is the rationale behind the \"test and treat\" policy of the World Health Organization (WHO). Implementation of this policy will lead to an increased incidence of ART-related adverse effects, especially in sub-Saharan Africa (SSA). Is the region yet ready to cope with such a challenging issue?'\n 'The introduction and widespread use of ART have drastically changed the natural history of HIV/AIDS, but exposure to ART leads to serious medication-related adverse effects mainly explained by mitochondrial toxicities, and the situation will get worse in the near future. Indeed, ART is associated with an increased risk of developing cardiovascular disease, lipodystrophy, prediabetes and overt diabetes, insulin resistance and hyperlactatemia/lactic acidosis. The prevalence of these disorders is already high in SSA, and the situation will be exacerbated by the implementation of the new WHO recommendations. Most SSA countries are characterized by (extreme) poverty, very weak health systems, inadequate and low quality of health services, inaccessibility to existing health facilities, lack of (qualified) health personnel, lack of adequate equipment, inaccessibility and unaffordability of medicines, and heavy workload in a context of a double burden of disease. Additionally, there is dearth of data on the incidence and predictive factors of ART-related adverse effects in SSA, to anticipate on strategies that should be put in place to prevent the occurrence of these conditions or properly estimate the upcoming burden and prepare an adequate response plan. These are required if we are to anticipate and effectively prevent this upcoming burden.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 12,
+    "question": "Can patients be anticoagulated after intracerebral hemorrhage?",
+    "context": "['Warfarin increases both the likelihood and the mortality of intracerebral hemorrhage (ICH), particularly in patients with a history of prior ICH. In light of this consideration, should a patient with both a history of ICH and a clear indication for anticoagulation such as nonvalvular atrial fibrillation be anticoagulated? In the absence of data from a clinical trial, we used a decision-analysis model to compare the expected values of 2 treatment strategies-warfarin and no anticoagulation-for such patients.'\n 'We used a Markov state transition decision model stratified by location of hemorrhage (lobar or deep hemispheric). Effectiveness was measured in quality-adjusted life years (QALYs). Data sources included English language literature identified through MEDLINE searches and bibliographies from selected articles, along with empirical data from our own institution. The base case focused on a 69-year-old man with a history of ICH and newly diagnosed nonvalvular atrial fibrillation.'\n 'For patients with prior lobar ICH, withholding anticoagulation therapy was strongly preferred, improving quality-adjusted life expectancy by 1.9 QALYs. For patients with prior deep hemispheric ICH, withholding anticoagulation resulted in a smaller gain of 0.3 QALYs. In sensitivity analyses for patients with deep ICH, anticoagulation could be preferred if the risk of thromboembolic stroke is particularly high.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 13,
+    "question": "Kell alloimmunization in pregnancy: associated with fetal thrombocytopenia?",
+    "context": "['Kell haemolytic disease in pregnancies has been suggested to be associated with decreased fetal platelet counts. The aim of this study was to evaluate the incidence and clinical significance of fetal thrombocytopenia in pregnancies complicated by Kell alloimmunization.'\n 'In this retrospective cohort study, fetal platelet counts were performed in 42 pregnancies with severe Kell alloimmunization prior to the first intrauterine blood transfusion. Platelet counts from 318 first intrauterine transfusions in RhD alloimmunized pregnancies were used as controls.'\n 'Fetal thrombocytopenia (platelet count<150 x 10(9)/l) was found in 4/42 (10%) in the Kell group and in 84/318 (26%) in the RhD group. None of the fetuses in the Kell alloimmunized pregnancies, including 15 with severe hydrops, had a clinically significant thrombocytopenia defined as a platelet count<50 x 10(9)/l. In the RhD alloimmunized pregnancies, 2/230 (1%) of the non-hydropic fetuses and 7/30 (23%) of the severely hydropic fetuses had a clinically significant thrombocytopenia.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 14,
+    "question": "Does accompanying metabolic syndrome contribute to heart dimensions in hypertensive patients?",
+    "context": "['Metabolic syndrome (MetS) is associated with increased risk for cardiovascular events. We evaluated heart dimensions in hypertensive patients with MetS.'\n 'The study included 75 hypertensive patients (34 males, 41 females; mean age 51+/-9 years) without coronary artery disease. Patients were evaluated in two groups depending on the presence or absence of MetS. Age- and gender-matched 20 healthy subjects (9 males, 11 females; mean age 50+/-5 years) comprised the control group. The diagnosis of MetS was based on the presence of at least three of five MetS criteria. Hypertension was defined as arterial blood pressure exceeding 140/85 mmHg on three consecutive measurements or the use of antihypertensive drugs. Echocardiographic measurements included interventricular septal thickness, left ventricular internal diameter, posterior wall thickness, aortic diameter, left atrial diameter, relative wall thickness, and left ventricular mass.'\n 'Metabolic syndrome was present in 32 hypertensive patients (42.7%; 18 males, 14 females). The mean number of MetS criteria was 2.6+/-1.0 in the hypertensive group. Compared to the control group, patients with or without MetS exhibited significantly increased interventricular septum and posterior wall thickness, left atrial diameter, relative wall thickness, and left ventricular mass (p<0.05). The only significant difference between the two patient groups was that MetS was associated with a greater left atrial diameter (p=0.019). Left atrial diameter was correlated with the number of MetS criteria (r=0.51; p<0.001).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": false
+  },
+  {
+    "idx": 15,
+    "question": "Do general practice selection scores predict success at MRCGP?",
+    "context": "['Selection into general practice training is undertaken using a competency based approach. The clear advantage of this approach over traditional methods has been demonstrated through evaluation of its validity and reliability. However, the relationship between selection  and performance in the Royal College of General Practitioner examinations (MRCGP) has yet to be explored. The MRCGP comprises of an applied knowledge test (AKT), a clinical skills assessment (CSA) and workplace-based assessments (WPBA).AIM: To explore the predictive validity of general  practice selection scores using the AKT and CSA elements of the MRCGP as a final outcome measure.'\n 'This study carried out a retrospective analysis of 101 trainees from the Wales Deanery who were successfully selected on to general practice training in 2007. Selection data consisted  of an overall selection score as well as scores from each individual stage of selection. Correlation was used to explore associations between selection scores and examination scores.'\n 'The score for overall performance at selection achieved statistically significant correlation  with examination performance (r = 0.491 for the AKT and r = 0.526 for the CSA, P<0.01).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 16,
+    "question": "Does self-efficacy mediate the relationship between transformational leadership behaviours and healthcare workers' sleep quality?",
+    "context": "['Although there is evidence for the influential role of transformational leadership on health outcomes, researchers have used either attitude outcomes (e.g. job satisfaction) or softer health measures, such as general well-being. Specific measures of well-being such as sleep quality have not been used, despite its association with working conditions.'\n 'A longitudinal design was used to collect data from Danish healthcare workers at time 1 in 2005 (n = 447) and 18 months later at time 2 in 2007 (n = 274). Structural equation modelling was used to investigate the relationships between transformational leadership, self-efficacy and sleep quality at both time points independently (cross-sectionally) and longitudinally.'\n \"For all constructs, time 2 measures were influenced by the baseline level. Direct relationships between transformational leadership and sleep quality were found. This relationship was negative cross-sectionally at both time points, but positive between baseline and follow-up. The relationship between leadership and employees' sleep quality was not mediated by employees' self-efficacy.\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": false
+  },
+  {
+    "idx": 17,
+    "question": "The influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?",
+    "context": "[\"The rate of aortic aneurysm rupture correlates with the aneurysm's diameter, and a higher rate of rupture is observed in patients with larger aneurysms. According to the literature, contradictory results concerning the relationship between atmospheric pressure and aneurysm size have been reported.AIM: In this paper, we assessed the influence of changes in atmospheric pressure on abdominal aneurysm ruptures in relationship to the aneurysm's size.\"\n 'The records of 223 patients with ruptured abdominal aneurysms were evaluated. All of the patients had been admitted to the department in the period 1997-2007 from the Silesia region. The atmospheric pressures on the day of the rupture and on the days both before the rupture and between the rupture events were compared. The size of the aneurysm was also considered in the analysis.'\n 'There were no statistically significant differences in pressure between the days of rupture and the remainder of the days within an analysed period. The highest frequency of the admission of patients with a ruptured aortic aneurysm was observed during periods of winter and spring, when the highest mean values of atmospheric pressure were observed; however, this observation was not statistically confirmed. A statistically non-significant trend towards the higher rupture of large aneurysms (>7 cm) was observed in the cases where the pressure increased between the day before the rupture and the day of the rupture. This trend was particularly pronounced in patients suffering from hypertension (p = 0.1).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 18,
+    "question": "Is gastric cancer different in Korea and the United States?",
+    "context": "['To compare the characteristics and prognoses of gastric cancers by tumor location in Korean and U.S. subjects after curative-intent (R0) resection for gastric cancer (GC).'\n 'Data were collected for all patients who had undergone R0 resection at one U.S. institution (n = 567) and one South Korean institution (n = 1,620). Patients with gastroesophageal junction tumors or neoadjuvant therapy were excluded. Patient, surgical, and pathologic variables were compared by tumor location. Factors associated with disease-specific survival (DSS) were determined via multivariate analysis.'\n 'In the Korean cohort, significantly more upper third GC (UTG) patients had undifferentiated, diffuse type, and advanced stage cancers compared to lower third GC (LTG) and middle third GC (MTG) patients. In the U.S. cohort, however, T stage was relatively evenly distributed among UTG, MTG, and LTG patients. The independent predictors of DSS in the Korean cohort were T stage, tumor size, retrieved and positive lymph node counts, and age, but in the U.S. cohort, the only independent predictors were T stage and positive lymph node count. Tumor size significantly affected DSS of Korean UTG patients but not U.S. UTG patients.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 19,
+    "question": "Advanced epithelial ovarian carcinoma in Thai women: should we continue to offer second-look laparotomy?",
+    "context": "['To determine survival among patients with epithelial ovarian carcinoma (EOC) who underwent a second-look laparotomy (SLL) and those refusing the procedure. Also to analyze factor(s) influencing the survival of the patients.'\n 'Medical records were reviewed of patients with advanced EOC who were clinically free of disease after primary surgery and platinum-based chemotherapy between January 1, 1992, and December 31, 1998. All of them were offered SLL. Measurement outcomes include patient survival and disease-free survival.'\n \"There were 50 patients with clinically complete remission after chemotherapy. Sixteen patients underwent SLL, and thirty-four patients refused the procedure (NSLL). Seven patients (43.8%) were reported to have positive SLL. After the median follow-up time of 35 months, 12 patients had died, and 5 patients were lost to follow-up. The median survival time for patients with SLL was about 60 months. Five-year survival rates of patients in the SLL, and NSLL groups were 37 per cent (95%CI = 7%-69%), and 88 per cent (95%CI = 65%-96%) respectively (P<0.001). The median time to relapse was about 25 months for patients with negative SLL. Five-year disease-free survival rates of patients in the negative SLL, and NSLL groups were 28 per cent (95%CI = 4%-59%), and 54 per cent (95%CI = 34%-70%) respectively (P=0.251). By Cox regression analysis, tumor grade was the only significant prognostic factor influencing patients' survival (HR = 6, 95%CI of HR = 1.2-34.2).\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 20,
+    "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+    "context": "['We investigated the role of surgical ablation targeting the autonomous nervous system during a Cox-Maze IV procedure in the maintenance of sinus rhythm at long-term follow-up.'\n 'The patient population consisted of 519 subjects with persistent or long-standing persistent atrial fibrillation (AF) undergoing radiofrequency Maze IV during open heart surgery between January 2006 and July 2013 at three institutions without (Group 1) or with (Group 2) ganglionated plexi (GP) ablation. Recurrence of atrial fibrillation off-antiarrhythmic drugs was the primary outcome. Predictors of AF recurrence were evaluated by means of competing risk regression. Median follow-up was 36.7 months.'\n 'The percentage of patients in normal sinus rhythm (NSR) off-antiarrhythmic drugs did not differ between groups (Group 1-75.5%, Group 2-67.8%, p = 0.08). Duration of AF \u2265 38 months (p = 0.01), left atrial diameter \u2265 54 mm (0.001), left atrial area \u2265 33 cm(2) (p = 0.005), absence of connecting lesions (p= 0.04), and absence of right atrial ablation (p<0.001) were independently associated with high incidence of AF recurrence. In contrast the absence of GP ablation was not a significant factor (p = 0.12).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 21,
+    "question": "Is a specialised training of phonological awareness indicated in every preschool child?",
+    "context": "['In a prospective study 218 preschool children were enrolled (stratified in 2 training programs, one specialized for phonologic awareness in order to prevent dyslexia, the other consisting in training of general perception) during the last year of kindergarten. After finishing the first grade 131 children were compared in their reading and writing abilities.'\n 'In the whole group only a slight difference was found between both training modalities concerning their writing abilities. However, children with a history of hearing loss, actual hearing loss or pathologic middle ear findings profited most from the specialized training program compared to the control in their reading abilities.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 22,
+    "question": "Does concept mapping enhance learning outcome of nursing students?",
+    "context": "['This quasi-experimental study was conducted using a crossover design among two groups of total 64 nursing students. Participants were asked to create concept maps (group A) or were evaluated with the traditional method of quiz (group B) for eight weeks and then take a cumulative test (no. 1). Consequently, subjects used the alternate method for another eight weeks and then take the second cumulative test (no. 2).'\n 'The results of this study showed that the mean scores for cumulative tests (both no. 1 and no. 2) was higher in the group that engaged in map construction compared to the group that only take the quizzes. In addition, there was a gradual increase in the mean scores of developed map during the eight sessions of intervention.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 23,
+    "question": "Are there effects of intrauterine cocaine exposure on delinquency during early adolescence?",
+    "context": "['To ascertain whether level of intrauterine cocaine exposure (IUCE) is associated with early adolescent delinquent behavior, after accounting for prenatal exposures to other psychoactive substances and relevant psychosocial factors.'\n 'Ninety-three early adolescents (12.5-14.5 years old) participating since birth in a longitudinal study of IUCE reported delinquent acts via an audio computer-assisted self-interview. Level of IUCE and exposure to cigarettes, alcohol, and marijuana were determined by maternal report, maternal and infant urine assays, and infant meconium assays at birth. Participants reported their exposure to violence on the Violence Exposure Scale for Children-Revised at ages 8.5, 9.5, and 11 years and during early adolescence, and the strictness of supervision by their caregivers during early adolescence.'\n 'Of the 93 participants, 24 (26%) reported \u2265 3 delinquent behaviors during early adolescence. In the final multivariate model (including level of IUCE and cigarette exposure, childhood exposure to violence, and caregiver strictness/supervision) \u2265 3 delinquent behaviors were not significantly associated with level of IUCE but were significantly associated with intrauterine exposure to half a pack or more of cigarettes per day and higher levels of childhood exposure to violence, effects substantially unchanged after control for early adolescent violence exposure.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 24,
+    "question": "Does managed care enable more low income persons to identify a usual source of care?",
+    "context": "['By requiring or encouraging enrollees to obtain a usual source of care, managed care programs hope to improve access to care without incurring higher costs.'\n '(1) To examine the effects of managed care on the likelihood of low-income persons having a usual source of care and a usual physician, and; (2) To examine the association between usual source of care and access.'\n 'Cross-sectional survey of households conducted during 1996 and 1997.'\n 'A nationally representative sample of 14,271 low-income persons.'\n 'Usual source of care, usual physician, managed care enrollment, managed care penetration.'\n 'High managed care penetration in the community is associated with a lower likelihood of having a usual source of care for uninsured persons (54.8% vs. 62.2% in low penetration areas) as well as a lower likelihood of having a usual physician (60% vs. 72.8%). Managed care has only marginal effects on the likelihood of having a usual source of care for privately insured and Medicaid beneficiaries. Having a usual physician substantially reduces unmet medical needs for the insured but less so for the uninsured.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": false
+  },
+  {
+    "idx": 25,
+    "question": "Do European people with type 1 diabetes consume a high atherogenic diet?",
+    "context": "['Individuals with type 1 diabetes have a high risk of developing cardiovascular diseases, and it has been reported that they consume a high atherogenic diet. We examined how nutrient intake and adherence to current European nutritional recommendations evolved in a large cohort of European individuals with type 1 diabetes over a period of 7 years.SUBJECTS/'\n 'We analysed data from the EURODIAB Prospective Complications Study, a European multicentre prospective cohort study. Standardized 3-day dietary records were employed in individuals with type 1 diabetes. One thousand one hundred and two patients (553 men, 549 women, baseline age 33 \u00b1 10 years, duration 15 \u00b1 9 years) had complete nutritional data available at baseline and after 7 years. We calculated mean differences in reported nutrients over time and adjusted these for age, gender, HbA1c and BMI with ANOVA models.'\n 'Compared to baseline, there were minor changes in nutrients. Reported protein (-0.35% energy (en), fat (-1.07% en), saturated fat (-0.25% en) and cholesterol (-7.42 mg/1000 kcal) intakes were lower, whereas carbohydrate (+1.23% en) and fibre (+0.46 g/1000 kcal) intakes were higher at the 7-year follow-up. European recommendations for adequate nutrient intakes were followed in individuals with type 1 diabetes for protein (76% at baseline and 78% at follow-up), moderately for fat (34, 40%), carbohydrate (34, 41%) and cholesterol (39, 47%), but poorly for fibre (1.4, 2.4%) and saturated fat (11, 13%).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 26,
+    "question": "Preoperative staging of patients with liver metastases of colorectal carcinoma. Does PET/CT really add something to multidetector CT?",
+    "context": "['This study was designed to determine prospectively whether the systematic use of PET/CT associated with conventional techniques could improve the accuracy of staging in patients with liver metastases of colorectal carcinoma. We also assessed the impact on the therapeutic strategy.'\n 'Between 2006 and 2008, 97 patients who were evaluated for resection of LMCRC were prospectively enrolled. Preoperative workup included multidetector-CT (MDCT) and PET/CT. In 11 patients with liver steatosis or iodinated contrast allergy, MR also was performed. Sixty-eight patients underwent laparotomy. Sensitivity, specificity, positive predictive value (PPV), and negative predictive values for hepatic and extrahepatic staging of MDCT and PET-CT were calculated.'\n 'In a lesion-by-lesion analysis of the hepatic staging, the sensitivity of MDCT/RM was superior to PET/CT (89.2 vs. 55%, p\\xa0<\\xa00.001). On the extrahepatic staging, PET/CT was superior to MDCT/MR only for the detection of locoregional recurrence (p\\xa0=\\xa00.03) and recurrence in uncommon sites (p\\xa0=\\xa00.016). New findings in PET/CT resulted in a change in therapeutic strategy in 17 patients. However, additional information was correct only in eight cases and wrong in nine patients.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 27,
+    "question": "\"Would a man smell a rose then throw it away?",
+    "context": "[\"Breast cancer is the most common malignancy afflicting women, and the most common cancer overall in Jordan. A woman's decision to go for screening is influenced by her social support network. This study aims to explore Jordanian men's individual and contextual perspectives on women's breast cancer and their own role in the breast health of the females within their families.\"\n 'An explorative qualitative design was used to purposively recruit 24 married men aged 27 to 65\\xa0years (median 43\\xa0years) from four governorates in Jordan. Data in the form of interviews transcriptions was subjected to qualitative content analysis.'\n \"Three themes were identified: a) Supporting one's wife; b) Marital needs and obligations; c) Constrained by a culture of destiny and shame. The first theme was built on men's feelings of responsibility for the family's health and well-being, their experiences of encouraging their wives to seek health care and their providing counselling and instrumental support. The second theme emerged from men's views about other men's rejection of a wife inflicted by breast cancer, their own perceptions of diminished femininity due to mastectomy and their own concerns about protecting the family from the hereditary risk of breast cancer. The third theme was seen in men's perception of breast cancer as an inevitable act of God that is far away from one's own family, in associating breast cancer with improper behaviour and in their readiness to face the culture of Eib (shame).\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 28,
+    "question": "Body diffusion-weighted MR imaging of uterine endometrial cancer: is it helpful in the detection of cancer in nonenhanced MR imaging?",
+    "context": "['In this study, the authors discussed the feasibility and value of diffusion-weighted (DW) MR imaging in the detection of uterine endometrial cancer in addition to conventional nonenhanced MR images.'\n 'DW images of endometrial cancer in 23 patients were examined by using a 1.5-T MR scanner. This study investigated whether or not DW images offer additional incremental value to conventional nonenhanced MR imaging in comparison with histopathological results. Moreover, the apparent diffusion coefficient (ADC) values were measured in the regions of interest within the endometrial cancer and compared with those of normal endometrium and myometrium in 31 volunteers, leiomyoma in 14 patients and adenomyosis in 10 patients. The Wilcoxon rank sum test was used, with a p<0.05 considered statistically significant.'\n 'In 19 of 23 patients, endometrial cancers were detected only on T2-weighted images. In the remaining 4 patients, of whom two had coexisting leiomyoma, no cancer was detected on T2-weighted images. This corresponds to an 83% detection sensitivity for the carcinomas. When DW images and fused DW images/T2-weighted images were used in addition to the T2-weighted images, cancers were identified in 3 of the remaining 4 patients in addition to the 19 patients (overall detection sensitivity of 96%). The mean ADC value of endometrial cancer (n=22) was (0.97+/-0.19)x10(-3)mm(2)/s, which was significantly lower than those of the normal endometrium, myometrium, leiomyoma and adenomyosis (p<0.05).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 29,
+    "question": "Does rugby headgear prevent concussion?",
+    "context": "['To examine the attitudes of players and coaches to the use of protective headgear, particularly with respect to the prevention of concussion.'\n 'A questionnaire designed to assess attitudes to headgear was administered to 63 players from four different Canadian teams, each representing a different level of play (high school, university, community club, national). In addition, coaches from all four levels were questioned about team policies and their personal opinions about the use of headgear to prevent concussion.'\n 'Although the players tended to believe that the headgear could prevent concussion (62%), the coaches were less convinced (33%). Despite the players\\' belief that headgear offers protection against concussion, only a minority reported wearing headgear (27%) and few (24%) felt that its use should be made mandatory. Common reasons for not wearing headgear were \"its use is not mandatory\", \"it is uncomfortable\", and \"it costs too much\".']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 30,
+    "question": "Emergency double-balloon enteroscopy combined with real-time viewing of capsule endoscopy: a feasible combined approach in acute overt-obscure gastrointestinal bleeding?",
+    "context": "['There are few data concerning emergency double-balloon enteroscopy (DBE) and its usefulness in the management of severe acute obscure gastrointestinal bleeding (OGIB). The aim of this retrospective study was to evaluate emergency DBE and capsule endoscopy (CE) in patients with overt OGIB, analyzing the feasibility of this combined approach.'\n 'Emergency DBE in patients with overt OGIB was defined as performance within 24\\u2009h of symptom onset. We reported 27 patients (16 men, mean age: 64.6\\u2009\u00b1\\u200917.9 years) with overt severe bleeding who underwent 29 emergency DBE (22 anterograde, 7 retrograde). Of 27 patients, 16 (59.3%) underwent CE with real time (RT) viewing.'\n \"Patients were diagnosed with the following: Dieulafoy's lesion (DL; n\\u2009=\\u200911, 40.7%), angioectasia (n\\u2009=\\u20097, 25.9%), tumors (n\\u2009=\\u20094, 14.8%), diverticulum (n\\u2009=\\u20093, 11.1%), ulcers (n\\u2009=\\u20092, 7.4%). We diagnosed 23 lesions amenable to endoscopic hemostasis and successfully treated 21 of them (77.8%). DL detection rate was statistically higher in the emergency DBE group than in OGIB patients with DBE done 24\\u2009h after symptom onset (40.7% vs 0.9%, respectively, P\\u2009<\\u20090.001). Combined approach with RT viewing by CE correctly modified DBE management in four patients (25%).\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 31,
+    "question": "Does coronary angiography before emergency aortic surgery affect in-hospital mortality?",
+    "context": "['To study the relationship between coronary angiography and in-hospital mortality in patients undergoing emergency surgery of the aorta without a history of coronary revascularization or coronary angiography before the onset of symptoms.'\n 'In the setting of acute ascending aortic dissection warranting emergency aortic repair, coronary angiography has been considered to be desirable, if not essential. The benefits of defining coronary anatomy have to be weighed against the risks of additional delay before surgical intervention.'\n 'Retrospective analysis of patient charts and the Cardiovascular Information Registry (CVIR) at the Cleveland Clinic Foundation.'\n 'We studied 122 patients who underwent emergency surgery of the aorta between January 1982 and December 1997. Overall, in-hospital mortality was 18.0%, and there was no significant difference between those who had coronary angiography on the day of surgery compared with those who had not (No: 16%, n = 81 vs. Yes: 22%, n = 41, p = 0.46). Multivariate analysis revealed that a history of myocardial infarction (MI) was the only predictor of in-hospital mortality (relative risk: 4.98 95% confidence interval: 1.48-16.75, p = 0.009); however, coronary angiography had no impact on in-hospital mortality in patients with a history of MI. Furthermore, coronary angiography did not significantly affect the incidence of coronary artery bypass grafting (CABG) during aortic surgery (17% vs. 25%, Yes vs. No). Operative reports revealed that 74% of all CABG procedures were performed because of coronary dissection, and not coronary artery disease.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 32,
+    "question": "Cycloplegic autorefraction in young adults: is it mandatory?",
+    "context": "['The precise correction of refractive error is especially important in young adults. It is unclear whether cycloplegic refraction is necessary in this age group. The purpose of this study was to compare the non-cycloplegic and cycloplegic spherical equivalent (SE) refractive error measured in young adults.'\n 'This was a prospective study of 1400 eyes (n\\u2009=\\u2009700) of enlisted soldiers aged 18 to 21\\xa0years who were consecutively evaluated in an outpatient army ophthalmology clinic. One drop of cyclopentolate 1\\xa0% was installed twice 10\\xa0min apart, and cycloplegic refraction was performed in both eyes 40\\xa0min later using an auto-refractor. The difference between non-cycloplegic and cycloplegic refractive measurements was analyzed.'\n 'The mean difference in SE between non-cycloplegic and cycloplegic measurements was 0.68\\u2009\u00b1\\u20090.83\\xa0D (95\\xa0% CI, 0.64-0.72). Significantly greater differences were observed in hypermetropes than myopes (1.30\\u2009\u00b1\\u20090.90\\xa0D versus 0.46\\u2009\u00b1\\u20090.68\\xa0D, p\\u2009<\\u20090.001). Moderate hypermetropes (2 to 5\\xa0D) demonstrated significantly greater refractive error than mild (0.5 to 2\\xa0D) or severe (>5\\xa0D) hypermetropes (1.71\\u2009\u00b1\\u20091.18\\xa0D versus 1.19\\u2009\u00b1\\u20090.74\\xa0D and 1.16\\u2009\u00b1\\u20091.08\\xa0D respectively, p\\u2009<\\u20090.001).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 33,
+    "question": "Do cytokines have any role in epilepsy?",
+    "context": "['We analyzed cytokines levels in patients with epilepsy and new onset seizure and correlated it with various parameters.'\n 'After obtaining consent, serum samples from 100 patients with epilepsy or new onset seizure were prospectively collected in the immediate post-ictal phase. In 16 patients, a second sample was collected during the seizure-free period. The serum cytokine levels [TNF-alpha, IFN-gamma, IL-1beta, IL-2, IL-4, and IL-6] were assessed (ELISA) in these patients and 100 matched healthy controls. CSF analysis was carried out in 9 patients of this cohort, when clinically indicated.'\n 'The type of seizures (n=100) was major (45), partial (41) and status epilepticus (SE=14), while the epilepsy syndromes were idiopathic generalized (53) and localization related (47). The detectable serum cytokines in the patient group (n=100) were: IL-6 (42), TNF-alpha (36), IL-2 (22), IL-4 (22), IFN-gamma (20) and IL-1 (11) compared to the controls. CSF IL-6 and IL-1 was detectable in 4/9 and 2/9 patients, respectively while, IL-2, IL-4, IFN-gamma was detectable 1 in each patient. Correlations were noted between male gender and IL-1beta (p=0.04), positive family history and IL-1beta (p=0.001), \"no alcohol use\" and TNF-alpha (p=0.05), more than one year history of epilepsy and IL-1beta (p=0.02), status epilepticus (SE) and IL-6 (p=0.04). There was no difference between the new onset seizures vs. epilepsy group. Serial analysis during the seizure-free period revealed a decrease in cytokine levels: TNF-alpha (25% to 12.5%), IFN-gamma (12.5% to 0%), IL-1 (25% to 0) and IL-2 (6.2% to 6.2%), IL-4 (18.8% to 0%) and IL-6 (18.8% to 6.2%).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 34,
+    "question": "HIF1A as a major vascular endothelial growth factor regulator: do its polymorphisms have an association with age-related macular degeneration?",
+    "context": "['To investigate the association between age-related macular degeneration (AMD) and the polymorphisms of HIF1A, a major vascular epithelial growth factor regulator under hypoxic conditions. The associations of AMD and polymorphisms of genes CFH, SKIV2L and MYRIP were also studied.'\n 'Prospective study.'\n 'Eighty-seven AMD patients and 80 healthy subjects admitted to the Department of Ophthalmology at Pamukkale University Hospital, Denizli, Turkey, were included: 45 (52%) had wet type AMD, and 42 (48%) had dry type AMD.'\n 'Polymorphisms rs1061170 (CFH), rs429608 (SKIV2L), rs2679798 (MYRIP) and both rs11549465 and rs11549467 (HIF1A) were investigated in DNA isolated from peripheral blood samples of the cases and controls by dye-termination DNA sequencing.'\n 'Genotype distribution of rs1061170 (CFH), rs429608 (SKIV2L), rs2679798 (MYRIP) and both rs11549465 and rs11549467 (HIF1A) in AMD cases and healthy controls; association between genotypes and AMD subtypes.'\n 'Given the significant difference between the mean age of case and control groups (72.13\\u2009\u00b1\\u20095.77 vs. 62.80\\u2009\u00b1\\u20095.22, respectively) (P\\u2009=\\u2009.000), subsequent analyses were adjusted for age. We found that having at least one C allele for polymorphism rs1061170 increases AMD risk independent of age (OR\\u2009=\\u20092.42, 95% confidence interval [CI], 1.22-4.81). The ancestral T allele for polymorphism rs1061170 has a protective effect for AMD (OR\\u2009=\\u20090.53, 95% CI, 0.34-0.83). No statistically significant difference for distributions of other single nucleotide polymorphisms (SNPs) emerged between patients and healthy subjects.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 35,
+    "question": "Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes of Care?",
+    "context": "['To ascertain whether hospital type is associated with differences in total cost and outcomes for inpatient tonsillectomy.'\n \"Cross-sectional analysis of the 2006, 2009, and 2012 Kids' Inpatient Database (KID).\"\n \"Children \u226418 years of age undergoing tonsillectomy with/without adenoidectomy were included. Risk-adjusted generalized linear models assessed for differences in hospital cost and length of stay (LOS) among children managed by (1) non-children's teaching hospitals (NCTHs), (2) children's teaching hospitals (CTHs), and (3) nonteaching hospitals (NTHs). Risk-adjusted logistic regression compared the odds of major perioperative complications (hemorrhage, respiratory failure, death). Models accounted for clustering of patients within hospitals, were weighted to provide national estimates, and controlled for comorbidities.\"\n 'The 25,685 tonsillectomies recorded in the KID yielded a national estimate of 40,591 inpatient tonsillectomies performed in 2006, 2009, and 2012. The CTHs had significantly higher risk-adjusted total cost and LOS per tonsillectomy compared with NCTHs and NTHs ($9423.34/2.8 days, $6250.78/2.11 days, and $5905.10/2.08 days, respectively; P<.001). The CTHs had higher odds of complications compared with NCTHs (odds ratio [OR], 1.48; 95% CI, 1.15-1.91; P = .002) but not when compared with NTHs (OR, 1.19; 95% CI, 0.89-1.59; P = .23). The CTHs were significantly more likely to care for patients with comorbidities (P<.001).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 36,
+    "question": "Does fluoridation reduce the use of dental services among adults?",
+    "context": "[\"The authors determine whether prevention influences the use of health services. Fluoridation's effect on restorative dental demand among 972 Washington state employees and spouses, aged 20 to 34 years, in two fluoridated communities and a nonfluoridated community was examined.\"\n \"At baseline, adults were interviewed by telephone, and oral assessments were conducted to measure personal characteristics, lifetime exposure to fluoridated water, oral disease, and the quality of restorations. Adults were followed for 2 years to measure dental demand from dental claims. Each adult's baseline and claims data were linked with provider and practice variables collected from the dentist who provided treatment.\"\n 'Relative to adults with no lifetime exposure to fluoridated water, adults drinking fluoridated water for half or more of their lives had less disease at baseline and a lower but nonsignificant probability of receiving a restoration in the follow-up period. In the 2-year follow-up period, however, more than half of the restorations were performed to replace fillings of satisfactory or ideal quality at baseline. When only teeth with decay and unsatisfactory fillings at baseline were considered, adults with high fluoridation exposure had a lower probability of receiving a restoration than adults with no exposure. Market effects also were detected in demand equations; relative to adults in the nonfluoridated community, adults residing in the fluoridated community with a large dentist supply received a greater number of restorations, suggesting potential supplier-induced demand from less disease and fewer patients.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 37,
+    "question": "Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard?",
+    "context": "['There is no standard protocol for the evaluation of antiseptics used for skin and mucous membranes in the presence of interfering substances. Our objective was to suggest trial conditions adapted from the NF EN 13727 standard, for the evaluation of antiseptics used in gynecology and dermatology.'\n 'Three antiseptic solutions were tested in vitro: a chlorhexidine-benzalkonium (CB) combination, a hexamidine-chlorhexidine-chlorocresol (HCC) combination, and povidone iodine (P). The adaptation of trial conditions to the standard involved choosing dilutions, solvent, and interfering substances. The activity of solutions was assessed on the recommended strains at concentrations of 97% (pure solution), 50%, and 10% (diluted solution), and 1%. A logarithmic reduction \u2265 5 was expected after 60seconds of contact, to meet requirements of bactericidal activity.'\n 'HCC did not present any bactericidal activity except on P. aeruginosa at a concentration of 97%. P was not bactericidal on E. hirae at any concentration and on S. aureus at 97%. CB had the most homogeneous bactericidal activity with a reduction>5 log on the 4 bacterial strains at concentrations of 97%, 50% and 10%.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 38,
+    "question": "Does maternal obesity have an influence on feeding behavior of obese children?",
+    "context": "['Obese children and adolescents referred to the pediatric endocrinology department were enrolled consecutively. Height and weight of all children and their mothers were measured. Maternal feeding practices were measured using an adapted version of the Child Feeding Questionnaire (CFQ). Answers were compared between obese (Body Mass Index [BMI] \u2265 30 kg/m2) and non-obese mothers.'\n 'A total of 491 obese subjects (292 girls, mean age 12.0 \u00b1 2.8 years) and their mothers participated in this study. A direct correlation between children\\'s BMI and their mothers\\' BMI was found (P<0.001) both in girls (r = 0.372) and boys (r = 0.337). While 64.4% of mothers were found obese in the study, only half of them consider themselves as obese. No difference were found in the scores of the subscales \"perceived responsibility\", \"restriction\", \"concern for child\\'s weight\" and \"monitoring\" between obese and non-obese mothers. Child\\'s BMI-SDS positively correlated with mothers\\' personal weight perception, concern for child\\'s weight and restriction after adjustment for child\\'s age (P<0.001, P = 0.012 and P = 0.002, respectively).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 39,
+    "question": "Out of the smokescreen II: will an advertisement targeting the tobacco industry affect young people's perception of smoking in movies and their intention to smoke?",
+    "context": "[\"To evaluate the effect of an antismoking advertisement on young people's perceptions of smoking in movies and their intention to smoke.SUBJECTS/\"\n '3091 cinema patrons aged 12-24 years in three Australian states; 18.6% of the sample (n = 575) were current smokers.DESIGN/'\n 'Quasi-experimental study of patrons, surveyed after having viewed a movie. The control group was surveyed in week 1, and the intervention group in weeks 2 and 3. Before seeing the movie in weeks 2 and 3, a 30 s antismoking advertisement was shown, shot in the style of a movie trailer that warned patrons not to be sucked in by the smoking in the movie they were about to see.'\n 'Attitude of current smokers and non-smokers to smoking in the movies; intention of current smokers and non-smokers to smoke in 12 months.'\n 'Among non-smokers, 47.8% of the intervention subjects thought that the smoking in the viewed movie was not OK compared with 43.8% of the control subjects (p = 0.04). However, there was no significant difference among smokers in the intervention (16.5%) and control (14.5%) groups (p = 0.4). A higher percentage of smokers in the intervention group indicated that they were likely to be smoking in 12 months time (38.6%) than smokers in the control group (25.6%; p<0.001). For non-smokers, there was no significant difference in smoking intentions between groups, with 1.2% of intervention subjects and 1.6% of controls saying that they would probably be smoking in 12 months time (p = 0.54).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": false
+  },
+  {
+    "idx": 40,
+    "question": "Should prostate specific antigen be adjusted for body mass index?",
+    "context": "['Obesity may be associated with lower prostate specific antigen through hemodilution. We examined the relationship between body mass index and prostate specific antigen by age in men without prostate cancer in a longitudinal aging study to determine whether prostate specific antigen must be adjusted for body mass index.'\n 'The study population included 994 men (4,937 observations) without prostate cancer in the Baltimore Longitudinal Study of Aging. Mixed effects models were used to examine the relationship between prostate specific antigen and body mass index in kg/m(2) by age. Separate models were explored in men with prostate cancer censored at diagnosis, for percent body fat measurements, for weight changes with time and adjusting for initial prostate size in 483 men (2,523 observations) with pelvic magnetic resonance imaging measurements.'\n 'In men without prostate cancer body mass index was not significantly associated with prostate specific antigen after adjusting for age (p = 0.06). A 10-point body mass index increase was associated with a prostate specific antigen difference of -0.03 ng/ml (95% CI -0.40-0.49). Results were similar when men with prostate cancer were included, when percent body fat was substituted for body mass index, and after adjusting for prostate volume. Longitudinal weight changes also had no significant association with prostate specific antigen.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 41,
+    "question": "Does frozen section alter surgical management of multinodular thyroid disease?",
+    "context": "['Frozen section (FS) evaluation during thyroid surgery is often used to guide intraoperative management. We sought to determine the utility of FS in patients undergoing thyroidectomy for multinodular thyroid disease.'\n \"From May 1994 through November 2004, 236 patients with multinodular goiter underwent thyroidectomy at our institution. Patient data were retrospectively analyzed to see if a frozen section was performed during the procedure and whether it changed the patient's outcome.\"\n 'Of the 236 patients, 135 (57%) had intra-operative FS. There were no differences between patients who had FS analysis and those who did not with regard to age, gender, and the incidence of malignancy. Of the patients who had FS, 4/135 (3%) were subsequently diagnosed with thyroid cancer on permanent histology. Three of these FS were misread as benign. Therefore, the sensitivity of FS for the diagnosis of thyroid cancer was only 25%. Importantly, in none of the 135 patients did FS alter the intraoperative management.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 42,
+    "question": "Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?",
+    "context": "['Endometrial polyp is a common cause of abnormal uterine bleeding, but the etiology and pathogenesis remain unclear. Vascular endothelial growth factor (VEGF) is angiogenic, related to thick walled vessels and transforming growth factor-beta1 (TGF-\u03b21) is related to fibrotic tissue, which are characteristics of endometrial polyps. The primary objective of this study was to find out if endometrial polyp formation is associated with increased expression of VEGF or TGF-\u03b21, or both. A secondary objective is to determine if the changes are related to steroid receptor expression.'\n 'This prospective study compared VEGF and TGF-\u03b21 expression of endometrial polyps and adjacent endometrial tissue in 70 premenopausal women. The comparison of results was separately made for endometrium specimens obtained in the proliferative and secretory phases. The results were correlated with the steroid receptors (estrogen receptor and progesterone receptor) expression.'\n \"The score of VEGF in glandular cells of endometrial polyps was significantly higher than the score in adjacent endometrium, both in the proliferative phase (P<0.001) and the secretory phase (P=0.03); the score of VEGF in stromal cells of endometrial polyps was significantly higher than the score in adjacent endometrium only in proliferative phase (P=0.006). The score of TGF-\u03b21 in glandular cells of endometrial polyps was significantly higher than the score in adjacent endometrium in proliferative phase (P=0.02); whereas the score of TGF-\u03b21 in stromal cells of endometrial polyps was significantly higher than the score in adjacent endometrium, both in the proliferative phase (P=0.006) and the secretory phase (P=0.008). There was a significant correlation between the expression of steroid receptors and VEGF and TGF-\u03b21 (Spearman's correlation P<0.001 and P<0.05, respectively).\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 43,
+    "question": "Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?",
+    "context": "['A higher prevalence of cardiovascular risk factors (CRFs) in HIV-infected patients, together with chronic infection and treatments, has resulted in an increased risk of silent myocardial ischaemia (SMI). The objective of this study was to evaluate whether myocardial SPECT should be used for screening HIV-infected patients with no clinical symptoms of coronary artery disease.'\n 'The prevalence of SMI detected by myocardial SPECT was determined in 94 HIV-infected patients with a normal clinical cardiovascular examination in relation to anthropomorphic parameters, CRFs, inflammatory and HIV infection status, and treatment.'\n 'Coronary artery disease was detected in nine patients (eight with ischaemia, one with myocardial infarction), corresponding to 9.6 % positivity. All but two of the scintigraphic diagnoses of ischaemia were confirmed by coronarography. Univariate analysis revealed that the overall number of CRFs and the combination of gender and age were associated with a diagnosis of SMI (p<0.05). According to multivariate analysis, the only independent parameter significantly associated with the scintigraphic diagnosis of SMI was the combination of gender and age (p = 0.01). All the positive myocardial SPECT scans were in men older than 52 years with at least two other CRFs. In this subpopulation of 47 patients, the prevalence of SMI detected by myocardial SPECT reached 19.2 %.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 44,
+    "question": "Can we predict which head and neck cancer survivors develop fears of recurrence?",
+    "context": "[\"The objectives of this study were to investigate longitudinal predictors of fear of recurrence in survivors of head and neck cancer (HNC) using Leventhal's Common Sense Model (CSM) as a framework. The research questions were as follows: (a) to what extent do HNC patients report fear of cancer recurrence? (b) To what extent are fears of recurrence manifestations of illness-related anxiety? (c) Are fears of recurrence closely related to current symptoms, disease, and treatment-related factors, or psychological/socio-demographic factors? (d) What factors are predictive of long-term fears of recurrence?\"\n 'A prospective repeat measures design was employed whereby a sample of 82 newly diagnosed HNC patients (54 males, 28 females, mean age 60 years) completed measures of fears of recurrence, illness perceptions, coping, and anxiety and depression, prior to treatment and 6-8 months after treatment (fears of recurrence only).'\n 'A third of HNC patients at diagnosis reported relatively high levels of fears of recurrence, with 12% still reporting similar levels of fear 6-8 months after treatment. Fears of recurrence were not related to any socio-demographic factor (age, gender, ethnicity, marital status, and educational attainment) or disease, treatment, or symptom-related factors. Path analyses demonstrated that fears of cancer recurrence after treatment were directly predicted by pre-treatment fears and optimism.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 45,
+    "question": "Does topical N-acetylcysteine application after myringotomy cause severe otorrhea?",
+    "context": "['The effect of topical N-acetylcysteine (NAC) application was investigated on the healing of acute experimental tympanic membrane perforations.'\n 'Twenty guinea pigs were used in this study. Under intraperitoneal ketamine anesthesia, incisional myringotomies were performed in the posterosuperior quadrant of the tympanic membranes with a straight otologic hook. The diameter of the perforations was approximately 2 mm. Perforations in both ears were treated with freshly prepared sponges soaked in either 0.1 ml 0.9% NaCl solution (10 control animals) or 0.6 mg/0.1 ml NAC (10 animals) for three consecutive days. All the tympanic membranes were examined by otomicroscopy on the third, fifth, seventh, and ninth days.'\n 'In the control group, all the perforations were completely closed at the end of nine days. During the same period, only 40% of the perforations were completely closed in the NAC group. The remaining ears exhibited otorrhea by the third day.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 46,
+    "question": "Does body mass index (BMI) influence morbidity and long-term survival in gastric cancer patients after gastrectomy?",
+    "context": "[\"The long-term survival of patients with gastric cancer is governed by various factors, such as the clinical stage of the cancer, the patient's nutritional state, and the treatment and may be governed by the volume of intraperitoneal adipose tissue. The aim of this study is to clarify the relationship between the degree of the patients' body mass index and their long-term survival.\"\n \"Gastric cancer patients who had undergone a gastrectomy with D2-lymphadenectomy and with resection A and B according to the criteria of the Japanese Research Society for Gastric Cancer Rules were subgrouped into those patients with a body mass index<0.185 (the lower body mass index group) and those patients with a body mass index>0.210 (the higher body mass index group). The patient's morbidity and long-term survival rate was retrospectively compared between the 2 groups.\"\n 'A significantly longer mean survival rate was observed for the lower body mass index group in stage 2 (1667 vs. 1322 days, P = 0.0240). Also, a significantly longer mean survival rate was observed for the higher BMI group in stage 3a (1431 vs. 943, P = 0.0071).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 47,
+    "question": "Are even impaired fasting blood glucose levels preoperatively associated with increased mortality after CABG surgery?",
+    "context": "['Impaired fasting glucose (IFG) below the diagnostic threshold for diabetes mellitus (DM) is associated with macrovascular pathology and increased mortality after percutaneous coronary interventions. The study goal was to determine whether pre-operative fasting blood glucose (fB-glu) is associated with an increased mortality after coronary artery bypass grafting (CABG).'\n 'During 2001-03, 1895 patients underwent primary CABG [clinical DM (CDM) in 440/1895; complete data on fB-glu for n=1375/1455]. Using pre-operative fB-glu, non-diabetics were categorized as having normal fB-glu (<5.6 mmol/L), IFG (5.6<or =fB-glu<6.1 mmol/L), or suspected DM (SDM) (>or =6.1 mmol/L). fB-glu was normal in 59%. The relative risks of 30 day and 1 year mortality compared with patients with normal fB-glu was 1.7 [95% confidence interval (CI): 0.5-5.5] and 2.9 (CI: 0.8-11.2) with IFG, 2.8 (CI: 1.1-7.2) and 1.9 (CI: 0.5-6.3) with SDM vs. 1.8 (CI: 0.8-4.0) and 1.6 (CI: 0.6-4.3) if CDM, respectively. The receiver operator characteristic area for the continuous variable fB-glu and 1 year mortality was 0.65 (P=0.002).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 48,
+    "question": "Does the familial transmission of drinking patterns persist into young adulthood?",
+    "context": "['Parental drinking has been shown to be associated with offspring drinking. However, the relationship appears to be more complex than often assumed and few studies have tracked it over longer time periods.'\n 'To explore the long-term (10-year) transmission of familial drinking during adolescence to offspring drinking patterns in young adulthood.'\n 'Swedish longitudinal study, assessing the relationship between familial drinking in 2000 and offspring drinking in 2010 using simultaneous quantile regression analysis (n=744).DATA: Data on familial drinking was gathered from the Swedish level-of-living surveys (LNU) and from partner LNU in 2000 while data on offspring drinking in young adulthood was gathered from LNU 2010. Drinking among offspring, parents and potential stepparents was measured through identical quantity-frequency indices referring to the past 12 months in 2010 and 2000 respectively.'\n 'Young adults whose families were abstainers in 2000 drank substantially less across quintiles in 2010 than offspring of non-abstaining families. The difference, however, was not statistically significant between quintiles of the conditional distribution. Actual drinking levels in drinking families were not at all or weakly associated with drinking in offspring. Supplementary analyses confirmed these patterns.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 49,
+    "question": "Uniformity of evidence-based treatments in practice?",
+    "context": "['Various factors contribute to the effective implementation of evidence-based treatments (EBTs). In this study, cognitive processing therapy (CPT) was administered in a Veterans Affairs (VA) posttraumatic stress disorder (PTSD) specialty clinic in which training and supervision were provided following VA implementation guidelines. The aim was to (a) estimate the proportion of variability in outcome attributable to therapists and (b) identify characteristics of those therapists who produced better outcomes.'\n 'We used an archival database of veterans (n = 192) who completed 12 sessions of CPT by therapists (n = 25) who were trained by 2 nationally recognized trainers, 1 of whom also provided weekly group supervision. Multilevel modeling was used to estimate therapist effects, with therapists treated as a random factor. The supervisor was asked to retrospectively rate each therapist in terms of perceived effectiveness based on supervision interactions. Using single case study design, the supervisor was interviewed to determine what criteria she used to rate the therapists and emerging themes were coded.'\n 'When initial level of severity on the PTSD Checklist (PCL; McDonald&Calhoun, 2010; Weathers, Litz, Herman, Huska,&Keane, 1993) was taken into account, approximately 12% of the variability in the PCL at the end of treatment was due to therapists. The trainer, blind to the results, identified the following characteristics and actions of effective therapists: effectively addressing patient avoidance, language used in supervision, flexible interpersonal style, and ability to develop a strong therapeutic alliance.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 50,
+    "question": "Did Chile's traffic law reform push police enforcement?",
+    "context": "[\"The objective of the current study is to determine to what extent the reduction of Chile's traffic fatalities and injuries during 2000-2012 was related to the police traffic enforcement increment registered after the introduction of its 2005 traffic law reform.\"\n \"A unique dataset with assembled information from public institutions and analyses based on ordinary least square and robust random effects models was carried out. Dependent variables were traffic fatality and severe injury rates per population and vehicle fleet. Independent variables were: (1) presence of new national traffic law; (2) police officers per population; (3) number of traffic tickets per police officer; and (4) interaction effect of number of traffic tickets per police officer with traffic law reform. Oil prices, alcohol consumption, proportion of male population 15-24 years old, unemployment, road infrastructure investment, years' effects and regions' effects represented control variables.\"\n 'Empirical estimates from instrumental variables suggest that the enactment of the traffic law reform in interaction with number of traffic tickets per police officer is significantly associated with a decrease of 8% in traffic fatalities and 7% in severe injuries. Piecewise regression model results for the 2007-2012 period suggest that police traffic enforcement reduced traffic fatalities by 59% and severe injuries by 37%.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 51,
+    "question": "Is motion perception deficit in schizophrenia a consequence of eye-tracking abnormality?",
+    "context": "['Studies have shown that schizophrenia patients have motion perception deficit, which was thought to cause eye-tracking abnormality in schizophrenia. However, eye movement closely interacts with motion perception. The known eye-tracking difficulties in schizophrenia patients may interact with their motion perception.'\n 'Two speed discrimination experiments were conducted in a within-subject design. In experiment 1, the stimulus duration was 150 msec to minimize the chance of eye-tracking occurrence. In experiment 2, the duration was increased to 300 msec, increasing the possibility of eye movement intrusion. Regular eye-tracking performance was evaluated in a third experiment.'\n 'At 150 msec, speed discrimination thresholds did not differ between schizophrenia patients (n = 38) and control subjects (n = 33). At 300 msec, patients had significantly higher thresholds than control subjects (p = .03). Furthermore, frequencies of eye tracking during the 300 msec stimulus were significantly correlated with speed discrimination in control subjects (p = .01) but not in patients, suggesting that eye-tracking initiation may benefit control subjects but not patients. The frequency of eye tracking during speed discrimination was not significantly related to regular eye-tracking performance.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 52,
+    "question": "Are pectins involved in cold acclimation and de-acclimation of winter oil-seed rape plants?",
+    "context": "['The hypothesis was tested that pectin content and methylation degree participate in regulation of cell wall mechanical properties and in this way may affect tissue growth and freezing resistance over the course of plant cold acclimation and de-acclimation.'\n 'Experiments were carried on the leaves of two double-haploid lines of winter oil-seed rape (Brassica napus subsp. oleifera), differing in winter survival and resistance to blackleg fungus (Leptosphaeria maculans).'\n 'Plant acclimation in the cold (2 degrees C) brought about retardation of leaf expansion, concomitant with development of freezing resistance. These effects were associated with the increases in leaf tensile stiffness, cell wall and pectin contents, pectin methylesterase (EC 3.1.1.11) activity and the low-methylated pectin content, independently of the genotype studied. However, the cold-induced modifications in the cell wall properties were more pronounced in the leaves of the more pathogen-resistant genotype. De-acclimation promoted leaf expansion and reversed most of the cold-induced effects, with the exception of pectin methylesterase activity.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 53,
+    "question": "Surgical management of the atherosclerotic ascending aorta: is endoaortic balloon occlusion safe?",
+    "context": "['Occlusion of the atherosclerotic ascending aorta by an endoaortic inflatable balloon has been proposed as an alternative to conventional cross-clamping to prevent injury to the vessel and distal embolization of debris. The safety and the effectiveness of endoaortic occlusion have not been documented in this setting.'\n \"Endoaortic occlusion was employed in 52 of 2,172 consecutive patients. Surgeon's choice was based on preoperative identification of aortic calcifications or intraoperative epiaortic ultrasonographic scanning. Deaths and strokes were analyzed casewise and in aggregate.\"\n 'In 10 patients (19.2%), the endoaortic balloon had to be replaced by the ordinary cross-clamp because of incomplete occlusion (n = 5), hindered exposure (n = 2), or balloon rupture (n = 3). In-hospital death occurred in 13 patients (25%), and stroke on awakening from anesthesia in 2 (3.8%). The death rate of patients treated by endoaortic occlusion was significantly higher compared with all other patients (4.2%, p<0.0001) and with the expected estimate by European System for Cardiac Operative Risk Evaluation (10.5%, p = 0.05). By multivariable analysis, use of endoaortic occlusion was independently associated with in-hospital death (odds ratio = 5.609, 95% confidence interval: 2.684 to 11.719). Although the stroke rate was higher in the endoaortic occlusion group compared with all other patients, the difference was only possibly significant (3.8% versus 0.8%, p = 0.067).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 54,
+    "question": "Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?",
+    "context": "['Disorders of consciousness (DOC) diagnosis relies on the presence or absence of purposeful motor responsiveness, which characterizes the minimally conscious state (MCS) and the unresponsive wakefulness syndrome (UWS), respectively. Functional neuroimaging studies have raised the question of possible residual conscious awareness also in clinically-defined UWS patients. The aim of our study was to identify electrophysiological parameters, by means of a transcranial magnetic stimulation approach, which might potentially express the presence of residual networks sustaining fragmentary behavioral patterns, even when no conscious behavior can be observed.'\n 'We enrolled 25 severe DOC patients, following post-anoxic or traumatic brain injury and 20 healthy individuals (HC) as control group. Baseline electrophysiological evaluation evidenced, in comparison to HC, a partial preservation of cortical effective connectivity and excitability in clinically defined MCS, whereas these components were absent in clinically defined UWS. Then, we applied an anodal transcranial direct current stimulation (a-tDCS) protocol over the orbitofrontal cortex.'\n 'a-tDCS was able to boost cortical connectivity and excitability in all HC, MCS, and to unmask such excitability/connectivity in some UWS patients.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 55,
+    "question": "Can APC mutation analysis contribute to therapeutic decisions in familial adenomatous polyposis?",
+    "context": "['In familial adenomatous polyposis (FAP), correlations between site of mutation in the adenomatous polyposis coli (APC) gene and severity of colonic polyposis or extracolonic manifestations are well known. While mutation analysis is important for predictive diagnosis in persons at risk, its relevance for clinical management of individual patients is open to question.'\n 'We examined 680 unrelated FAP families for germline mutations in the APC gene. Clinical information was obtained from 1256 patients.'\n \"APC mutations were detected in 48% (327/680) of families. Age at diagnosis of FAP based on bowel symptoms and age at diagnosis of colorectal cancer in untreated patients were used as indicators of the severity of the natural course of the disease. A germline mutation was detected in 230 of 404 patients who were diagnosed after onset of bowel symptoms (rectal bleeding, abdominal pain, diarrhoea). When these patients were grouped according to the different sites of mutations, mean values for age at onset of disease differed significantly: patients carrying APC mutations at codon 1309 showed a disease onset 10 years earlier (mean age 20 years) compared with patients with mutations between codons 168 and 1580 (except codon 1309) (mean age 30 years), whereas patients with mutations at the 5' end of codon 168 or the 3' end of codon 1580 were diagnosed at a mean age of 52 years. Within each group of patients however large phenotypic variation was observed, even among patients with identical germline mutations. A higher incidence of desmoids was found in patients with mutations between codons 1445 and 1580 compared with mutations at other sites, while no correlation between site of mutation and presence of duodenal adenomas was observed.\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 56,
+    "question": "Can common carotid intima media thickness serve as an indicator of both cardiovascular phenotype and risk among black Africans?",
+    "context": "['It is not known whether common carotid intima media thickness (CIMT) can serve as a surrogate marker of cardiovascular risk among black Africans. Therefore, we examined whether CIMT differed significantly among individuals with distinct cardiovascular phenotype and correlated significantly with traditional cardiovascular risk factors in a black African population.'\n \"CIMT was measured in 456 subjects with three distinct cardiovascular phenotypes - 175 consecutive Nigerian African stroke patients, 161 hypertensive patients without stroke and 120 normotensive non-smoking adults. For each pair of cardiovascular phenotypes, c-statistics were obtained for CIMT and traditional vascular risk factors (including age, gender, weight, waist circumference, smoking, alcohol, systolic and diastolic blood pressures, fasting plasma glucose, fasting total cholesterol). Pearson's correlation coefficients were calculated to quantify bivariate relationships.\"\n 'Bilaterally, CIMT was significantly different among the three cardiovascular phenotypes (right: p\\u2009<\\u20090.001, F\\u2009=\\u200933.8; left: p\\u2009<\\u20090.001, F\\u2009=\\u200948.6). CIMT had a higher c-statistic for differentiating stroke versus normotension (c\\u2009=\\u20090.78 right; 0.82 left, p\\u2009<\\u20090.001) and hypertension versus normotension (c\\u2009=\\u20090.65 right; 0.71 left, p\\u2009<\\u20090.001) than several traditional vascular risk factors. Bilaterally, combining all subjects, CIMT was the only factor that correlated significantly (right: 0.12\\u2009\u2264\\u2009r\\u2009\u2264\\u20090.41, 0.018\\u2009\u2264\\u2009p\\u2009<\\u20090.0001; left: 0.18\\u2009\u2264\\u2009r\\u2009\u2264\\u20090.41, 0.005\\u2009\u2264\\u2009p\\u2009<\\u20090.0001) to all the traditional cardiovascular risk factors assessed.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 57,
+    "question": "Can Ambu self-inflating bag and Neopuff infant resuscitator provide adequate and safe manual inflations for infants up to 10\u2005kg weight?",
+    "context": "[\"Manual resuscitation devices for infants and newborns must be able to provide adequate ventilation in a safe and consistent manner across a wide range of patient sizes (0.5-10\\u2005kg) and differing clinical states. There are little comparative data assessing biomechanical performance of common infant manual resuscitation devices across the manufacturers' recommended operating weight ranges. We aimed to compare performance of the Ambu self-inflating bag (SIB) with the Neopuff T-piece resuscitator in three resuscitation models.\"\n 'Five experienced clinicians delivered targeted ventilation to three lung models differing in compliance, delivery pressures and inflation rates; Preterm (0.5\\u2005mL/cmH2O, 25/5 cmH2O, 60 per minute), Term (3\\u2005mL/cmH2O, 30/5 cmH2O, 40 per minute) and Infant (9\\u2005mL/cmH2O, 35/5 cmH2O, 30 per minute). The Neopuff was examined with three gas inflow rates (5 litres per minute (LPM), 10 LPM and 15 LPM) and the Ambu with no gas inflow.'\n '3309 inflations were collected and analysed with analysis of variance for repeated measures. The Neopuff was unable to reach set peak inflation pressures and exhibited seriously elevated positive end expiratory pressure (PEEP) with all inflow gas rates (p<0.001) in this infant model. The Ambu SIB accurately delivered targeted pressures in all three models.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 58,
+    "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+    "context": "['To prospectively evaluate the amount of tissue removed at loop electrosurgical excision procedure (LEEP) vs. cold knife conization.'\n \"Forty consecutive LEEP or cold knife conization specimens were prospectively measured and weighed by a single pathology technician. Diameter, length and weight of the specimens were compared using Student's t test.\"\n 'Mean diameter of cold knife cone specimens was 2.6 vs. 2.2 cm for LEEP (P = .07). Mean length of cold knife cone specimens was 1.5 vs. 1.0 cm for LEEP (P = .001). Mean weight for cold knife cone specimens was 4.4 vs. 2.0 g for LEEP (P = .001).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 59,
+    "question": "Combining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome?",
+    "context": "['To determine if composite measures based on process indicators are consistent with short-term outcome indicators in surgical colorectal cancer care.'\n 'Longitudinal analysis of consistency between composite measures based on process indicators and outcome indicators for 85 Dutch hospitals.'\n 'The Dutch Surgical Colorectal Audit database, the Netherlands.'\n '4732 elective patients with colon carcinoma and 2239 with rectum carcinoma treated in 85 hospitals were included in the analyses.'\n 'All available process indicators were aggregated into five different composite measures. The association of the different composite measures with risk-adjusted postoperative mortality and morbidity was analysed at the patient and hospital level.'\n 'At the patient level, only one of the composite measures was negatively associated with morbidity for rectum carcinoma. At the hospital level, a strong negative association was found between composite measures and hospital mortality and morbidity rates for rectum carcinoma (p<0.05), and hospital morbidity rates for colon carcinoma.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 60,
+    "question": "Are endometrial polyps from pre-menopausal women similar to post-menopausal women?",
+    "context": "['Do endometrial polyps from pre- and post-menopausal women have similar immunohistochemical expression of oestrogen and progesterone receptors (ER, PR) and markers of cellular proliferation/apoptosis (Ki67 and Bcl-2).'\n 'Prospective cohort study. Non-parametric statistical analysis was used.'\n 'Polyps recruited from women attending an out-patient hysteroscopy clinic in a UK district general hospital.'\n 'Fourteen pre-menopausal and 16 post-menopausal women who presented with abnormal bleeding with endometrial polyps.'\n 'Immunohistochemical staining was performed on endometrial polyps.'\n 'Significant differences or correlations between hormone receptor expression (oestrogen and progesterone) and cell growth indices (Ki67 and Bcl-2).'\n 'Endometrial polyps from pre- and post-menopausal women had significant differences in their expression of hormone receptors and Ki67. However, polyps from both groups of women had similarly increased levels of Bcl-2, an inhibitor of apoptosis.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 61,
+    "question": "Outcome Feedback within Emergency Medicine Training Programs: An Opportunity to Apply the Theory of Deliberate Practice?",
+    "context": "['Outcome feedback is the process of learning patient outcomes after their care within the emergency department. We conducted a national survey of Canadian Royal College emergency medicine (EM) residents and program directors to determine the extent to which active outcome feedback and follow-up occurred. We also compared the perceived educational value of outcome feedback between residents and program directors.'\n \"We distributed surveys to all Royal College-accredited adult and pediatric EM training programs using a modified Dillman method. We analyzed the data using student's t-test for continuous variables and Fisher's exact test for categorical variables.\"\n 'We received 210 completed surveys from 260 eligible residents (80.8%) and 21 of 24 program directors (87.5%) (overall 81.3%). Mandatory active outcome feedback was not present in any EM training program for admitted or discharged patients (0/21). Follow-up was performed electively by 89.4% of residents for patients admitted to the hospital, and by 44.2% of residents for patients discharged home. A majority of residents (76.9%) believed that patient follow-up should be mandatory compared to 42.9% of program directors (p=0.002). The perceived educational value of outcome feedback was 5.8/7 for residents and 5.1/7 for program directors (difference 0.7; p=0.002) based on a seven-point Likert scale (1=not important; 7=very important).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 62,
+    "question": "Undescended testes: does age at orchiopexy affect survival of the testis?",
+    "context": "['The optimal age at which to perform orchiopexy for cryptorchidism has long been debated. The aim of this study was to determine if age at orchiopexy affected testicular atrophy.'\n 'A retrospective review of patients undergoing orchiopexy from 2000 to 2010 was conducted. An individual testis, rather than patient, was used as the dependent variable. A total of 349 testicles from 1126 charts (ICD-9=752.51) were identified. Primary study outcome was testicular survival without atrophy.'\n 'Mean follow up for the study was 25 months. There was postoperative atrophy in 27 testes (7.7%). Intraabdominal testicle was independently associated with increased postsurgical atrophy (p<0.0001). The odds of postsurgical atrophy were 15.66 times higher for an abdominal vs. inguinal location (95% CI: 5.5-44.6). Testicular atrophy was highest for orchiopexy at ages 13-24 months (n=16 of 133, 12%) vs. those less than 13 months (n=3 of 64, 5%), and those greater than 24 months (n=8 of 152, 5%) (p=0.0024). After adjusting for location, age was not statistically significant with postsurgical atrophy (p=0.055).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 63,
+    "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+    "context": "['Ischemic preconditioning (IP) is initiated through one or several short bouts of ischemia and reperfusion which precede a prolonged ischemia. To test whether a reperfusion must precede the prolonged index ischemia, a series without reperfusion (intraischemic preconditioning: IIP) and a series with gradual onset of ischemia, i.e. ramp ischemia (RI), which is possibly related to the development of hibernation, was compared to conventional IP (CIP).'\n 'Experiments were performed an 27 blood-perfused rabbit hearts (Langendorff apparatus) that were randomized into one of four series: (1) control (n = 7): 60 min normal flow - 60 min low flow (10%) ischemia - 60 min reperfusion. (2) CIP (n = 7): 4 times 5 min zero flow with 10 min reperfusion each - 60 min low flow (10%) - ischemia 60 min reperfusion. (3) IIP (n = 7): 50 min normal flow - 10 min no flow - 60min low flow (10%) ischemia -4 60min reperfusion. (4) RI (n=6): gradual reduction to 10% flow during 60min - 60min low flow (10%) ischemia - 60min reperfusion. At the end of each protocol, the infarcted area was assessed.'\n 'The infarct area in control hearts was 6.7+/-1.4% (means+/-SEM) of LV total area, in CIP hearts 2.6+/-0.8%, in IIP hearts 3.1+/-0.5%, and in RI hearts 3.0+/-0.3% (all p<0.05 vs. control). The differences between the three protection protocols were statistically not significant, and no protective protocol reduced post-ischemic myocardial dysfunction.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 64,
+    "question": "Is alexithymia a risk factor for unexplained physical symptoms in general medical outpatients?",
+    "context": "['Alexithymia is presumed to play an important predisposing role in the pathogenesis of medically unexplained physical symptoms. However, no research on alexithymia has been done among general medical outpatients who present with medically unexplained physical symptoms as their main problem and in which anxiety and depression have been considered as possible confounding factors. This study investigated whether patients with medically unexplained physical symptoms are more alexithymic than those with explained symptoms and whether, in patients with unexplained symptoms, alexithymia is associated with subjective health experience and use of medical services.'\n 'We conducted a cross-sectional study among patients attending an internal medicine outpatient clinic. All patients were given a standardized interview and completed a number of questionnaires.'\n 'After complete physical examinations, 169 of 321 patients had unexplained physical symptoms according to two independent raters. Patients with medically unexplained symptoms more often had a mental disorder, but overall they were not more alexithymic. In patients with unexplained physical symptoms, alexithymia was not associated with subjective health experience or use of medical services. However, patients with both unexplained symptoms and a mental disorder who also denied any possible connection between emotional problems and their physical symptoms did have more alexithymic traits.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 65,
+    "question": "BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?",
+    "context": "['Quantitative real-time PCR has become the predominant molecular technique to monitor BCRABL levels in response to treatment in Ph(+) leukemia patients. However, without some form of standardized methodology between laboratories, the correlation of results is difficult.'\n 'Using TaqMan-based assays, parallel quantitative real-time PCR analysis was performed on 70 clinical specimens at Vanderbilt University Medical Center and Virginia Commonwealth University. While the same positive control cell line (K562) and quality control gene (BCR) were used, the RNA isolation technique, cDNA synthesis, BCR control cell line, and PCR primer and probe sequences were different.'\n 'The detection of BCRABL-positive results spanned a dynamic range from 10(0) to 10(5)/100,000 cells. Forty-three samples were negative at both facilities. A Spearman rank correlation analysis was performed for the 22 BCRABL-positive paired results. The correlation coefficient, r(s), was 0.9435 (p<0.00001), suggesting a strong correlation of the results. One discordant result was obtained for consecutive samples from one patient with a low BCRABL copy number as a result of a minimal RNA yield at one laboratory.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": false
+  },
+  {
+    "idx": 66,
+    "question": "Does the aggressive use of polyvalent antivenin for rattlesnake bites result in serious acute side effects?",
+    "context": "['To determine the incidence and severity of acute side effects from the use of polyvalent antivenin in victims of rattlesnake bites.'\n 'We retrospectively reviewed the records of all patients who presented with rattlesnake bites to a university teaching hospital during an 11-year period. From patient medical records, we extracted demographic data, clinical measurements, and outcomes during emergency department evaluation and subsequent hospitalization. Data regarding serum sickness were not collected.'\n 'Primary outcome variables were the occurrence of immediate hypersensitivity reaction to antivenin, the type of reaction, permanent disability at hospital discharge, and mortality.'\n 'We identified a total of 73 patients with rattlesnake bites during the study period. Bite envenomation was graded as nonenvenomated, 7 patients (10%); mild, 23 patients (32%); moderate, 32 patients (44%); and severe, 11 patients (15%). We identified 65 patients who received antivenin. Antivenin doses ranged from 1 to 30 vials per patient (mean, 12.0 +/- 6.0), for a total of 777 vials. In 43 patients (66%), 10 or more vials of antivenin were given. The mean number of vials of antivenin given to each snakebite grade were as follows: mild, 8.4 (+/-4.0); moderate, 11.8 (+/-5.7); and severe, 18.7 (+/-6.3). No deaths, amputations, or permanent disability from snakebite occurred in the patients receiving antivenin. Acute side effects of antivenin-occurring within the first 6 hours after administration-were seen in 12 patients (18%; 95% confidence interval, 10%-30%). Acute side effects consisted solely of urticaria in all but 1 patient (2%; 95% confidence interval, 0%-8%). This patient had a history of previous antivenin reaction and required a short course of intravenous epinephrine for blood pressure support. No other complications occurred.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 67,
+    "question": "Do elderly patients call 911 when presented with clinical scenarios suggestive of acute stroke?",
+    "context": "['Among patients with acute stroke symptoms, delay in hospital admission is the main obstacle for the use of thrombolytic therapy and other interventions associated with decreased mortality and disability. The primary aim of this study was to assess whether an elderly clinical population correctly endorsed the response to call for emergency services when presented with signs and symptoms of stroke using a standardized questionnaire.'\n 'We performed a cross-sectional study among elderly out-patients (\u226560 years) in Buenos Aires, Argentina randomly recruited from a government funded health clinic. The correct endorsement of intention to call 911 was assessed with the Stroke Action Test and the cut-off point was set at \u226575%. Knowledge of stroke and clinical and socio-demographic indicators were also collected and evaluated as predictors of correct endorsement using logistic regression.'\n 'Among 367 elderly adults, 14% correctly endorsed intention to call 911. Presented with the most typical signs and symptoms, only 65% reported that they would call an ambulance. Amaurosis Fugax was the symptom for which was called the least (15%). On average, the correct response was chosen only 37% of the time. Compared to lower levels of education, higher levels were associated to correctly endorsed intention to call 911 (secondary School adjusted OR 3.53, 95% CI 1.59-7.86 and Tertiary/University adjusted OR 3.04, 95% CI 1.12-8.21).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 68,
+    "question": "Should chest wall irradiation be included after mastectomy and negative node breast cancer?",
+    "context": "['This study aims to evaluate local failure patterns in node negative breast cancer patients treated with post-mastectomy radiotherapy including internal mammary chain only.'\n 'Retrospective analysis of 92 internal or central-breast node-negative tumours with mastectomy and external irradiation of the internal mammary chain at the dose of 50 Gy, from 1994 to 1998.'\n 'Local recurrence rate was 5 % (five cases). Recurrence sites were the operative scare and chest wall. Factors associated with increased risk of local failure were age<or = 40 years and tumour size greater than 20mm, without statistical significance.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 69,
+    "question": "Can bisphosphonate treatment be stopped in a growing child with skeletal fragility?",
+    "context": "['Cyclical pamidronate therapy in a 2-year-old child with skeletal fragility resulted in remodelling of vertebral fractures and improvement in bone mineral density (BMD) at distal radial and spinal sites. The BMD at both sites decreased precipitously within 24 months of stopping treatment, raising the question as to whether bisphosphonates can be stopped in a growing child with skeletal fragility.'\n 'At age 23 months, a male toddler sustained a low trauma fracture of his right femur. Skeletal radiographs revealed generalised osteopenia with multiple vertebral body fractures. He was diagnosed with type IV osteogenesis imperfecta; however, no mutations were found in COL1A1 or COL1A2 genes.'\n 'This case report presents bone densitometry data before, during and after bisphosphonate treatment. Axial QCT was main outcome from 2 years of age; DXA and pQCT were taken after age 5.'\n 'QCT confirmed that he had low spinal trabecular volumetric BMD (Z-score -2.4). After 4 years of treatment his vertebral fractures had been remodelled and all bone densitometry values (QCT, DXA and pQCT) were within normal range and therefore treatment was discontinued. Shortly after this he suffered stress fractures of his left mid tibia and at the sclerotic metaphyseal line corresponding to his first APD treatment. He had marked reduction in spinal trabecular and distal radial vBMD; change in BMAD was less marked.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 70,
+    "question": "Do we need imaging to diagnose appendicitis in children?",
+    "context": "['To evaluate the role of clinical assessment with selective use of imaging studies in the management of suspected acute appendicitis in children.'\n 'Medical records of children referred to Emergency Room in 2010 for suspected appendicitis were retrospectively reviewed. Diagnostic investigations divided by age and sex were related to pathological findings. Negative appendectomy and complication rates were calculated.'\n '923 children needed surgical assessment : In 75.7% of them surgical indication was excluded and 24.3% were admitted to surgical ward for observation. Appendectomy was eventually performed in 137 patients (61.9%), 82.4% of them without any preoperative imaging while 17.6% underwent selective studies, mainly abdominal ultrasonography (14.6%). Imaging was requested twice as frequently in not operated admitted children (39.3%) than in the operated ones (17.5%, P<0.001). Overall complicated appendicitis rate (peritonitis and abscess) resulted 26.4% and negative appendectomy rate 8.8%. Females older than 10 years presented histologically not-confirmed appendicitis in 22.2% of cases, while the younger ones presented more frequently complicated appendicitis (29.3%).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 71,
+    "question": "Is low birth weight a risk indicator for congenital cytomegalovirus infection?",
+    "context": "['Congenital cytomegalovirus infection is currently the leading cause of congenital infection in 0.2-2.2% of live births worldwide leading to variable serious sequalae. The aim of the study was to determine if low birth weight is an indicator of CMV congenital infection evidenced by detecting CMV-DNA in umbilical cord blood at the time of delivery.'\n 'CMV-IgG and IgM antibodies and CMV-DNAemia were assessed in umbilical cord blood of two hundreds newborns, one hundred of whom had birth weight<or = 2700 gram and/or head circumference<or = 32 cm.'\n 'CMV-IgM was not detected, while CMV-IgG was positive in 80-90% of the two hundreds tested newborns. CMV-DNA was detected in four out of the 200 newborns. One of them was over the adopted weight limit (>2700 gram).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 72,
+    "question": "Is the histidine triad nucleotide-binding protein 1 (HINT1) gene a candidate for schizophrenia?",
+    "context": "[\": The histidine triad nucleotide-binding protein 1, HINT1, hydrolyzes adenosine 5'-monophosphoramidate substrates such as AMP-morpholidate. The human HINT1 gene is located on chromosome 5q31.2, a region implicated in linkage studies of schizophrenia. HINT1 had been shown to have different expression in postmortem brains between schizophrenia patients and unaffected controls. It was also found to be associated with the dysregulation of postsynaptic dopamine transmission, thus suggesting a potential role in several neuropsychiatric diseases.\"\n ': In this work, we studied 8 SNPs around the HINT1 gene region using the Irish study of high density schizophrenia families (ISHDSF, 1350 subjects and 273 pedigrees) and the Irish case control study of schizophrenia (ICCSS, 655 affected subjects and 626 controls). The expression level of HINT1 was compared between the postmortem brain cDNAs from schizophrenic patients and unaffected controls provided by the Stanley Medical Research Institute.'\n ': We found nominally significant differences in allele frequencies in several SNPs for both ISHDSF and ICCSS samples in sex-stratified analyses. However, the sex effect differed between the two samples. In expression studies, no significant difference in expression was observed between patients and controls. However, significant interactions amongst sex, diagnosis and rs3864283 genotypes were observed.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 73,
+    "question": "Can PRISM predict length of PICU stay?",
+    "context": "['PRISM is claimed to score disease severity which has attributed an impact on length of PICU stay (LOS).'\n \"To determine the impact of PRISM on LOS, and evaluate an Artificial Neural Network's (ANN) performance to estimate LOS from PRISM item patterns.\"\n \"Retrospectively we performed correlation and regression analyses on routinely scored PRISM data of all consecutive admissions to our level-III PICU from 1994 to 1999 (n>2000) with individual LOS. In addition, an ANN was trained on the chronologically first 75% of those data (inputs, PRISM items + age + sex; output, LOS). The ANN's performance was tested on the remaining most recent 25% of the data sets.\"\n \"The Spearman and Pearson coefficients of correlation between PRISM and LOS were 0.2 (p<0.001) and 0.08 (p = 0.0003), the latter being slightly higher when LOS was logarithmically transformed. Pearson's coefficient of correlation between ANN derived LOS estimate and actual LOS was 0.21 (p<0.001) (LOS logarithmically transformed: 0.34; p<0.001) in the independent validation sample.\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 74,
+    "question": "Detailed analysis of sputum and systemic inflammation in asthma phenotypes: are paucigranulocytic asthmatics really non-inflammatory?",
+    "context": "['The technique of induced sputum has allowed to subdivide asthma patients into inflammatory phenotypes according to their level of granulocyte airway infiltration. There are very few studies which looked at detailed sputum and blood cell counts in a large cohort of asthmatics divided into inflammatory phenotypes. The purpose of this study was to analyze sputum cell counts, blood leukocytes and systemic inflammatory markers in these phenotypes, and investigate how those groups compared with healthy subjects.'\n 'We conducted a retrospective cross-sectional study on 833 asthmatics recruited from the University Asthma Clinic of Liege and compared them with 194 healthy subjects. Asthmatics were classified into inflammatory phenotypes.'\n 'The total non-squamous cell count per gram of sputum was greater in mixed granulocytic and neutrophilic phenotypes as compared to eosinophilic, paucigranulocytic asthma and healthy subjects (p\\u2009<\\u20090.005). Sputum eosinophils (in absolute values and percentages) were increased in all asthma phenotypes including paucigranulocytic asthma, compared to healthy subjects (p\\u2009<\\u20090.005). Eosinophilic asthma showed higher absolute sputum neutrophil and lymphocyte counts than healthy subjects (p\\u2009<\\u20090.005), while neutrophilic asthmatics had a particularly low number of sputum macrophages and epithelial cells. All asthma phenotypes showed an increased blood leukocyte count compared to healthy subjects (p\\u2009<\\u20090.005), with paucigranulocytic asthmatics having also increased absolute blood eosinophils compared to healthy subjects (p\\u2009<\\u20090.005). Neutrophilic asthma had raised CRP and fibrinogen while eosinophilic asthma only showed raised fibrinogen compared to healthy subjects (p\\u2009<\\u20090.005).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": false
+  },
+  {
+    "idx": 75,
+    "question": "Does performance in selection processes predict performance as a dental student?",
+    "context": "['This study investigated associations between the performance of dental students in each of the three components of the selection procedure [academic average, Undergraduate Medicine and Health Sciences Admission Test (UMAT) and structured interview], socio-demographic characteristics and their academic success in an undergraduate dental surgery programme.'\n 'Longitudinal review of admissions data relating to students entering dental education at the University of Otago, New Zealand, between 2004 and 2009 was compared with academic performance throughout the dental programme.'\n 'After controlling for variables, pre-admission academic average, UMAT scores and interview performance did not predict performance as a dental student. Class place in second year, however, was a strong predictor of class place in final year. Multivariate analysis demonstrated that the best predictors of higher class placement in the final year were New Zealand European ethnicity and domestic (rather than international) student status. Other socio-demographic characteristics were not associated with performance. These interim findings provide a sound base for the ongoing study.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 76,
+    "question": "Do somatic complaints predict subsequent symptoms of depression?",
+    "context": "['Evidence suggests substantial comorbidity between symptoms of somatization and depression in clinical as well as nonclinical populations. However, as most existing research has been retrospective or cross-sectional in design, very little is known about the specific nature of this relationship. In particular, it is unclear whether somatic complaints may heighten the risk for the subsequent development of depressive symptoms.'\n 'We report findings on the link between symptoms of somatization (assessed using the SCL-90-R) and depression 5 years later (assessed using the CES-D) in an initially healthy cohort of community adults, based on prospective data from the RENO Diet-Heart Study.'\n 'Gender-stratified multiple regression analyses revealed that baseline CES-D scores were the best predictors of subsequent depressive symptoms for men and women. Baseline scores on the SCL-90-R somatization subscale significantly predicted subsequent self-reported symptoms of depressed mood 5 years later, but only in women. However, somatic complaints were a somewhat less powerful predictor than income and age.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 77,
+    "question": "Can you deliver accurate tidal volume by manual resuscitator?",
+    "context": "['One of the problems with manual resuscitators is the difficulty in achieving accurate volume delivery. The volume delivered to the patient varies by the physical characteristics of the person and method. This study was designed to compare tidal volumes delivered by the squeezing method, physical characteristics and education and practice levels.'\n '114 individuals trained in basic life support and bag-valve-mask ventilation participated in this study. Individual characteristics were obtained by the observer and the education and practice level were described by the subjects. Ventilation was delivered with a manual resuscitator connected to a microspirometer and volumes were measured. Subjects completed three procedures: one-handed, two-handed and two-handed half-compression.'\n 'The mean (standard deviation) volumes for the one-handed method were 592.84 ml (SD 117.39), two-handed 644.24 ml (SD 144.7) and two-handed half-compression 458.31 ml (SD 120.91) (p<0.01). Tidal volume delivered by two hands was significantly greater than that delivered by one hand (r = 0.398, p<0.01). The physical aspects including hand size, volume and grip power had no correlation with the volume delivered. There were slight increases in tidal volume with education and practice, but correlation was weak (r = 0.213, r = 0.281, r = 0.131, p<0.01).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 78,
+    "question": "Standardizing care in medical oncology: are Web-based systems the answer?",
+    "context": "[\"Medical oncology is embracing information technology to standardize care and improve patient outcomes, with a range of Web-based systems used internationally. The authors' aim was to determine the factors affecting the uptake and use of a Web-based protocol system for medical oncology in the Australian setting.\"\n 'The authors conducted 50 interviews and observed medical oncology physicians, nurses, and pharmacists in their treatment setting at 6 hospitals in different geographic locations.'\n \"The Web-based system plays a major role in guiding oncology treatment across participating sites. However, its use varies according to hospital location, clinician roles, and experience. A range of issues impact on clinicians' attitudes toward and use of the Web-based system. Important factors are clinician-specific (eg, their need for autonomy and perceptions of lack of time) or environmental (eg, hospital policy on protocol use, endorsement of the system, and the availability of appropriate infrastructure, such as sufficient computers). The level of education received regarding the system was also found to be integral to its ongoing use.\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 79,
+    "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+    "context": "['Studies on coronary risk factors in men and women are mainly based on mortality data and few compare results of both sexes with consistent study design and diagnostic criteria. This study assesses the major risk factors for coronary events in men and women from the Reykjavik Study.'\n 'Within a prospective, population-based cohort study individuals without history of myocardial infarction were identified and the relative risk of baseline variables was assessed in relation to verified myocardial infarction or coronary death during follow-up.'\n 'Of the 9681 women and 8888 men who attended risk assessment from 1967-1991, with follow-up period of up to 28 years, 706 women and 1700 men suffered a non-fatal myocardial infarction or coronary death.'\n 'Serum cholesterol was a significant risk factor for both sexes, with hazard ratios (HR) decreasing with age. Systolic blood pressure was a stronger risk factor for women as was ECG-confirmed left ventricular hypertrophy (women HR 2.89, 95% confidence interval [CI] 1.67-5.01; men HR 1.11 [CI 0.86-1.43]). Fasting blood glucose>or =6.7 mmol/L identified significantly higher risk for women (HR 2.65) than men (HR 2.08) as did self-reported diabetes. Triglyceride risk was significantly higher for women and decreased significantly with age. Smoking increased risk two- to five-fold, increasing with dose, for women, which was significantly higher than the doubling in risk for men.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  },
+  {
+    "idx": 80,
+    "question": "Is Panton-Valentine leucocidin associated with the pathogenesis of Staphylococcus aureus bacteraemia in the UK?",
+    "context": "['The morbidity and mortality associated with Panton-Valentine leucocidin (PVL)-positive Staphylococcus aureus suggest that this toxin is a key marker of disease severity. Nevertheless, the importance of PVL in the pathogenesis of primary bacteraemia caused by S. aureus is uncertain. We have determined the prevalence of PVL-encoding genes among isolates of S. aureus from bacteraemic patients.'\n 'Consecutive bacteraemia isolates of S. aureus (n=244) from patients hospitalized in 25 centres in the UK and Ireland during 2005 were screened for PVL and mecA genes. PVL-positive isolates were characterized by toxin gene profiling, PFGE, spa-typing and MIC determinations for a range of antimicrobials.'\n 'Four out of 244 isolates (1.6%) were PVL-positive and susceptible to oxacillin [methicillin-susceptible S. aureus (MSSA)]. Eighty-eight out of 244 (36%) were oxacillin-resistant (methicillin-resistant S. aureus), but none was PVL-positive. The four patients (two males: 30 and 33 years; two females: 62 and 80 years) had infection foci of: skin and soft tissue, unknown, indwelling line, and surgical site, and were located at one centre in Wales, one in England and two in Ireland. One of four PVL-positive isolates was resistant to penicillin and fusidic acid, the remainder were susceptible to all antibiotics tested. Genotypic analyses showed that the four isolates represented three distinct strains; the two isolates from Ireland were related.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 81,
+    "question": "Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?",
+    "context": "['Celiac disease (CD) is believed to be a permanent intolerance to gluten. A number of patients, however, discontinue the gluten-free diet (GFD) without developing symptoms or signs. The aim of our study was to investigate whether CD patients are capable of developing tolerance to gluten.'\n 'All 77 adult patients from our hospital known to have biopsy-proven CD for more than 10 years were invited to participate. We investigated symptoms, gluten consumption, antibodies for CD and other autoimmunity, human leukocyte antigen (HLA)-typing, bone mineral density, and performed small bowel biopsies. Tolerance was defined as no immunological or histological signs of CD while consuming gluten.'\n 'Sixty-six patients accepted participation, but after review of the diagnostic biopsies 53 were found to have true CD. Twenty-three percent of patients had a gluten-containing diet, 15% admitted gluten transgression and 62% followed the GFD. Patients on a GFD had significantly more osteoporosis. Normal small bowel mucosa was found in four of eight on gluten-containing diet and in four of four with gluten transgression. Two patients were considered to have developed tolerance to gluten. One of them was HLA-DQ2/DQ8 negative.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 82,
+    "question": "Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?",
+    "context": "['The main treatment for rectal carcinoma is surgery. Preoperative chemoradiation (CRT) is advocated to reduce local recurrence and improve resection of mid and low tethered rectal tumors.'\n 'Fifty-two patients with mid or low rectal tumors underwent CRT (external beam radiation plus 5-fluorouracil plus folinic acid). Patients who had low rectal tumors with complete response (CR) were not submitted to surgical treatment. All other patients were submitted to surgery, independently of the response. Mean follow-up was 32.1 months.'\n 'Five-year overall survival was 60.5%. Clinical evaluation after CRT showed CR in 10 cases (19.2%), all low tumors; incomplete response (>50%) in 21 (40.4%); and no response (<50%) in 19 (36.6%). Among the 10 cases with CR, 8 presented with local recurrence within 3.7 to 8.8 months. Two patients were not submitted to surgery and are still alive without cancer after 37 and 58 months. Thirty-nine patients had radical surgery. Seven had local recurrences after CRT plus surgery (17.9%). Overall survival was negatively affected by lymph node metastases (P =.017) and perineural invasion (P =.026).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 83,
+    "question": "Ultra high risk (UHR) for psychosis criteria: are there different levels of risk for transition to psychosis?",
+    "context": "['The ultra high risk (UHR) for psychosis criteria have been validated in a number of studies. However, it is not known whether particular UHR criteria (Attenuated Psychotic Symptoms (APS), Brief Limited Intermittent Psychotic Symptoms (BLIPS) or Trait vulnerability criteria), or combination of criteria, is associated with a higher risk of transition to psychosis. The current study investigated this issue over a 6-month follow-up period. We hypothesised that the risk of transition would increase in the following order: Trait alone<APS alone<APS+Trait<BLIPS.'\n 'Data on UHR intake criteria and transition to psychosis status at 6 months were analysed for UHR patients seen at the PACE clinic, Orygen Youth Health between January 2000 and November 2008.'\n 'A total of 928 new referrals were accepted into the PACE clinic over this period of whom 817 (88%) had baseline information available for analysis. The percentage of subjects who presented with APS, Trait and BLIPS were 83%, 27% and 4%, respectively. When the two intermediate groups (APS alone and APS+Trait) were combined, there was evidence that the risk of transition increased in the order of Trait alone<APS<BLIPS (p=0.024, adjusted analysis).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 84,
+    "question": "Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?",
+    "context": "['Recent studies have demonstrated that statins have pleiotropic effects, including anti-inflammatory effects and atrial fibrillation (AF) preventive effects. The objective of this study was to assess the efficacy of preoperative statin therapy in preventing AF after coronary artery bypass grafting (CABG).'\n '221 patients underwent CABG in our hospital from 2004 to 2007. 14 patients with preoperative AF and 4 patients with concomitant valve surgery were excluded from this study. Patients were divided into two groups to examine the influence of statins: those with preoperative statin therapy (Statin group, n = 77) and those without it (Non-statin group, n = 126). In addition, patients were divided into two groups to determine the independent predictors for postoperative AF: those with postoperative AF (AF group, n = 54) and those without it (Non-AF group, n = 149). Patient data were collected and analyzed retrospectively.'\n 'The overall incidence of postoperative AF was 26%. Postoperative AF was significantly lower in the Statin group compared with the Non-statin group (16% versus 33%, p = 0.005). Multivariate analysis demonstrated that independent predictors of AF development after CABG were preoperative statin therapy (odds ratio [OR]0.327, 95% confidence interval [CI] 0.107 to 0.998, p = 0.05) and age (OR 1.058, 95% CI 1.004 to 1.116, p = 0.035).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 85,
+    "question": "Metered-dose inhalers. Do health care providers know what to teach?",
+    "context": "['The specific aim of this investigation was to evaluate the proficiency of health care providers and patients in the proper use of metered-dose inhalers.'\n 'Health care providers, which include house staff, nurses, and respiratory care practitioners who provide care to patients with asthma in the primary general medicine clinic or the pulmonary medicine clinic of a university-county hospital in which patients were referred, were surveyed and assigned a performance score regarding the knowledge base of the appropriate use of metered-dose inhalers. Patients who attended the primary care general medicine and pulmonary subspecialty clinic were also assessed as to their proficiency in the use of metered-dose inhalers.'\n 'A significant percentage of patients had a poor understanding of the technique used with the metered-dose inhaler. House staff and nursing staff were also less proficient in the proper use of the metered-dose inhaler. The respiratory care practitioners were the most knowledgeable of the health care providers.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 86,
+    "question": "Proliferative index obtained by DNA image cytometry. Does it add prognostic information in Auer IV breast cancer?",
+    "context": "['To investigate whether the S + G2/M fraction (proliferative index) is a prognostic determinant in breast cancers classified as Auer IV.'\n 'Prognostic evaluation of Auer IV DNA histograms with respect to the high versus low S + G2/M fraction, obtained by image cytometry on consecutive breast cancer imprint preparations.'\n 'When studying recurrence-free survival (n = 136), the prognostic value of S + G2/M was found to vary with time: it was negligible before the median time to relapse (1.5 years) but thereafter statistically significant, in both univariate and multivariate analysis. The same pattern was found when overall survival was used as the end point; the effect was delayed to about the median time until death (three years). Tumors with a low S + G2/M fraction were smaller and more often estrogen receptor- and progesterone receptor-positive than those with a high S + G2/M fraction.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 87,
+    "question": "Are performance measurement systems useful?",
+    "context": "['Prior literature identified the use of Performance Measurement Systems (PMS) as crucial in addressing improved processes of care. Moreover, a strategic use of PMS has been found to enhance quality, compared to non-strategic use, although a clear understanding of this linkage is still to be achieved. This paper deals with the test of direct and indirect models related to the link between the strategic use of PMS and the level of improved processes in health care organizations. Indirect models were mediated by the degree of perceived managerial discretion.'\n 'A PLS analysis on a survey of 97 Italian managers working for health care organizations in the Lombardy region was conducted. The response rate was 77.6%.'\n 'The strategic use of PMS in health care organizations directly and significantly (p\\u2009<\\u20090.001) enhances performance in terms of improved processes. Perceived managerial discretion is positively and significantly (p\\u2009<\\u20090.001) affected by the strategic use of PMS, whereas the mediation effect is non-significant.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 88,
+    "question": "Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does edaravone offer protection?",
+    "context": "['Twenty-eight female Sprague Dawley rats were allocated randomly to 4 groups. The sham group (group 1) was only subjected to catheter insertion, not to pneumoperitoneum. Group 2 received a 1 mg/kg dose of 0.9% sodium chloride by the intraperitoneal route for 10 min before pneumoperitoneum. Groups 3 and 4 received 6 and 12 mg/kg edaravone, respectively, by the intraperitoneal route for 10 min before pneumoperitoneum. After 60 min of pneumoperitoneum, the gas was deflated. Immediately after the reperfusion period, both ovaries were excised for histological scoring, caspase-3 immunohistochemistry and biochemical evaluation including glutathione (GSH) and malondialdehyde (MDA) levels. Also, total antioxidant capacity (TAC) was measured in plasma samples to evaluate the antioxidant effect of edaravone.'\n 'Ovarian sections in the saline group revealed higher scores for follicular degeneration and edema (p<0.0001) when compared with the sham group. Administration of different doses of edaravone in rats significantly prevented degenerative changes in the ovary (p<0.0001). Caspase-3 expression was only detected in the ovarian surface epithelium in all groups, and there was a significant difference between the treatment groups and the saline group (p<0.0001). Treatment of rats with edaravone reduced caspase-3 expression in a dose-dependent manner. Moreover, biochemical measurements of oxidative stress markers (MDA, GSH and TAC) revealed that prophylactic edaravone treatment attenuated oxidative stress induced by I/R injury.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 89,
+    "question": "Does vaginal intraepithelial neoplasia have the same evolution as cervical intraepithelial neoplasia?",
+    "context": "['Vaginal intraepithelial neoplasia is a little known disease which could be related to risk factors different from simple HPV infections.'\n 'To ascertain wheter vaginal lesions have a natural history similar to cervical lesions.MATERIALS &'\n 'A retrospective study to identify patients with vaginal lesions and synchronous cervical lesions through biopsy. The rate of mild cervical lesions (koilocytosis, warts, CIN I with and without koilocytosis) was compared with the rate of severe cervical lesions (CIN II and III, cervical carcinoma) in patients with mild vaginal lesions (warts and koilocytosis, and low-grade VAIN) and in patients with severe vaginal lesions (high-grade VAIN). Using koilocytosis as a marker, the rate of \"active\" cervical lesions was compared with the rate of \"non active\" cervical lesions in patients with \"active\" versus \"non active\" vaginal lesions. Finally, the rates of mild and severe cervical lesions were compared among each group of VAIN (low-grade, high-grade, with or without koilocytosis).'\n 'In patients with mild vaginal lesions, mild cervical lesions were significantly more frequent than severe cervical lesions. In patients with \"active\" vaginal lesions the rate of \"active\" cervical lesions was significantly higher than \"non active\" cervical lesions. The differences in rates of mild cervical lesions and severe cervical lesions among patients with high-grade VAIN and low-grade VAIN (with and without koilocytosis) were not significant.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 90,
+    "question": "Does the severity of obstructive sleep apnea predict patients requiring high continuous positive airway pressure?",
+    "context": "['To investigate polysomnographic and anthropomorphic factors predicting need of high optimal continuous positive airway pressure (CPAP).'\n 'Retrospective data analysis.'\n 'Three hundred fifty-three consecutive obstructive sleep apnea (OSA) patients who had a successful manual CPAP titration in our sleep disorders unit.'\n 'The mean optimal CPAP was 9.5 +/- 2.4 cm H2O. The optimal CPAP pressure increases with an increase in OSA severity from 7.79 +/- 2.2 in the mild, to 8.7 +/- 1.8 in the moderate, and to 10.1 +/- 2.3 cm H2O in the severe OSA group. A high CPAP was defined as the mean + 1 standard deviation (SD;>or =12 cm H2O). The predictor variables included apnea-hypopnea index (AHI), age, sex, body mass index (BMI), Epworth Sleepiness Scale (ESS), and the Multiple Sleep Latency Test (MSLT). High CPAP was required in 2 (6.9%), 6 (5.8%), and 63 (28.6%) patients with mild, moderate, and severe OSA, respectively. On univariate analysis, AHI, BMI, ESS score, and the proportion of males were significantly higher in those needing high CPAP. They also have a lower MSLT mean. On logistic regression, the use of high CPAP was 5.90 times more frequent (95% confidence interval 2.67-13.1) in severe OSA patients after adjustment for the other variables. The area under the receiver operator curve was 72.4%, showing that the model was adequate.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": false
+  },
+  {
+    "idx": 91,
+    "question": "Actinobaculum schaalii, a cause of urinary tract infections in children?",
+    "context": "['Urine samples were examined by wet smear microscopy, incubated in 5% CO(2) for 1-2 days, and species-specific real-time polymerase chain reaction (PCR) for A. schaalii was performed.'\n 'In 5 of the 29 screened urines, A. schaalii was found only by real-time PCR in quantities equivalent to \u2265 10(4) -10(5) CFU/mL. In addition, A. schaalii was found in quantities equivalent to \u2265 10(6) CFU/mL by both culture and PCR in two children with a urinary tract infection and large numbers of leucocytes in the urine.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 92,
+    "question": "Is the cell death in mesial temporal sclerosis apoptotic?",
+    "context": "['Mesial temporal sclerosis (MTS) is characterized by neuronal loss in the hippocampus. Studies on experimental models and patients with intractable epilepsy suggest that apoptosis may be involved in neuronal death induced by recurrent seizures.'\n 'We searched evidence for apoptotic cell death in temporal lobes resected from drug-resistant epilepsy patients with MTS by using the terminal deoxynucleotidyl transferase (TdT) and digoxigenin-11-dUTP (TUNEL) method and immunohistochemistry for Bcl-2, Bax, and caspase-cleaved actin fragment, fractin. The temporal lobe specimens were obtained from 15 patients (six women and nine men; mean age, 29 +/- 8 years).'\n 'Unlike that in normal adult brain, we observed Bcl-2 immunoreactivity in some of the remaining neurons dispersed throughout the hippocampus proper as well as in most of the reactive astroglia. Bax immunopositivity was increased in almost all neurons. Fractin immunostaining, an indicator of caspase activity, was detected in approximately 10% of these neurons. Despite increased Bax expression and activation of caspases, we could not find evidence for DNA fragmentation by TUNEL staining. We also could not detect typical apoptotic changes in nuclear morphology by Hoechst-33258 or hematoxylin counterstaining.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 93,
+    "question": "Empiric treatment of uncomplicated urinary tract infection with fluoroquinolones in older women in Israel: another lost treatment option?",
+    "context": "['Current guidelines for the treatment of uncomplicated urinary tract infection (UTI) in women recommend empiric therapy with antibiotics for which local resistance rates do not exceed 10-20%. We hypothesized that resistance rates of Escherichia coli to fluoroquinolones may have surpassed this level in older women in the Israeli community setting.'\n 'To identify age groups of women in which fluoroquinolones may no longer be appropriate for empiric treatment of UTI.'\n 'Resistance rates for ofloxacin were calculated for all cases of uncomplicated UTI diagnosed during the first 5 months of 2005 in a managed care organization (MCO) in Israel, in community-dwelling women aged 41-75 years. The women were without risk factors for fluoroquinolone resistance. Uncomplicated UTI was diagnosed with a urine culture positive for E. coli. The data set was stratified for age, using 5 year intervals, and stratum-specific resistance rates (% and 95% CI) were calculated. These data were analyzed to identify age groups in which resistance rates have surpassed 10%.'\n 'The data from 1291 urine cultures were included. The crude resistance rate to ofloxacin was 8.7% (95% CI 7.4 to 10.2). Resistance was lowest among the youngest (aged 41-50 y) women (3.2%; 95% CI 1.11 to 5.18), approached 10% in women aged 51-55 years (7.1%; 95% CI 3.4 to 10.9), and reached 19.86% (95% CI 13.2 to 26.5) among the oldest women (aged 56-75 y).']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 94,
+    "question": "Multidisciplinary breast cancer clinics. Do they work?",
+    "context": "['In an attempt to improve the care they provide for their patients with breast cancer, the authors\\' institution developed a multidisciplinary breast cancer clinic (MDBCC) to offer \"one-stop shopping\" consultation and support for newly diagnosed breast cancer patients.'\n \"One hundred sixty-two patients, the control group for this study, were evaluated at Henry Ford Hospital during the year prior to the opening of the MDBCC. These patients, who were referred in the traditional sequential consultation manner, were compared with the first 177 patients seen during the first year of the clinic's operation. Retrospective chart reviews were conducted to assess treatment timeliness, and anonymous questionnaires were used to assess patient satisfaction.\"\n \"The authors found that the MDBCC increased patient satisfaction by encouraging involvement of patients' families and friends and by helping patients make treatment decisions (P<0.001). The time between diagnosis and the initiation of treatment was also significantly decreased (42.2 days vs. 29.6 days; P<0.0008).\"]",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "yes",
+    "processed_response": "yes",
+    "is_correct": true
+  },
+  {
+    "idx": 95,
+    "question": "Are neighbourhood social capital and availability of sports facilities related to sports participation among Dutch adolescents?",
+    "context": "['The aim of this study is to explore whether availability of sports facilities, parks, and neighbourhood social capital (NSC) and their interaction are associated with leisure time sports participation among Dutch adolescents.'\n 'Cross-sectional analyses were conducted on complete data from the last wave of the YouRAction evaluation trial. Adolescents (n\\u2009=\\u2009852) completed a questionnaire asking for sports participation, perceived NSC and demographics. Ecometric methods were used to aggregate perceived NSC to zip code level. Availability of sports facilities and parks was assessed by means of geographic information systems within the zip-code area and within a 1600 meter buffer. Multilevel logistic regression analyses, with neighborhood and individual as levels, were conducted to examine associations between physical and social environmental factors and leisure time sports participation. Simple slopes analysis was conducted to decompose interaction effects.'\n 'NSC was significantly associated with sports participation (OR: 3.51 (95%CI: 1.18;10.41)) after adjustment for potential confounders. Availability of sports facilities and availability of parks were not associated with sports participation. A significant interaction between NSC and density of parks within the neighbourhood area (OR: 1.22 (90%CI: 1.01;1.34)) was found. Decomposition of the interaction term showed that adolescents were most likely to engage in leisure time sports when both availability of parks and NSC were highest.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 96,
+    "question": "Does government assistance improve utilization of eye care services by low-income individuals?",
+    "context": "['To examine whether government-funded, low-income vision care programs improve use of eye care services by low-income individuals in Canada.'\n 'Cross-sectional survey.'\n '27,375 white respondents to the Canadian Community Health Survey (CCHS) Healthy Aging 2008/2009.'\n 'Government-funded, low-income vision care programs were reviewed. The amount of assistance provided was compared with professional fee schedules for general/routine eye examinations and market prices for eyeglasses. The utilization of eye care providers was derived from the CCHS.'\n 'To receive low-income vision care assistance, individuals must be in receipt of social assistance. Criteria for receiving social assistance are stringent. The Canadian Financial Capability Survey revealed that 7.9% of Canadians aged 45 to 64 years and 5.5% aged \u226565 years received social assistance in 2009. The CCHS found in 2008/2009 that 12.5% of citizens aged 45 to 64 years and 13.2% of those aged \u226565 years had difficulty paying for basic expenses such as food. In 5 provinces, low-income vision care assistance fully covers a general/routine eye examination. In the remainder, the assistance provided is insufficient for a general/routine eye examination. The assistance for eyeglasses is inadequate in 5 provinces, requiring out-of-pocket copayments. Among middle-aged whites who self-reported not having glaucoma, cataracts, diabetes, or vision problems not corrected by lenses, utilization of eye care providers was 28.1% among those with financial difficulty versus 41.9% among those without (p<0.05), giving a prevalence ratio 0.68 (95% CI 0.57-0.80) adjusted for age, sex and education.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 97,
+    "question": "Is muscle power related to running speed with changes of direction?",
+    "context": "['The purpose of this study was to identify the relationships between leg muscle power and sprinting speed with changes of direction.'\n 'the study was designed to describe relationships between physical qualities and a component of sports performance.'\n 'testing was conducted in an indoor sports hall and a biomechanics laboratory.'\n '15 male participants were required to be free of injury and have recent experience competing in sports involving sprints with changes of direction.'\n 'subjects were timed in 8 m sprints in a straight line and with various changes of direction. They were also tested for bilateral and unilateral leg extensor muscle concentric power output by an isokinetic squat and reactive strength by a drop jump.'\n 'The correlations between concentric power and straight sprinting speed were non-significant whereas the relationships between reactive strength and straight speed were statistically significant. Correlations between muscle power and speed while changing direction were generally low and non-significant for concentric leg power with some moderate and significant (p<0.05) coefficients found for reactive strength. The participants who turned faster to one side tended to have a reactive strength dominance in the leg responsible for the push-off action.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "yes",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": false
+  },
+  {
+    "idx": 98,
+    "question": "Storage of vaccines in the community: weak link in the cold chain?",
+    "context": "['To assess quality of storage of vaccines in the community.'\n 'Questionnaire survey of general practices and child health clinics, and monitoring of storage temperatures of selected refrigerators.'\n 'Central Manchester and Bradford health districts.'\n '45 general practices and five child health clinics, of which 40 (80%) responded. Eight practices were selected for refrigeration monitoring.'\n 'Adherence to Department of Health guidelines for vaccine storage, temperature range to which vaccines were exposed over two weeks.'\n 'Of the 40 respondents, only 16 were aware of the appropriate storage conditions for the vaccines; eight had minimum and maximum thermometers but only one of these was monitored daily. In six of the eight practices selected for monitoring of refrigeration temperatures the vaccines were exposed to either subzero temperatures (three fridges) or temperatures up to 16 degrees C (three). Two of these were specialised drug storage refrigerators with an incorporated thermostat and external temperature gauges.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "maybe",
+    "model_response": "maybe",
+    "processed_response": "maybe",
+    "is_correct": true
+  },
+  {
+    "idx": 99,
+    "question": "Do preoperative serum C-reactive protein levels predict the definitive pathological stage in patients with clinically localized prostate cancer?",
+    "context": "['The serum C-reactive protein (CRP) level correlates with the clinical prognosis in patients with kidney, penile and metastatic castration-resistant prostate cancer (PC). We prospectively evaluated the preoperative CRP level as a predictive marker for an advanced tumor stage or high-grade cancer in patients with clinically localized PC.'\n 'The study evaluated 629 patients with clinically localized PC who underwent radical prostatectomy between 2010 and 2013. Exclusion criteria were signs of systemic infection, symptoms of an autoimmune disease or neoadjuvant androgen deprivation.'\n 'Poorly differentiated PC tends to be more common in patients with elevated CRP levels (15.5 vs. 9.5%, p = 0.08). Analogously, patients with a Gleason score \u22658 PC had significantly higher median CRP levels than those with a Gleason score \u22647 PC (1.9 vs. 1.2 mg/l, p = 0.03). However, neither uni- nor multivariate analysis showed an association between the preoperative CRP level and the presence of a locally advanced tumor stage, lymph node metastases or a positive surgical margin. CRP also failed to correlate with the initial PSA level and the clinical tumor-associated findings. Moreover, multivariate analysis relativized the association between an elevated CRP level and poor tumor differentiation.']",
+    "options": "{'A': 'yes', 'B': 'no', 'C': 'maybe'}",
+    "correct_answer": "no",
+    "model_response": "no",
+    "processed_response": "no",
+    "is_correct": true
+  }
+]

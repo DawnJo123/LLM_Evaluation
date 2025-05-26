@@ -1,0 +1,1356 @@
+input,output,instruction,generated_answer,inference_time,rouge1,rouge2,rougeL,bleu,meteor,semantic_similarity
+What to expect if I have Trichomoniasis  (Outlook/Prognosis)?,"With proper treatment, the outcome is likely to be excellent. Individuals, generally, make a full recovery.",Answer this question truthfully,"Trichomoniasis is a sexually transmitted infection caused by the parasite Trichomonas vaginalis. The outlook for individuals with trichomoniasis is generally positive, especially with appropriate treatment. Here are key points regarding the prognosis:
+
+1. **Symptoms**: Many people with trichomoniasis may be asymptomatic. When symptoms do occur, they can include vaginal discharge, itching, discomfort during intercourse, and urinary issues in women, while men may experience urethral discharge and irritation.
+
+2. **Diagnosis**: Trichomoniasis is diagnosed through laboratory tests, including microscopic examination of discharge or nucleic acid amplification tests.
+
+3. **Treatment**: The infection is typically treated with antibiotics, most commonly metronidazole or tinidazole. Treatment is effective, and symptoms usually resolve within a few days after starting medication.
+
+4. **Complications**: If left untreated, trichomoniasis can lead to complications such as increased susceptibility to other sexually transmitted infections (including HIV), pelvic inflammatory disease in women, and potential complications during pregnancy.
+
+5. **Recurrence**: There is a possibility of reinfection, especially if sexual partners are not treated simultaneously. It is important to inform and treat all sexual partners to prevent recurrence.
+
+6. **Long-term Outlook**: With proper treatment, the prognosis is excellent, and most individuals recover fully without long-term health issues.
+
+If you suspect you have trichomoniasis or have been diagnosed, it is important to follow your healthcare provider's recommendations for treatment and follow-up.",6.184538125991821,0.09361702127659573,0.02575107296137339,0.05957446808510638,0.015725622003220353,0.23645973843176354,0.8448344469070435
+What causes Idiopathic thrombocytopenic purpura?,"ITP occurs when certain immune system cells produce antibodies against platelets. Platelets help your blood clot by clumping together to plug small holes in damaged blood vessels.
+The antibodies attach to the platelets. The spleen destroys the platelets that carry the antibodies.
+In children, the disease sometimes follows a viral infection. In adults, it is more often a chronic (long-term) disease and can occur after a viral infection, with use of certain drugs, during pregnancy, or as part of an immune disorder.
+ITP affects women more frequently than men, and is more common in children than adults. The disease affects boys and girls equally.",Answer this question truthfully,"Idiopathic thrombocytopenic purpura (ITP) is characterized by a low platelet count (thrombocytopenia) and is often associated with easy bruising and bleeding. The exact cause of ITP is not fully understood, which is why it is termed ""idiopathic."" However, it is believed to involve an autoimmune response where the immune system mistakenly targets and destroys platelets. 
+
+In some cases, ITP can be secondary to other conditions, such as:
+
+- Viral infections (e.g., HIV, hepatitis, or Epstein-Barr virus)
+- Autoimmune diseases (e.g., lupus)
+- Certain medications
+- Bone marrow disorders
+
+In children, ITP often follows a viral infection and may resolve spontaneously. In adults, the condition can be chronic and may require treatment.",2.5591421127319336,0.39999999999999997,0.09389671361502348,0.18604651162790697,0.0745376292247821,0.27338746474098113,0.9604513049125671
+Who is at highest risk for Ichthyosis vulgaris ?,"Ichthyosis vulgaris is a genetic disorder, so anyone with a family history of the disorder is at risk.",Answer this question truthfully,"Ichthyosis vulgaris is a genetic skin disorder characterized by dry, scaly skin. The highest risk groups include:
+
+1. **Individuals with a family history**: It is often inherited in an autosomal dominant pattern, meaning that having a parent with the condition increases the risk.
+2. **Children**: Symptoms typically appear in early childhood, often by age 1.
+3. **Individuals with other atopic conditions**: Those with a history of eczema or asthma may have a higher likelihood of developing ichthyosis vulgaris.
+
+Overall, the condition is more common in individuals with a genetic predisposition.",3.8010952472686768,0.25925925925925924,0.1509433962264151,0.2407407407407407,0.05852043061026629,0.3570679530201343,0.9419078230857849
+What causes Hydrocele?,"Hydroceles are common in newborn infants. During normal development, the testicles descend down a tube from the abdomen into the scrotum. Hydroceles result when this tube fails to close. Fluid drains from the abdomen through the open tube. The fluid builds up in the scrotum, where it becomes trapped. This causes the scrotum to become swollen. Hydroceles normally go away a few months after birth, but their appearance may worry new parents. Occasionally, a hydrocele may be associated with an inguinal hernia. Hydroceles may also be caused by inflammation or injury of the testicle or epididymis, or by fluid or blood blockage within the spermatic cord. This type of hydrocele is more common in older men.",Answer this question truthfully,"A hydrocele is caused by the accumulation of fluid in the tunica vaginalis, the membrane surrounding the testicle. The primary causes include:
+
+1. **Congenital Factors**: In infants, a hydrocele can occur if the processus vaginalis, a pouch of peritoneum, fails to close properly, allowing fluid to accumulate.
+
+2. **Injury or Trauma**: Injury to the scrotum or testicles can lead to fluid buildup.
+
+3. **Infection or Inflammation**: Conditions such as epididymitis or orchitis can cause inflammation and result in fluid accumulation.
+
+4. **Tumors**: Testicular tumors can also lead to the development of a hydrocele.
+
+5. **Other Medical Conditions**: Conditions that affect lymphatic drainage or cause fluid imbalance, such as heart failure or liver disease, may contribute to hydrocele formation.
+
+Hydroceles are usually benign and may resolve on their own, but persistent cases may require medical evaluation and treatment.",2.350628614425659,0.4031620553359684,0.07171314741035857,0.16600790513833993,0.020158866644634264,0.26415833986430987,0.9698545336723328
+What to expect if I have Impacted tooth  (Outlook/Prognosis)?,"Impacted teeth may cause no problems for some people and may never require treatment. Treatment is usually successful when it does cause symptoms.
+It is often preferable to have wisdom teeth removed before age 30 due to the flexibility of bone, which will allow an easier removal and better healing. As a person ages, the bone becomes more rigid and complications can develop.",Answer this question truthfully,"If you have an impacted tooth, particularly a wisdom tooth, the outlook and prognosis can vary based on several factors, including the tooth's position, the presence of symptoms, and your overall dental health. Here are some key points to consider:
+
+1. **Symptoms**: Impacted teeth can cause pain, swelling, infection, or damage to adjacent teeth. Some people may experience no symptoms at all.
+
+2. **Diagnosis**: Dentists typically use X-rays to assess the position of the impacted tooth and determine the best course of action.
+
+3. **Treatment**: If the impacted tooth is causing problems, extraction is often recommended. In some cases, monitoring may be sufficient if there are no symptoms.
+
+4. **Prognosis**: After extraction, most patients experience relief from pain and other symptoms. Complications are rare but can include infection or dry socket.
+
+5. **Long-term Outlook**: Once an impacted tooth is removed, the prognosis is generally good, and most people do not experience further issues related to that tooth.
+
+6. **Preventive Care**: Maintaining good oral hygiene and regular dental check-ups can help prevent complications associated with impacted teeth.
+
+If you suspect you have an impacted tooth, it's important to consult a dentist for a personalized assessment and treatment plan.",2.7965574264526367,0.2641509433962264,0.030418250950570342,0.12830188679245283,0.004553814351980337,0.2547003306235571,0.9500858187675476
+When to seek urgent medical care when I have Hypospadias ?,Typically a child is diagnosed with hypospadias shortly after birth. Call your health care provider if you notice that your son's urethral opening is abnormally located or that his penis becomes curved during erection.,Answer this question truthfully,"If you or your child has hypospadias, you should seek urgent medical care in the following situations:
+
+1. **Severe Bleeding**: If there is significant bleeding from the urethra or surgical site that does not stop with gentle pressure.
+
+2. **Signs of Infection**: Symptoms such as fever, increased pain, swelling, redness, or discharge from the surgical site.
+
+3. **Difficulty Urinating**: If there is an inability to urinate or if urination is extremely painful.
+
+4. **Swelling or Discomfort**: Severe swelling or discomfort that is not relieved by over-the-counter pain medications.
+
+5. **Changes in Urine Stream**: If there are sudden changes in the urine stream or if it becomes obstructed.
+
+6. **Post-Surgical Concerns**: If there are concerns following surgical repair, such as the appearance of the surgical site or any unusual symptoms.
+
+Always consult with a healthcare provider for personalized advice and to determine the best course of action based on individual circumstances.",3.2682905197143555,0.15957446808510636,0.01075268817204301,0.09574468085106383,0.003234883227892165,0.15947467166979362,0.9222580790519714
+When to seek urgent medical care when I have Congenital heart block ?,"The symptoms may suggest other health problems as well. If the symptoms mentioned above are new or severe,the patient need to visit hospital emergency room. For milder symptoms, talk with your doctor right away to find out whether the patient need prompt treatment.",Answer this question truthfully,"If you have congenital heart block, you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Severe Fatigue**: Unusual or extreme tiredness that interferes with daily activities.
+2. **Dizziness or Lightheadedness**: Especially if it leads to fainting or near-fainting episodes.
+3. **Shortness of Breath**: Difficulty breathing, especially during rest or minimal exertion.
+4. **Chest Pain or Discomfort**: Any new or worsening chest pain should be evaluated immediately.
+5. **Palpitations**: Noticeable irregular heartbeats or a rapid heart rate.
+6. **Swelling**: Sudden swelling in the legs, ankles, or abdomen.
+7. **Changes in Consciousness**: Confusion, disorientation, or loss of consciousness.
+
+These symptoms may indicate worsening heart function or complications related to heart block, and prompt evaluation is essential. Always consult your healthcare provider for personalized advice based on your specific condition.",2.343885660171509,0.16853932584269665,0.022727272727272728,0.10112359550561797,0.004174721394375183,0.16587677725118488,0.9388573169708252
+What are the symptoms of stomach cancer?,"Early stomach cancer does not have any symptoms. When the cancer grows larger, people may notice one or more symptoms, such as the following:
+Abdominal symptoms
+Abdominal pain - At first the location may be in the upper or middle abdomen. It is typically a relatively mild pain. With the development of the cancer, abdominal pain may be persistent. Loss of appetite - Some patients endure a loss of appetite without any inducement. Nausea and vomiting - This is also because of the affect of the lump. It disturbs the normal digestive functions. Vomiting blood - Sometimes a massive hemorrhage of the gastrointestinal tract may occur. Vague abdominal fullness - This is because of the development of the lump. Premature abdominal fullness after meals: This is induced by the decreased amount of gastric space with the growth of the lump.
+Abdominal lump - People can not find any lump at the beginning of the disease. When the cancer enlarges, the lump may be obvious in the abdomen.
+Whole body symptoms
+General decline in health- This is because of the consumption of the cancer. Weakness or fatigue - The reason is also because the cancer wastes your energy.
+Infections or other health problems may also cause these symptoms. Only a doctor can tell for sure. A person with any of these symptoms should tell his/her doctor so that problems can be diagnosed and treated as early as possible.
+Abdominal and whole body symptoms have no specificity. Other health problems may also cause similar symptoms. Go to see your doctor to verify your diseases as early as possible. Diseases with similar symptoms are listed in the following:
+Acute or chronic gastritis Angina Cholelithiasis and cholecystitis Depression Gastric ulcer Gastroesophageal reflux disease (GERD)",Answer this question truthfully,"Symptoms of stomach cancer can vary but may include:
+
+1. **Unexplained weight loss**: Losing weight without trying.
+2. **Persistent stomach pain**: Discomfort or pain in the abdomen.
+3. **Nausea and vomiting**: Feeling sick to the stomach or vomiting, which may include blood.
+4. **Difficulty swallowing**: Feeling like food is getting stuck in the throat or chest.
+5. **Loss of appetite**: Decreased desire to eat.
+6. **Bloating**: Feeling full after eating small amounts of food.
+7. **Fatigue**: Persistent tiredness or weakness.
+8. **Indigestion**: Frequent heartburn or indigestion.
+9. **Anemia**: Low red blood cell count, which can cause fatigue and weakness.
+
+It's important to note that these symptoms can also be associated with other conditions. If someone experiences these symptoms persistently, they should consult a healthcare professional for evaluation.",2.757072687149048,0.28155339805825247,0.05853658536585367,0.15048543689320387,0.02181072839661564,0.15787010745604957,0.943102240562439
+What to expect if I have Hypopituitarism  (Outlook/Prognosis)?,"Prognosis of hypopituitarism depends on:
+The cause of hypopituitarism: Prognosis of hypopituitarism resulting from tumor is worse than other causes. The reaction of hormone replacement therapy.",Answer this question truthfully,"Hypopituitarism is a condition characterized by insufficient production of one or more hormones from the pituitary gland. The outlook and prognosis for individuals with hypopituitarism can vary based on several factors, including the underlying cause, the specific hormones affected, and the effectiveness of treatment.
+
+### Key Points on Outlook/Prognosis:
+
+1. **Treatment**: Most individuals with hypopituitarism can manage their condition effectively with hormone replacement therapy. This may include medications to replace hormones such as cortisol, thyroid hormone, sex hormones, and growth hormone.
+
+2. **Underlying Cause**: The prognosis can depend on the cause of hypopituitarism. For example, if it is due to a tumor that can be surgically removed, the outlook may be more favorable compared to cases caused by irreversible damage to the pituitary gland.
+
+3. **Monitoring**: Regular follow-up with healthcare providers is essential to monitor hormone levels and adjust treatment as necessary. This helps prevent complications associated with hormone deficiencies.
+
+4. **Quality of Life**: With appropriate treatment, many individuals can lead normal or near-normal lives. However, untreated hypopituitarism can lead to significant health issues, including fatigue, weight gain, infertility, and decreased quality of life.
+
+5. **Complications**: Long-term complications can arise if the condition is not managed properly, including cardiovascular issues, osteoporosis, and metabolic disorders.
+
+6. **Psychological Impact**: Some individuals may experience psychological effects, such as depression or anxiety, which can also be addressed through treatment and support.
+
+In summary, with proper diagnosis and treatment, individuals with hypopituitarism can have a good prognosis and maintain a good quality of life. Regular medical care and adherence to treatment plans are crucial for optimal outcomes.",6.481926202774048,0.14432989690721648,0.05536332179930795,0.09621993127147767,0.018517538501860855,0.2805402581678286,0.9319375157356262
+What are the Symptoms of (Dermatofibroma)?,"Dermatofibromas are most often found on the arms and legs of women. They are small brown or reddish-brown mobile nodules, and they feel quite firm. They may be tender to touch. Many lesions demonstrate a ""dimple sign,"" where the central portion puckers as the lesion is compressed on the sides. They generally do not change in size.",Answer this question truthfully,"Dermatofibromas are benign skin tumors that typically present with the following symptoms:
+
+1. **Firm, raised bump**: Usually small (1-2 cm), often brownish or tan in color.
+2. **Dome-shaped**: The lesion is typically dome-shaped and feels hard to the touch.
+3. **Fixed to the skin**: It is usually attached to the skin but can be mobile over the underlying tissue.
+4. **Itching or tenderness**: Some individuals may experience mild itching or tenderness, but many dermatofibromas are asymptomatic.
+5. **Dimpling**: When pinched, the center of the lesion may dimple inward.
+
+Dermatofibromas are most commonly found on the legs and arms and are more prevalent in women. If you notice any changes in the lesion or have concerns, it's advisable to consult a healthcare professional.",2.5207579135894775,0.3804347826086957,0.0879120879120879,0.1956521739130435,0.019115356144414317,0.3371830414113325,0.9621588587760925
+What are the causes of Irritable bowel syndrome ?,"Researchers have yet to discover any specific cause for IBS. One theory is that people who suffer from IBS have a colon, or large intestine, that is particularly sensitive and reactive to certain foods and stress. The immune system, which fights infection, may also be involved.
+Normal motility, or movement, may not be present in the colon of a person who has IBS. It can be spasmodic or can even stop working temporarily. Spasms are sudden strong muscle contractions that come and go. The lining of the colon called the epithelium, which is affected by the immune and nervous systems, regulates the flow of fluids in and out of the colon. In IBS, the epithelium appears to work properly. However, when the contents inside the colon move too quickly, the colon loses its ability to absorb fluids. The result is too much fluid in the stool. In other people, the movement inside the colon is too slow, which causes extra fluid to be absorbed. As a result, a person develops constipation. A person’s colon may respond strongly to stimuli such as certain foods or stress that would not bother most people. Recent research has reported that serotonin is linked with normal gastrointestinal (GI) functioning. Serotonin is a neurotransmitter, or chemical, that delivers messages from one part of your body to another. Ninety-five percent of the serotonin in your body is located in the GI tract, and the other 5 percent is found in the brain. Cells that line the inside of the bowel work as transporters and carry the serotonin out of the GI tract. People with IBS, however, have diminished receptor activity, causing abnormal levels of serotonin to exist in the GI tract. As a result, they experience problems with bowel movement, motility, and sensation—having more sensitive pain receptors in their GI tract. Researchers have reported that IBS may be caused by a bacterial infection in the gastrointestinal tract. Studies show that people who have had gastroenteritis sometimes develop IBS, otherwise called post-infectious IBS. Researchers have also found very mild celiac disease in some people with symptoms similar to IBS. People with celiac disease cannot digest gluten, a substance found in wheat, rye, and barley. People with celiac disease cannot eat these foods without becoming very sick because their immune system responds by damaging the small intestine. A blood test can determine whether celiac disease may be present.",Answer this question truthfully,"Irritable bowel syndrome (IBS) is a functional gastrointestinal disorder characterized by symptoms such as abdominal pain, bloating, and altered bowel habits (diarrhea, constipation, or both). The exact cause of IBS is not fully understood, but several factors are believed to contribute to its development:
+
+1. **Gut Motility Issues**: Abnormalities in the movement of the intestines can lead to symptoms of IBS.
+
+2. **Visceral Hypersensitivity**: Increased sensitivity of the intestines to stimuli can result in pain and discomfort.
+
+3. **Psychological Factors**: Stress, anxiety, and depression can exacerbate symptoms and may play a role in the onset of IBS.
+
+4. **Gut Microbiota**: An imbalance in the gut microbiome may influence IBS symptoms.
+
+5. **Post-Infectious IBS**: Some individuals develop IBS symptoms following a gastrointestinal infection.
+
+6. **Dietary Factors**: Certain foods, such as those high in fat, fiber, or certain carbohydrates (FODMAPs), can trigger symptoms.
+
+7. **Hormonal Changes**: Hormonal fluctuations, particularly in women, can influence IBS symptoms.
+
+8. **Genetic Predisposition**: A family history of IBS may increase the likelihood of developing the condition.
+
+IBS is a complex disorder, and its symptoms can vary widely among individuals. Management often involves dietary changes, stress management, and medications tailored to specific symptoms.",4.202778339385986,0.32053422370617696,0.04690117252931323,0.1302170283806344,0.004306998358533807,0.16960874160963366,0.9540901780128479
+What causes Malignant hypertension?,"The disorder affects about 1% of people with high blood pressure, including both children and adults. It is more common in younger adults, especially African-American men.
+It also occurs in people with:
+Collagen vascular disorders Kidney problems Toxemia of pregnancy
+You are at high risk for malignant hypertension if you have had:
+Kidney failure Renal hypertension caused by renal artery stenosis",Answer this question truthfully,"Malignant hypertension is a severe form of high blood pressure that can lead to organ damage. It is characterized by extremely high blood pressure (usually defined as systolic blood pressure over 180 mm Hg and/or diastolic blood pressure over 120 mm Hg) and often presents with signs of end-organ damage.
+
+The causes of malignant hypertension can include:
+
+1. **Primary Hypertension**: Long-standing, untreated essential hypertension can progress to malignant hypertension.
+2. **Secondary Hypertension**: Conditions that cause secondary hypertension, such as:
+   - **Renal diseases** (e.g., chronic kidney disease, renal artery stenosis)
+   - **Endocrine disorders** (e.g., pheochromocytoma, Cushing's syndrome, hyperaldosteronism)
+   - **Pregnancy-related conditions** (e.g., preeclampsia)
+   - **Medications** (e.g., certain stimulants, nonsteroidal anti-inflammatory drugs)
+3. **Vascular diseases**: Conditions affecting blood vessels, such as aortic coarctation.
+4. **Genetic factors**: A family history of hypertension may increase risk.
+5. **Lifestyle factors**: Poor diet, obesity, lack of physical activity, and excessive alcohol consumption can contribute to the development of hypertension.
+
+Malignant hypertension is a medical emergency and requires immediate treatment to prevent serious complications, including heart failure, stroke, and kidney failure.",4.118162155151367,0.24793388429752067,0.058333333333333334,0.12396694214876033,0.01202493339637379,0.2547228615266591,0.9512295722961426
+When to seek urgent medical care when I have Beckwith-Wiedemann syndrome ?,"If you have a child with Beckwith-Wiedemann syndrome and worrisome symptoms develop, call your pediatrician immediately.",Answer this question truthfully,"If you have Beckwith-Wiedemann syndrome (BWS), you should seek urgent medical care in the following situations:
+
+1. **Abdominal Pain or Distension**: This could indicate an issue with organ enlargement or tumors, which are more common in individuals with BWS.
+
+2. **Breathing Difficulties**: Any signs of respiratory distress should be addressed immediately.
+
+3. **Signs of Infection**: Fever, chills, or other signs of infection should prompt urgent evaluation.
+
+4. **Unusual Bleeding or Bruising**: This could indicate a bleeding disorder or other complications.
+
+5. **Neurological Symptoms**: Sudden changes in consciousness, severe headaches, or seizures require immediate attention.
+
+6. **Growths or Masses**: Rapidly growing masses or changes in existing growths should be evaluated promptly.
+
+7. **Severe Hypoglycemia**: Symptoms like confusion, sweating, or fainting may indicate dangerously low blood sugar levels.
+
+Regular follow-up with a healthcare provider familiar with BWS is essential for monitoring and managing potential complications.",3.4229471683502197,0.13580246913580246,0.049999999999999996,0.09876543209876543,0.007309571208797751,0.22938273670123782,0.8864868879318237
+What causes Stasis dermatitis and ulcers?,Venous insufficiency is a long-term (chronic) condition in which the veins have problems sending blood from the legs back to the heart.,Answer this question truthfully,"Stasis dermatitis and ulcers are primarily caused by chronic venous insufficiency (CVI), which occurs when the veins in the legs are unable to effectively return blood to the heart. This leads to increased pressure in the veins, causing fluid to leak into the surrounding tissues. Key factors contributing to stasis dermatitis and ulcers include:
+
+1. **Venous Insufficiency**: Dysfunction of the valves in the veins, leading to blood pooling.
+2. **Increased Venous Pressure**: Conditions such as obesity, prolonged standing, or sitting can exacerbate venous pressure.
+3. **Age**: Older adults are more susceptible due to weakened vein walls and valves.
+4. **Previous Leg Injuries or Surgeries**: These can damage veins and affect blood flow.
+5. **Medical Conditions**: Conditions like heart failure, diabetes, and blood clotting disorders can increase risk.
+6. **Lifestyle Factors**: Sedentary lifestyle, smoking, and lack of exercise can contribute to poor venous health.
+
+The combination of these factors can lead to skin changes (stasis dermatitis) and the formation of ulcers, particularly around the ankles. Treatment typically focuses on improving venous circulation, managing symptoms, and preventing complications.",4.511173963546753,0.1407035175879397,0.050761421319796954,0.10050251256281408,0.015673518665394372,0.19396551724137934,0.9154638051986694
+Where to find centers that perform Mitral valve surgery (open)?,Directions to Hospitals Performing Mitral valve surgery - open,Answer this question truthfully,"To find centers that perform open mitral valve surgery, you can consider the following options:
+
+1. **Academic Medical Centers**: Major universities with medical schools often have specialized cardiac surgery departments. Look for institutions known for their cardiology and cardiac surgery programs.
+
+2. **Cardiovascular Specialty Hospitals**: Facilities that focus specifically on heart conditions typically have experienced surgeons and advanced technology for cardiac procedures.
+
+3. **Health Insurance Provider**: Check with your health insurance company for a list of in-network hospitals and surgeons who perform mitral valve surgery.
+
+4. **Professional Organizations**: Websites of organizations like the American College of Cardiology (ACC) or the Society of Thoracic Surgeons (STS) may provide resources or directories of accredited centers.
+
+5. **Referrals from Healthcare Providers**: Consult your primary care physician or a cardiologist for recommendations on reputable centers for mitral valve surgery.
+
+6. **Online Resources**: Websites like Healthgrades, Vitals, or the U.S. News & World Report rankings can help identify hospitals with strong cardiac surgery programs.
+
+Always ensure that the center you choose has a good reputation, experienced surgeons, and a multidisciplinary team for optimal care.",7.832929372787476,0.07446808510638299,0.03225806451612903,0.06382978723404256,0.0045211548410193005,0.15273625373716368,0.8187044262886047
+When to seek urgent medical care when I have Separation anxiety disorder ?,Call your health care provider if your child has significant separation anxiety after age 2.,Answer this question truthfully,"If you have separation anxiety disorder and experience any of the following symptoms, it is important to seek urgent medical care:
+
+1. **Severe Distress**: If your anxiety becomes overwhelming and you are unable to function in daily life.
+2. **Panic Attacks**: If you experience frequent panic attacks that are difficult to manage.
+3. **Suicidal Thoughts**: If you have thoughts of self-harm or suicide.
+4. **Substance Abuse**: If you are using drugs or alcohol to cope with your anxiety.
+5. **Physical Symptoms**: If you develop severe physical symptoms (e.g., chest pain, shortness of breath) that may indicate a medical emergency.
+6. **Inability to Care for Yourself**: If you are unable to perform basic self-care or responsibilities due to anxiety.
+
+In any of these situations, it is crucial to seek immediate help from a healthcare professional or go to the nearest emergency room.",2.942564010620117,0.0880503144654088,0.025477707006369428,0.06289308176100629,0.003693611000802966,0.11940298507462688,0.8828248381614685
+When to seek urgent medical care when I have Monkeypox ?,"If you develop fever, swollen lymph nodes, and/ or rash. If you have complaints (including ulcers) in the anal and genital area.",Answer this question truthfully,"If you have monkeypox and experience any of the following symptoms, you should seek urgent medical care:
+
+1. **Severe Rash or Skin Lesions**: If the rash becomes extensive, painful, or shows signs of infection (such as increased redness, swelling, or pus).
+2. **Difficulty Breathing**: Any signs of respiratory distress or difficulty breathing.
+3. **High Fever**: A persistent high fever (above 101°F or 38.3°C) that does not respond to over-the-counter medications.
+4. **Severe Headache**: Intense headaches that are not relieved by usual pain relief methods.
+5. **Confusion or Altered Mental Status**: Any changes in consciousness or confusion.
+6. **Severe Pain**: Uncontrolled pain, especially in the abdomen or chest.
+7. **Bleeding**: Unexplained bleeding or bruising.
+
+If you suspect you have monkeypox, it is also important to contact a healthcare provider for guidance on testing and management, even if you do not have urgent symptoms.",2.5357749462127686,0.1420118343195266,0.04790419161676647,0.10650887573964496,0.009978249784405435,0.24422099899298114,0.9240614771842957
+What are the symptoms of Dressler's syndrome?,"Anxiety Chest pain May come and go (recur) Pain may be sharp and stabbing (pleuritic) or tight and crushing (ischemic) Pain may get worse when breathing and may go away when you stand or sit up Pain moves to the neck, shoulder, back, or abdomen Difficulty breathing Dry cough Fast heart rate (tachycardia) Fatigue Fever (more common with the second type of pericarditis) Malaise (general ill feeling) Splinting of ribs (bending over or holding the chest) with deep breathing",Answer this question truthfully,"Dressler's syndrome, also known as post-myocardial infarction syndrome, is an autoimmune response that can occur after a heart attack or heart surgery. Symptoms typically include:
+
+1. **Chest pain**: Often pleuritic in nature, worsening with deep breathing or coughing.
+2. **Fever**: Low-grade fever is common.
+3. **Pericarditis**: Inflammation of the pericardium, leading to sharp chest pain and a pericardial friction rub on examination.
+4. **Shortness of breath**: Due to fluid accumulation or pericardial effusion.
+5. **Fatigue**: Generalized tiredness and malaise.
+6. **Joint pain**: Arthralgia may occur in some patients.
+
+These symptoms usually develop weeks to months after the initial cardiac event. If you suspect Dressler's syndrome, it is important to consult a healthcare professional for proper diagnosis and management.",1.894745111465454,0.31840796019900497,0.030150753768844223,0.12935323383084574,0.010385025176414013,0.21593027724577335,0.9352669715881348
+Who is at highest risk for Asthma ?,"Many people with asthma have an individual or family history of allergies, such as hay fever (allergic rhinitis) or eczema. Others have no history of allergies.",Answer this question truthfully,"Individuals at the highest risk for asthma include:
+
+1. **Children**: Asthma often begins in childhood, and children with a family history of asthma or allergies are at increased risk.
+2. **Individuals with a family history of asthma or allergies**: Genetic predisposition plays a significant role.
+3. **People with allergic conditions**: Those with allergic rhinitis, eczema, or food allergies are more likely to develop asthma.
+4. **Individuals exposed to environmental factors**: Exposure to tobacco smoke, air pollution, allergens (like pollen, mold, pet dander), and occupational irritants can increase risk.
+5. **People with respiratory infections**: Severe respiratory infections during early childhood can increase the likelihood of developing asthma.
+6. **Obese individuals**: Obesity is associated with a higher risk of asthma due to inflammatory processes and mechanical factors.
+7. **Individuals with a history of asthma exacerbations**: Previous episodes of wheezing or asthma attacks can indicate a higher risk.
+
+It's important to note that asthma can affect anyone, regardless of age or background, but these factors can increase susceptibility.",3.706979274749756,0.16666666666666669,0.052631578947368425,0.125,0.00781670718595538,0.26030228364311603,0.9257493615150452
+What are the symptoms of Human papillomavirus?,"HPV may lead to a broad spectrum of diseases. If you are infected you may have no signs or symptoms of HPV infection or, you may have increased risk of developing cancer.
+There are over 100 different kinds of HPV and not all of them cause health problems. Some types of HPV may cause problems such as genital warts, while others can cause cancer of the cervix, vagina, vulva, or anus. Most of these problems are caused by types 6, 11, 16 or 18. 
+When cancer develops, it may affect men and women. According to the CDC, HPV may be involved in different types of cancer, with the following incidences: 
+Cervical cancer: The most common HPV -associated cancer. Almost all cervical cancers are caused by HPV. Vulvar cancer: About 50% are linked to HPV. Vaginal cancer: About 65% are linked to HPV. Penile cancer: About 35% are linked to HPV. Anal cancer: About 95% are linked to HPV. Oropharyngeal cancer: About 60% are linked to HPV.",Answer this question truthfully,"Human papillomavirus (HPV) often does not cause any symptoms, and many people may be unaware they are infected. However, when symptoms do occur, they can include:
+
+1. **Genital Warts**: Small, flesh-colored or gray swellings in the genital area, which can appear as single or multiple bumps.
+2. **Common Warts**: Rough, raised bumps that can appear on hands, fingers, or other areas of the body.
+3. **Plantar Warts**: Hard, grainy growths that usually appear on the soles of the feet.
+4. **Flat Warts**: Small, flat-topped bumps that can occur anywhere on the body, often in groups.
+5. **Cervical Changes**: HPV can cause changes in cervical cells, which may be detected through Pap smears. These changes can lead to cervical cancer if not monitored or treated.
+
+Most HPV infections resolve on their own without causing any health problems. However, certain high-risk types of HPV can lead to cancers, including cervical, anal, and oropharyngeal cancers. Regular screenings and vaccinations can help prevent HPV-related health issues.",5.416053056716919,0.3253012048192771,0.07272727272727272,0.1686746987951807,0.017081179018968894,0.2243313883579936,0.9605736136436462
+What causes Diabetic coma?,"The cause may severe diabetic hypoglycemia, diabetic ketoacidosis or hyperosmolar nonketotic coma.",Answer this question truthfully,"Diabetic coma can be caused by two main conditions related to diabetes: 
+
+1. **Diabetic Ketoacidosis (DKA)**: This occurs primarily in type 1 diabetes when there is a severe lack of insulin, leading to high blood sugar levels and the production of ketones, which can cause the blood to become acidic.
+
+2. **Hyperglycemic Hyperosmolar State (HHS)**: This typically occurs in type 2 diabetes and is characterized by extremely high blood sugar levels without significant ketone production. It leads to severe dehydration and electrolyte imbalances.
+
+Both conditions can result from factors such as missed insulin doses, infections, illness, or inadequate management of diabetes. Additionally, hypoglycemia (low blood sugar) can also lead to a diabetic coma if not treated promptly.",2.5182480812072754,0.15503875968992248,0.015748031496062992,0.10852713178294575,0.004045247892479593,0.2197802197802198,0.9413779973983765
+What to expect if I have Androgen insensitivity syndrome  (Outlook/Prognosis)?,"For patients with complete androgen insensitivity syndrome, prognosis is good after orchidectomy at the proper time. For incomplete androgen insensitivity syndrome patients, it depends on the presence and severity of ambiguous genitalia.",Answer this question truthfully,"Androgen Insensitivity Syndrome (AIS) is a condition where individuals with XY chromosomes (typically male) are resistant to androgens, the male hormones. The prognosis and outlook for individuals with AIS can vary based on the type (complete or partial) and the specific circumstances of each case. Here are some key points to consider:
+
+1. **Physical Development**: Individuals with complete AIS typically develop female external genitalia and secondary sexual characteristics, despite having XY chromosomes. Those with partial AIS may have ambiguous genitalia or varying degrees of male and female characteristics.
+
+2. **Fertility**: Individuals with complete AIS are usually infertile due to the absence of functional ovaries or testes. Those with partial AIS may have varying fertility potential depending on the degree of androgen sensitivity.
+
+3. **Psychosocial Aspects**: Many individuals with AIS identify as female and may undergo gender-affirming treatments. Support from healthcare providers, mental health professionals, and support groups can be beneficial for emotional and psychological well-being.
+
+4. **Health Monitoring**: Regular medical follow-up is important to monitor for potential health issues, such as osteoporosis, due to the lack of estrogen production in individuals with complete AIS.
+
+5. **Surgical Options**: Some individuals may choose to undergo surgeries for cosmetic or functional reasons, such as vaginoplasty or removal of undescended testes.
+
+6. **Long-term Outlook**: With appropriate medical care and support, individuals with AIS can lead healthy, fulfilling lives. The prognosis is generally positive, especially with early diagnosis and management.
+
+Overall, the outlook for individuals with AIS is generally good, but it is important to have a personalized care plan that addresses both medical and psychosocial needs.",2.6694467067718506,0.1342281879194631,0.04729729729729729,0.08053691275167785,0.005867281334982701,0.24405103211009171,0.9299967885017395
+What causes Spontaneous bacterial peritonitis?,"Spontaneous peritonitis is usually caused by ascites, a collection of fluid in the peritoneal cavity. This usually occurs from liver or kidney failure. Risk factors for liver disease include alcoholic cirrhosis and other diseases that lead to cirrhosis, such as viral hepatitis (Hepatitis B or C). Spontaneous peritonitis also occurs in patients who are on dialysis for kidney failure.",Answer this question truthfully,"Spontaneous bacterial peritonitis (SBP) is primarily caused by the translocation of bacteria from the intestines into the peritoneal cavity, often in patients with liver cirrhosis and ascites. The most common bacteria involved are typically gram-negative organisms, such as Escherichia coli and Klebsiella pneumoniae, as well as some gram-positive bacteria. Factors that contribute to the development of SBP include:
+
+1. **Liver Cirrhosis**: Impaired liver function leads to changes in the immune system and increased susceptibility to infections.
+2. **Ascites**: The accumulation of fluid in the abdominal cavity provides a medium for bacterial growth.
+3. **Bacterial Translocation**: Increased intestinal permeability allows bacteria to cross the intestinal barrier and enter the bloodstream or peritoneal cavity.
+4. **Immunosuppression**: Patients with liver disease often have compromised immune responses, making them more vulnerable to infections.
+
+SBP is a serious condition that requires prompt diagnosis and treatment, typically with antibiotics.",3.849787712097168,0.3235294117647059,0.10891089108910892,0.17647058823529413,0.03853320115388089,0.3521346967661799,0.958829402923584
+Who is at risk for Diarrhea?,"Anyone can get diarrhea. This common problem can last a day or two or for months or years, depending on the cause. Most people get better on their own, but diarrhea can be serious for babies and older people if lost fluids are not replaced. Many people throughout the world die from diarrhea because of the large volume of water lost and the accompanying loss of salts.",Answer this question truthfully,"Several groups of people are at increased risk for diarrhea, including:
+
+1. **Children**: Especially infants and toddlers, due to their developing immune systems and higher susceptibility to infections.
+2. **Elderly individuals**: They may have weakened immune systems and comorbidities that increase vulnerability.
+3. **Travelers**: Particularly those traveling to areas with poor sanitation or different food and water standards (traveler's diarrhea).
+4. **Individuals with weakened immune systems**: Such as those with HIV/AIDS, cancer, or those on immunosuppressive medications.
+5. **People with chronic gastrointestinal conditions**: Such as irritable bowel syndrome (IBS), inflammatory bowel disease (IBD), or celiac disease.
+6. **Individuals consuming contaminated food or water**: This includes those who eat raw or undercooked foods or drink untreated water.
+7. **People with poor hygiene practices**: Those who do not wash hands regularly or properly can spread infections.
+
+Maintaining good hygiene, safe food practices, and being cautious while traveling can help reduce the risk of diarrhea.",2.180748701095581,0.2171945701357466,0.0,0.09049773755656107,0.0033895917179163093,0.19428571428571428,0.9435285329818726
+Who is at highest risk for Hereditary hemorrhagic telangiectasia ?,"This is a genetic disorder, so people at risk are those who have a family history of hereditary hemorrhagic telangiectasia.",Answer this question truthfully,"Individuals at the highest risk for Hereditary Hemorrhagic Telangiectasia (HHT) are those with a family history of the condition, as it is an autosomal dominant genetic disorder. Specifically, individuals with a parent who has HHT have a 50% chance of inheriting the condition. HHT can manifest in various forms, and the risk is particularly elevated in families where multiple members are affected. Genetic mutations in the ENG, ACVRL1, or SMAD4 genes are commonly associated with HHT.",3.4524078369140625,0.3541666666666667,0.17021276595744683,0.16666666666666666,0.05342707339430183,0.5008910756833194,0.9530108571052551
+Who is at highest risk for Colon polyps ?,"Polyps bigger than 1 centimeter (cm) have a higher cancer risk than polyps smaller than 1 centimeter. Risk factors include:
+Age Family history of colon cancer or polyps A type of polyp called villous adenoma",Answer this question truthfully,"Individuals at highest risk for colon polyps include:
+
+1. **Age**: People over 50 years old are at increased risk.
+2. **Family History**: A family history of colorectal cancer or polyps can elevate risk.
+3. **Personal History**: Individuals with a personal history of colorectal cancer or adenomatous polyps are at higher risk.
+4. **Genetic Conditions**: Conditions such as familial adenomatous polyposis (FAP) and Lynch syndrome (hereditary nonpolyposis colorectal cancer) significantly increase risk.
+5. **Lifestyle Factors**: Factors such as a diet high in red or processed meats, obesity, smoking, and physical inactivity can contribute to increased risk.
+6. **Inflammatory Bowel Disease**: Conditions like ulcerative colitis or Crohn's disease can increase the likelihood of developing polyps.
+
+Regular screening and surveillance are recommended for those at higher risk.",2.773723602294922,0.2625,0.05063291139240506,0.17500000000000002,0.01268429381842695,0.2645313092979128,0.9379540681838989
+Who is at risk for Emphysema?,"Patients with alpha 1-antitrypsin deficiency (A1AD) are more likely to suffer from emphysema. A1AD allows inflammatory enzymes (such as elastase) to destroy the alveolar tissue. Most A1AD patients do not develop clinically significant emphysema, but smoking and severely decreased A1AT levels (10-15%) can cause emphysema at a young age. The type of emphysema caused by A1AD is known as panacinar emphysema (involving the entire acinus) as opposed to centrilobular emphysema, which is caused by smoking. Panacinar emphysema typically affects the lower lungs, while centrilobular emphysema affects the upper lungs. A1AD causes about 2% of all emphysema. Smokers with A1AD are at the greatest risk for emphysema. Mild emphysema can often develop into a severe case over a short period of time (1–2 weeks).",Answer this question truthfully,"Individuals at risk for emphysema include:
+
+1. **Smokers**: The primary risk factor; both current and former smokers are at significant risk.
+2. **Secondhand Smoke Exposure**: Non-smokers who are regularly exposed to tobacco smoke.
+3. **Age**: Risk increases with age, particularly in individuals over 40.
+4. **Genetic Factors**: Individuals with a deficiency in alpha-1 antitrypsin (AAT) are at higher risk.
+5. **Occupational Exposure**: Those exposed to dust, chemicals, or fumes in certain jobs (e.g., mining, construction).
+6. **Air Pollution**: Long-term exposure to air pollutants can increase risk.
+7. **History of Respiratory Infections**: Frequent respiratory infections in childhood can contribute to risk later in life.
+
+Preventive measures include avoiding smoking and reducing exposure to environmental pollutants.",3.4721405506134033,0.2459016393442623,0.049586776859504134,0.09836065573770492,0.012757405167486614,0.14750646122327168,0.943452000617981
+"Why Use the Formatting Below Including ""Equal Signs"" to Create Sections, Subsections, and Sub Sub Sections?","So that WikiDoc can automatically generate a table of contents for you. If you just use bold, an automatic table of contents will not be created.
+What it looks like What you type Start your sections as follows: New section Subsection Sub-subsection Start with a second-level heading (==); don't use first-level headings (=). Don't skip levels (for example, second-level followed by fourth-level). A Table of Contents will automatically be added to an article that has four or more sections. If appropriate, place subsections in an appropriate order. If listing countries, place them in alphabetical order rather than, say, relative to population of OECD countries, or some random order. ==New section== ===Subsection=== ====Sub-subsection==== A single newline generally has no effect on the layout. These can be used to separate sentences within a paragraph. Some editors find that this aids editing and improves the function diff (used internally to compare different versions of a page). But an empty line starts a new paragraph. When used in a list, a newline does affect the layout (see below). A single newline generally has no effect on the layout. These can be used to separate sentences within a paragraph. Some editors find that this aids editing and improves the function''diff'' (used internally to compare different versions of a page). But an empty line starts a new paragraph. You can break lines without starting a new paragraph. Please use this sparingly. Close markup between lines, do not start a link or italics or bold on one line and close it on the next. You can break lines<br> without starting a new paragraph. It's easy to create a list: Start every line with a star (asterisk). More stars means deeper levels. A newline in a list marks the end of a list item. An empty line starts a new list. * It's easy to create a list: ** Start every line with a star. *** More stars means deeper levels. **** A newline in a list marks the end of a list item. * An empty line starts a new list. Numbered lists are also good very organized easy to follow easier still # Numbered lists are also good ## very organized ## easy to follow ### easier still Definition list list of definitions item the item's definition another item the other item's definition Begin with a semicolon. One item per line; a newline can appear before the colon, but using a space before the colon improves parsing.; Definition list: list of definitions; item: the item's definition; another item: the other item's definition You can even create mixed lists and nest them like this can I mix definition list as well? yes how? it's easy as a b c * You can even create mixed lists *# and nest them *#* like this *#*; can I mix definition list as well? *#*: yes *#*; how? *#*: it's easy as *#*:* a *#*:* b *#*:* c A colon indents a line or paragraph. A manual newline starts a new paragraph. This is primarily for displayed material, but is also used for discussion on Talk pages.: A colon indents a line or paragraph. A manual newline starts a new paragraph. When there is a need for separating a block of text the blockquote command will indent both margins when needed instead of the left margin only as the colon does. This is useful for (as the name says) inserting blocks of quoted (and cited) text. <blockquote> The'''blockquote''' command will indent both margins when needed instead of the left margin only as the colon does. </blockquote> (See formula on right): This is useful for: pasting preformatted text; algorithm descriptions; program source code; ASCII art; chemical structures; WARNING: If you make it wide, you force the whole page to be wide and hence less readable, especially for people who use lower resolutions. Never start ordinary lines with spaces. IF a line starts with a space THEN it will be formatted exactly as typed; in a fixed-width font; lines will not wrap; ENDIF Centered text. Please note the American spelling of ""center."" <center>Centered text.</center> A horizontal dividing line: this is above it and this is below it. Mainly useful for disambiguation - but to be used sparsely, only when separating completely different, unrelated (groups of) meanings separating threads on Talk pages. A horizontal dividing line: this is above it ---- and this is below it.
+This page is for assisting in basic formatting of text on wiki pages.",Answer this question truthfully,"The use of formatting with equal signs (or similar symbols) to create sections, subsections, and sub-subsections is a common practice in documentation and writing, particularly in plain text formats. This method provides several benefits:
+
+1. **Clarity**: It visually distinguishes different levels of content, making it easier for readers to navigate the document.
+
+2. **Organization**: It helps in structuring information logically, allowing readers to understand the hierarchy and relationship between topics.
+
+3. **Simplicity**: This formatting is easy to implement in plain text environments where traditional formatting options (like bold or italics) may not be available.
+
+4. **Readability**: It enhances the readability of the document by breaking up large blocks of text into manageable sections.
+
+5. **Consistency**: Using a standardized method for sectioning helps maintain uniformity throughout the document, which is especially useful in collaborative writing.
+
+Overall, this formatting technique aids in effective communication and information dissemination.",2.427011013031006,0.1728395061728395,0.031496062992125984,0.0920314253647587,0.0006586663276035101,0.08072655783258968,0.8906216621398926
+Where is HFRS found?,"HFRS is found throughout the world. Haantan virus is widely distributed in eastern Asia, particularly in China, Russia, and Korea. Puumala virus is found in Scandinavia, western Europe, and western Russia. Dobrava virus is found primarily in the Balkans, and Seoul virus is found worldwide. Saaremaa is found in central Europe and Scandinavia. In the Americas, hantaviruses cause a different disease known as hantavirus pulmonary syndrome.",Answer this question truthfully,"Hemorrhagic fever with renal syndrome (HFRS) is primarily found in regions of Europe and Asia, particularly in countries such as South Korea, China, Finland, and Russia. The disease is associated with specific rodent hosts, particularly the Apodemus species (field mice), which are common in these areas. HFRS outbreaks are often linked to areas with high rodent populations and can occur in rural and semi-urban settings.",1.4912409782409668,0.36363636363636365,0.07692307692307693,0.22727272727272727,0.061869350489291715,0.22756659811620059,0.9514558911323547
+How does the balance system work?,"Movement of fluid in the semicircular canals signals the brain about the direction and speed of rotation of the head--for example, whether we are nodding our head up and down or looking from right to left. Each semicircular canal has a bulbed end, or enlarged portion, that contains hair cells. Rotation of the head causes a flow of fluid, which in turn causes displacement of the top portion of the hair cells that are embedded in the jelly-like cupula. Two other organs that are part of the vestibular system are the utricle and saccule. These are called the otolithic organs and are responsible for detecting linear acceleration, or movement in a straight line. The hair cells of the otolithic organs are blanketed with a jelly-like layer studded with tiny calcium stones called otoconia. When the head is tilted or the body position is changed with respect to gravity, the displacement of the stones causes the hair cells to bend.
+The balance system works with the visual and skeletal systems (the muscles and joints and their sensors) to maintain orientation or balance. For example, visual signals are sent to the brain about the body's position in relation to its surroundings. These signals are processed by the brain, and compared to information from the vestibular and the skeletal systems. An example of interaction between the visual and vestibular systems is called the vestibular-ocular reflex. The nystagmus (an involuntary rhythmic eye movement) that occurs when a person is spun around and then suddenly stops is an example of a vestibular-ocular reflex.",Answer this question truthfully,"The balance system, or vestibular system, is primarily located in the inner ear and is responsible for maintaining equilibrium and spatial orientation. It consists of several key components:
+
+1. **Semicircular Canals**: These three fluid-filled structures detect rotational movements of the head. Each canal is oriented in a different plane (horizontal, anterior, and posterior) and contains hair cells that respond to the movement of fluid (endolymph) within them.
+
+2. **Otolith Organs**: The utricle and saccule are responsible for detecting linear accelerations and the position of the head relative to gravity. They contain tiny crystals (otoconia) that shift with movement, stimulating hair cells to send signals to the brain.
+
+3. **Vestibular Nerve**: The hair cells in the semicircular canals and otolith organs send signals via the vestibular nerve to the brain, particularly to the vestibular nuclei in the brainstem.
+
+4. **Integration with Other Systems**: The brain integrates vestibular information with visual and proprioceptive inputs (from muscles and joints) to maintain balance and coordinate movements.
+
+5. **Motor Responses**: The brain sends signals to the muscles to adjust posture and maintain balance, allowing for smooth and coordinated movements.
+
+Overall, the vestibular system plays a crucial role in helping the body maintain stability and orientation in space.",3.0482091903686523,0.5224839400428266,0.21505376344086022,0.26552462526766596,0.09505369248348595,0.3325532508735623,0.9803512692451477
+When to seek urgent medical care when I have Child sexual abuse ?,"If you suspect child abuse in any form, immediately call your health care provider, Child Protective Services, or police.",Answer this question truthfully,"If you or someone you know is a victim of child sexual abuse, it is crucial to seek urgent medical care in the following situations:
+
+1. **Injury or Trauma**: If there are any physical injuries, bleeding, or signs of trauma, immediate medical attention is necessary.
+
+2. **Sexually Transmitted Infections (STIs)**: If there is a concern about exposure to STIs, prompt medical evaluation and treatment are important.
+
+3. **Pregnancy Concerns**: If there is a possibility of pregnancy due to the abuse, seek medical care for evaluation and options.
+
+4. **Mental Health Support**: If there are signs of severe emotional distress, suicidal thoughts, or self-harm, urgent mental health support is needed.
+
+5. **Forensic Examination**: If the abuse has recently occurred, a forensic examination may be necessary to collect evidence. This should be done as soon as possible, ideally within 72 hours.
+
+6. **Ongoing Safety Concerns**: If there is an immediate threat to safety or risk of further abuse, contact emergency services or law enforcement.
+
+It is important to reach out to a trusted adult, healthcare provider, or a local support organization for guidance and support.",2.239450216293335,0.11822660098522168,0.01990049751243781,0.09852216748768472,0.0033775050054762877,0.20860760809312642,0.8963273763656616
+When to seek urgent medical care when I have Pancreatic cancer ?,See your doctor immediately if you feel as though you have experienced any of the above mentioned symptoms.,Answer this question truthfully,"If you have pancreatic cancer, you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Severe Abdominal Pain**: Sudden, intense pain that may radiate to the back.
+2. **Jaundice**: Yellowing of the skin or eyes, which may indicate bile duct obstruction.
+3. **Nausea and Vomiting**: Persistent nausea or vomiting that does not improve.
+4. **Unexplained Weight Loss**: Significant weight loss without trying.
+5. **Changes in Bowel Habits**: New onset of diarrhea or changes in stool color (e.g., pale or clay-colored stools).
+6. **Signs of Infection**: Fever, chills, or other signs of infection, especially if you have a port or are undergoing treatment.
+7. **Difficulty Breathing**: Shortness of breath or chest pain.
+8. **Severe Fatigue or Weakness**: Extreme tiredness that interferes with daily activities.
+
+Always consult your healthcare provider for personalized advice and if you have any concerns about your symptoms.",3.126508951187134,0.1090909090909091,0.049079754601226995,0.08484848484848484,0.007103894887814153,0.19425587467362926,0.8861479759216309
+What to expect if I have Contact dermatitis  (Outlook/Prognosis)?,"Contact dermatitis usually clears up without complications within 2 or 3 weeks, but may return if the substance or material that caused it cannot be identified or avoided. A change of occupation or occupational habits may be necessary if the disorder is caused by occupational exposure.",Answer this question truthfully,"Contact dermatitis is a skin condition that occurs when the skin comes into contact with an irritant or allergen. The outlook for contact dermatitis is generally positive, as it often resolves with appropriate treatment and avoidance of the triggering substance. Here are some key points regarding the prognosis:
+
+1. **Resolution**: Most cases of contact dermatitis improve within a few days to weeks once the irritant or allergen is removed and proper treatment is initiated.
+
+2. **Treatment**: Treatment may include topical corticosteroids, antihistamines, and moisturizers. Severe cases might require oral medications.
+
+3. **Recurrence**: Some individuals may experience recurrent episodes if they continue to be exposed to the triggering substance. Identifying and avoiding triggers is crucial for long-term management.
+
+4. **Chronic Cases**: In some instances, contact dermatitis can become chronic, especially if the skin barrier is compromised or if there is ongoing exposure to irritants.
+
+5. **Complications**: Secondary infections can occur if the skin is broken due to scratching. 
+
+Overall, with proper management and avoidance of triggers, most people with contact dermatitis can expect a good prognosis. If symptoms persist or worsen, it is advisable to consult a healthcare professional for further evaluation and treatment.",5.460631847381592,0.22499999999999998,0.025210084033613446,0.125,0.003999146668820307,0.251855891504329,0.942319929599762
+What to expect if I have Floater  (Outlook/Prognosis)?,"In most cases, floaters are part of the natural aging process and simply an annoyance. They can be distracting at first, but eventually tend to ""settle"" at the bottom of the eye, becoming less bothersome. They usually settle below the line of sight but do not go away completely.
+Sometimes a section of the vitreous pulls the fine fibers away from the retina all at once, rather than gradually, causing many new floaters to appear suddenly. This is called a vitreous detachment, which in most cases is not sight-threatening and requires no treatment.
+However, a sudden increase in floaters, possibly accompanied by light flashes or peripheral (side) vision loss, could indicate a retinal detachment. If left untreated, a retinal detachment can lead to permanent visual impairment within two or three days or even blindness in the eye.",Answer this question truthfully,"Floaters are small spots or strands that drift through your field of vision, often more noticeable against a bright background. They are typically caused by changes in the vitreous gel of the eye as you age. 
+
+**Outlook/Prognosis:**
+
+1. **Commonality**: Floaters are common and usually harmless. Many people experience them, especially as they age.
+
+2. **Symptoms**: While floaters can be annoying, they often do not interfere significantly with vision. Most people adapt to them over time.
+
+3. **Monitoring**: If you notice a sudden increase in floaters, flashes of light, or a shadow in your peripheral vision, you should seek medical attention, as these could indicate a more serious condition, such as a retinal tear or detachment.
+
+4. **Treatment**: In most cases, no treatment is necessary. If floaters are severe and affect quality of life, options like vitrectomy (surgical removal of the vitreous gel) or laser treatment may be considered, but these carry risks.
+
+5. **Long-term**: Floaters may remain stable or decrease in visibility over time. They rarely lead to serious complications.
+
+Regular eye exams are important to monitor eye health, especially if you experience changes in your vision.",3.5493252277374268,0.38532110091743116,0.12307692307692307,0.19571865443425074,0.06689802224891972,0.3107399944463037,0.9717741012573242
+When to seek urgent medical care when I have Scleroderma ?,"Call for an appointment with your health care provider if:
+You have symptoms of scleroderma You have scleroderma and symptoms become worse or new symptoms develop",Answer this question truthfully,"If you have scleroderma, you should seek urgent medical care if you experience any of the following:
+
+1. **Severe shortness of breath** or difficulty breathing, which may indicate lung involvement.
+2. **Chest pain** or pressure, which could suggest heart complications.
+3. **Sudden swelling** in the legs or abdomen, which may indicate kidney issues or heart failure.
+4. **Severe abdominal pain** or changes in bowel habits, which could indicate gastrointestinal complications.
+5. **Skin changes** that are sudden or severe, such as ulcers or infections.
+6. **Neurological symptoms** like confusion, severe headaches, or vision changes, which may indicate central nervous system involvement.
+7. **Fever** or signs of infection, especially if you have skin lesions or are immunocompromised.
+
+Always consult your healthcare provider for personalized advice and if you have any concerns about your symptoms.",3.295988082885742,0.18987341772151897,0.0641025641025641,0.11392405063291139,0.008022725131743081,0.2480332167832168,0.9108577966690063
+What are the symptoms of Hairy cell leukemia?,Easy bruising or bleeding Excessive sweating (especially at night) Fatigue Feeling full after eating only a small amount Recurrent infections and fevers Swollen lymph glands Weakness Weight loss,Answer this question truthfully,"Hairy cell leukemia (HCL) is a rare type of chronic leukemia characterized by the proliferation of abnormal B lymphocytes. Symptoms may include:
+
+1. **Fatigue**: Persistent tiredness or weakness.
+2. **Splenomegaly**: Enlargement of the spleen, which can cause discomfort or a feeling of fullness.
+3. **Lymphadenopathy**: Swollen lymph nodes, although this is less common.
+4. **Infections**: Increased susceptibility to infections due to low white blood cell counts.
+5. **Easy bruising or bleeding**: Resulting from low platelet counts (thrombocytopenia).
+6. **Pallor**: Due to anemia, which can cause a pale appearance.
+7. **Night sweats**: Episodes of excessive sweating during the night.
+8. **Weight loss**: Unintentional weight loss may occur.
+
+If you suspect HCL or have these symptoms, it is important to consult a healthcare professional for proper evaluation and diagnosis.",4.198460340499878,0.23225806451612904,0.0784313725490196,0.11612903225806452,0.020186466390673452,0.33253675033231683,0.8988070487976074
+Who is at highest risk for Endocarditis ?,"The following increase your chances for developing endocarditis:
+Artificial heart valves Congenital heart disease (atrial septal defect, patent ductus arteriosus, and others) Heart valve problems (such as mitral insufficiency) History of rheumatic heart disease Intravenous drug users are also at risk for this condition, because unsterile needles can cause bacteria to enter the bloodstream.",Answer this question truthfully,"Individuals at highest risk for endocarditis include:
+
+1. **People with pre-existing heart conditions**: This includes those with prosthetic heart valves, previous endocarditis, congenital heart defects, or heart valve disease.
+
+2. **Intravenous drug users**: Sharing needles or using non-sterile techniques can introduce bacteria directly into the bloodstream.
+
+3. **Individuals with certain medical conditions**: Conditions such as diabetes, chronic kidney disease, or immunosuppression can increase risk.
+
+4. **Patients undergoing certain medical procedures**: Those who have invasive procedures, especially dental work or surgeries involving the heart, may be at increased risk if they have underlying heart conditions.
+
+5. **Older adults**: Age can be a contributing factor due to the prevalence of heart disease.
+
+Preventive measures, such as prophylactic antibiotics before certain procedures, may be recommended for high-risk individuals.",3.518878936767578,0.34065934065934067,0.09999999999999999,0.2087912087912088,0.01694208957762244,0.323505773406894,0.9580320119857788
+What causes an Pulmonic regurgitation?,"Pulmonary hypertension is the most common cause of excessive pulmonic regurgitation. Other possible causes include tetralogy of Fallot, infective endocarditis, and congenital absence of the pulmonary valve, carcinoid syndrome.",Answer this question truthfully,"Pulmonic regurgitation is primarily caused by the following conditions:
+
+1. **Pulmonary Valve Disease**: This includes congenital defects (such as a malformed valve) or acquired conditions affecting the valve structure.
+
+2. **Pulmonary Hypertension**: Increased pressure in the pulmonary artery can lead to dilation of the right ventricle and the pulmonary valve, causing regurgitation.
+
+3. **Rheumatic Fever**: This can lead to damage of the pulmonary valve, although it is more commonly associated with aortic and mitral valve disease.
+
+4. **Endocarditis**: Infection of the heart valves can damage the pulmonary valve, leading to regurgitation.
+
+5. **Right Ventricular Dilation**: Conditions that cause right ventricular enlargement, such as cardiomyopathy, can affect the function of the pulmonary valve.
+
+6. **Trauma or Injury**: Direct injury to the heart can also result in valve dysfunction.
+
+In many cases, mild pulmonic regurgitation may be asymptomatic and not require treatment.",3.370001792907715,0.22485207100591714,0.059880239520958084,0.1301775147928994,0.02860748283408814,0.2698467481035252,0.9440697431564331
+When to seek urgent medical care when I have Emphysema ?,Patients who think they may have contracted the disease are recommended to seek medical attention as soon as possible.,Answer this question truthfully,"If you have emphysema, you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Increased Shortness of Breath**: If your breathing becomes significantly more difficult or you are unable to catch your breath.
+2. **Chest Pain**: Any new or worsening chest pain, especially if it feels like pressure or tightness.
+3. **Coughing Up Blood**: Hemoptysis (coughing up blood) is a serious symptom that requires immediate attention.
+4. **Severe Wheezing**: If wheezing becomes more pronounced or is accompanied by difficulty breathing.
+5. **Rapid Heart Rate**: A significant increase in heart rate or palpitations.
+6. **Confusion or Dizziness**: Feeling faint, confused, or disoriented can indicate low oxygen levels.
+7. **Signs of Infection**: Fever, chills, or increased sputum production that is discolored or has a foul odor.
+
+If you experience any of these symptoms, it is important to seek medical attention promptly.",3.8286707401275635,0.08588957055214724,0.037267080745341616,0.08588957055214724,0.012998459976818364,0.1996527777777778,0.8515437841415405
+What are the symptoms of Failure to thrive?,"Infants or children who fail to thrive have a height, weight, and head circumference that do not match standard growth charts.
+The person's weight falls lower than 3rd percentile (as outlined in standard growth charts) or 20% below the ideal weight for their height.
+Growing may have slowed or stopped after a previously established growth curve.
+The following are delayed or slow to develop:
+Physical skills such as rolling over, sitting, standing and walking Mental and social skills Secondary sexual characteristics (delayed in adolescents)",Answer this question truthfully,"Failure to thrive (FTT) is a term used to describe a child who is not gaining weight or growing as expected. Symptoms can vary but generally include:
+
+1. **Poor Weight Gain**: Significant drop in weight percentile or failure to gain weight appropriately.
+2. **Growth Delays**: Stunted growth in height and head circumference.
+3. **Irritability**: Increased fussiness or irritability.
+4. **Lethargy**: Decreased energy levels or excessive sleepiness.
+5. **Poor Feeding**: Difficulty feeding, refusal to eat, or prolonged feeding times.
+6. **Developmental Delays**: Delays in reaching developmental milestones.
+7. **Weakness**: Decreased muscle tone or strength.
+
+If FTT is suspected, it is important to consult a healthcare professional for evaluation and management.",2.2862980365753174,0.29896907216494845,0.041666666666666664,0.15463917525773196,0.01102046875743763,0.22286295870778483,0.9399572610855103
+When to seek urgent medical care when I have Graves%27 disease ?,"Call your health care provider if you have symptoms of Graves disease. Also call if your eye problems or general symptoms get worse (or do not improve) with treatment.
+Go to the emergency room or call the local emergency number (such as 911) if you have symptoms of hyperthyroidism with:
+Decrease in consciousness Fever Rapid, irregular heartbeat",Answer this question truthfully,"If you have Graves' disease, you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Thyroid Storm**: This is a life-threatening condition characterized by a sudden and severe increase in thyroid hormone levels. Symptoms include:
+   - High fever
+   - Rapid heart rate (tachycardia)
+   - Severe agitation or confusion
+   - Nausea and vomiting
+   - Diarrhea
+   - Sweating
+
+2. **Severe Eye Problems**: If you experience significant vision changes, eye pain, swelling, or bulging eyes (exophthalmos), seek immediate care.
+
+3. **Chest Pain or Shortness of Breath**: These could indicate heart complications related to hyperthyroidism.
+
+4. **Severe Fatigue or Weakness**: If you feel extremely weak or fatigued, especially if it interferes with daily activities.
+
+5. **Changes in Mental Status**: Confusion, severe anxiety, or mood swings that are unusual for you.
+
+6. **Signs of Infection**: Such as fever, chills, or persistent cough, especially if you are on immunosuppressive therapy.
+
+If you are unsure about your symptoms or feel that something is not right, it is always best to err on the side of caution and seek medical attention.",3.3152871131896973,0.26956521739130435,0.06140350877192982,0.15652173913043477,0.008810996757287765,0.2708943478174248,0.9445924162864685
+How do I get it to insert only 3 pictures across in a galler?,Displays the following,Answer this question truthfully,"To create a gallery that displays only three pictures across, you can follow these general steps depending on the platform or software you are using:
+
+1. **HTML/CSS**: If you're coding a webpage:
+   - Use a CSS grid or flexbox layout to control the number of columns.
+   - Example CSS:
+     ```css
+     .gallery {
+       display: grid;
+       grid-template-columns: repeat(3, 1fr); /* 3 columns */
+       gap: 10px; /* space between images */
+     }
+     ```
+
+2. **WordPress**: If you're using WordPress:
+   - Use a gallery block and set the number of columns to 3 in the block settings.
+
+3. **Image Editing Software**: If you're using software like Photoshop:
+   - Create a new canvas and set the width to accommodate three images side by side, then arrange your images accordingly.
+
+4. **Website Builders**: If you're using a website builder (like Wix, Squarespace, etc.):
+   - Look for gallery settings or layout options and select a 3-column layout.
+
+Make sure to adjust the image sizes and spacing as needed to fit your design.",4.430643558502197,0.03636363636363636,0.0,0.024242424242424242,0.00093367253458272,0.05882352941176472,0.6446400880813599
+When to seek urgent medical care when I have Hypopharyngeal cancer ?,Medical care for hypopharyngeal cancer can be found here.,Answer this question truthfully,"If you have hypopharyngeal cancer, you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Severe Difficulty Breathing**: Any sudden or worsening shortness of breath or stridor (a high-pitched wheezing sound).
+
+2. **Severe Pain**: Intense pain in the throat, neck, or ear that is not relieved by over-the-counter pain medications.
+
+3. **Difficulty Swallowing**: Sudden inability to swallow or severe pain while swallowing.
+
+4. **Uncontrolled Bleeding**: Any significant bleeding from the mouth or throat.
+
+5. **Rapid Weight Loss**: Unexplained and significant weight loss over a short period.
+
+6. **Changes in Consciousness**: Confusion, dizziness, or loss of consciousness.
+
+7. **Signs of Infection**: Fever, chills, or other signs of infection, especially if you have a weakened immune system.
+
+8. **New or Worsening Symptoms**: Any new symptoms that are concerning or a significant worsening of existing symptoms.
+
+Always consult your healthcare provider for personalized advice and to discuss any changes in your condition.",3.494872570037842,0.060240963855421686,0.024390243902439022,0.03614457831325301,0.0026692687407795933,0.18347723704866561,0.8550856709480286
+When to seek urgent medical care when I have Dialysis ?,"Dialysis is started after a gradual loss of kidney function in patients with chronic kidney disease. Your doctor and nurse will begin discussing dialysis with you before you need it.
+Dialysis also may be used when the kidneys suddenly stop working (also called acute renal failure). On occasion, dialysis can be used to quickly remove drugs or poisons from the body.",Answer this question truthfully,"If you are on dialysis, you should seek urgent medical care if you experience any of the following:
+
+1. **Shortness of Breath**: Sudden difficulty breathing or chest pain.
+2. **Severe Headache**: A headache that is different from your usual headaches or is accompanied by vision changes.
+3. **Swelling**: Rapid or severe swelling in your legs, ankles, or face.
+4. **Changes in Urination**: Significant decrease in urine output or changes in urine color.
+5. **Nausea and Vomiting**: Persistent nausea or vomiting, especially if it prevents you from eating or taking medications.
+6. **Fever or Chills**: Signs of infection, such as a fever over 100.4°F (38°C).
+7. **Severe Fatigue or Weakness**: Unusual tiredness or weakness that affects your daily activities.
+8. **Bleeding or Bruising**: Unexplained bleeding or bruising, especially if you are on anticoagulant therapy.
+9. **Dialysis Access Issues**: Problems with your dialysis access site, such as redness, swelling, or pain.
+
+Always consult your healthcare provider for personalized advice and follow their recommendations regarding when to seek care.",2.3967652320861816,0.16521739130434784,0.0,0.08695652173913042,0.002969155542498319,0.1756440281030445,0.9211201667785645
+What causes Miscarriage?,"Most miscarriages are caused by chromosome problems that make it impossible for the baby to develop. Usually, these problems are unrelated to the mother or father's genes.
+Other possible causes for miscarriage include:
+Drug and alcohol abuse Exposure to environmental toxins Hormone problems Infection Obesity Physical problems with the mother's reproductive organs Problem with the body's immune response Serious body-wide (systemic) diseases in the mother (such as uncontrolled diabetes) Smoking
+It is estimated that up to half of all fertilized eggs die and are lost (aborted) spontaneously, usually before the woman knows she is pregnant.
+Among those women who know they are pregnant, the miscarriage rate is about 15-20%. Most miscarriages occur during the first 7 weeks of pregnancy. The rate of miscarriage drops after the baby's heart beat is detected.",Answer this question truthfully,"Miscarriage, or spontaneous abortion, can be caused by a variety of factors, including:
+
+1. **Chromosomal Abnormalities**: The most common cause, where the embryo has an incorrect number of chromosomes, often leading to developmental issues.
+
+2. **Hormonal Imbalances**: Conditions such as polycystic ovary syndrome (PCOS) or thyroid disorders can affect hormone levels necessary for maintaining pregnancy.
+
+3. **Uterine Abnormalities**: Structural issues like fibroids, polyps, or congenital uterine anomalies can interfere with implantation or growth.
+
+4. **Infections**: Certain infections, such as listeria, cytomegalovirus, or sexually transmitted infections, can increase the risk of miscarriage.
+
+5. **Chronic Health Conditions**: Diseases like diabetes, hypertension, or autoimmune disorders can contribute to miscarriage risk.
+
+6. **Lifestyle Factors**: Smoking, excessive alcohol consumption, drug use, and obesity can negatively impact pregnancy.
+
+7. **Age**: Advanced maternal age (especially over 35) is associated with a higher risk of miscarriage.
+
+8. **Environmental Factors**: Exposure to certain toxins, chemicals, or radiation may increase the risk.
+
+9. **Previous Miscarriages**: A history of multiple miscarriages can increase the likelihood of future losses.
+
+While many miscarriages occur without a clear cause, these factors can contribute to the risk. If someone experiences recurrent miscarriages, they should consult a healthcare provider for evaluation and management.",5.085278272628784,0.31137724550898205,0.03614457831325301,0.13173652694610777,0.005184507736275558,0.23448449163044904,0.9574805498123169
+What are the symptoms of Bornholm disease?,"Symptoms may include fever and headache, but the distinguishing characteristic of this disease is attacks of severe pain in the lower chest, often on one side.  The slightest movement of the rib cage causes a sharp increase of pain, which makes it very difficult to breathe, and an attack is therefore quite a frightening experience, although it generally passes off before any actual harm occurs. The attacks are unpredictable and strike ""out of the blue"" with a feeling like an iron grip around the rib cage. The colloquial names for the disease, such as'The Devil's grip' reflect this symptom.
+Once inside the body, the coxsackie viruses multiply in the throat and intestines then spread into the bloodstream. At this point, the body's immune defenses often can limit the infection and prevent the person from developing symptoms. If the immune defenses are less successful, the person develops a fever or other symptoms, such as headache, nausea and vomiting, and sore throat. Only a few infected people develop the classic muscle pain in the chest and upper abdomen that gives the disease its name. In these people, the coxsackie virus infection has settled in the muscles of the chest and upper abdomen, causing inflammation there. The chest pain usually feels worse with deep breathing, called pleuritic pain. It can be a severe, stabbing pain or it can be a milder cramping in the side. Usually, only one side of the chest or abdomen is affected, although occasionally the pain can include muscles of the neck or arms. The pain usually comes in waves that last 15 to 30 minutes, although some people report having pain episodes that last for several hours. The pain can be so severe that you have trouble breathing, sweat a lot and become anxious.",Answer this question truthfully,"Bornholm disease, also known as epidemic pleurodynia, is characterized by the following symptoms:
+
+1. **Sudden onset of chest pain**: This is often sharp and can be localized to one side of the chest.
+2. **Abdominal pain**: Pain may also occur in the abdominal area, mimicking appendicitis or other abdominal conditions.
+3. **Fever**: Mild fever may be present.
+4. **Muscle pain**: Generalized muscle aches, particularly in the chest and abdominal muscles.
+5. **Respiratory symptoms**: Some patients may experience mild respiratory symptoms, such as cough or sore throat.
+
+Symptoms typically resolve within a week to ten days. The condition is caused by a viral infection, often associated with the Coxsackie B virus. If you suspect you have Bornholm disease, it is advisable to consult a healthcare professional for proper diagnosis and management.",3.4807968139648438,0.331002331002331,0.07962529274004684,0.1445221445221445,0.03672333250799432,0.1727237752554929,0.9487029910087585
+Where to find Medical Care for Gonadoblastoma?,Medical care for gonadoblastoma can be found here.,Answer this question truthfully,"Gonadoblastoma is a rare tumor that typically occurs in individuals with disorders of sexual development, particularly those with dysgenetic gonads. To find medical care for gonadoblastoma, consider the following options:
+
+1. **Specialized Cancer Centers**: Look for comprehensive cancer centers that have experience in treating rare tumors. Institutions like the National Cancer Institute (NCI) or major academic medical centers often have specialized teams.
+
+2. **Pediatric Oncology Clinics**: If the patient is a child or adolescent, pediatric oncology clinics are equipped to handle rare tumors and can provide multidisciplinary care.
+
+3. **Endocrinology Departments**: Since gonadoblastoma is often associated with hormonal issues, endocrinologists can provide valuable insights and management options.
+
+4. **Genetic Counseling Services**: Given the association with genetic conditions, consulting with a genetic counselor can help in understanding the implications and management of gonadoblastoma.
+
+5. **Referral from Primary Care Physician**: A primary care physician can provide referrals to specialists who have experience with gonadoblastoma.
+
+6. **Support Groups and Networks**: Organizations focused on rare cancers may provide resources and connections to specialists familiar with gonadoblastoma.
+
+Always ensure that the healthcare providers have experience with this specific type of tumor for optimal care.",2.989820718765259,0.05076142131979695,0.030769230769230767,0.05076142131979695,0.010185098593183672,0.10835913312693499,0.8721926212310791
+What causes atrioventricular canal defect?,"The exact cause of an atrioventricular canal defect is unknown. There is some evidence to suggest a genetic component, especially in relation to Down syndrome as many Down syndrome patients have heart defects at birth.",Answer this question truthfully,"Atrioventricular canal defect (AV canal defect) is a congenital heart defect that occurs during fetal development. The exact cause is often unknown, but several factors may contribute to its development, including:
+
+1. **Genetic Factors**: Certain genetic syndromes, such as Down syndrome (trisomy 21), are associated with a higher incidence of AV canal defects.
+
+2. **Environmental Factors**: Maternal factors during pregnancy, such as diabetes, certain medications, or infections, may increase the risk.
+
+3. **Family History**: A family history of congenital heart defects can also increase the likelihood of AV canal defects.
+
+4. **Chromosomal Abnormalities**: Other chromosomal abnormalities besides Down syndrome can also be linked to the defect.
+
+Overall, AV canal defects result from improper formation of the heart's chambers and valves during early pregnancy, leading to a combination of atrial and ventricular septal defects and a single common atrioventricular valve.",10.056054592132568,0.24,0.09248554913294797,0.16000000000000003,0.013120694152391622,0.30286408918406077,0.9464250206947327
+What causes Perioral dermatitis?,"While its exact cause is unknown, it may appear after skin creams containing steroids are applied to the face to treat other conditions.",Answer this question truthfully,"Perioral dermatitis is a facial rash that tends to occur around the mouth and sometimes the eyes or nose. The exact cause is not fully understood, but several factors are believed to contribute to its development, including:
+
+1. **Topical Steroid Use**: Prolonged use of topical corticosteroids can trigger or exacerbate the condition.
+2. **Skin Care Products**: Certain cosmetics, heavy creams, or toothpaste containing fluoride may irritate the skin.
+3. **Hormonal Changes**: Fluctuations in hormones, particularly in women, can play a role.
+4. **Bacterial Overgrowth**: An imbalance of skin flora, particularly an overgrowth of certain bacteria, may contribute.
+5. **Environmental Factors**: Irritants such as wind, sun exposure, or humidity can exacerbate the condition.
+6. **Dietary Factors**: Some individuals report flare-ups related to spicy foods or certain food allergies.
+
+Treatment typically involves discontinuing irritants, using topical or oral antibiotics, and adopting a gentle skin care routine. Always consult a healthcare professional for a proper diagnosis and treatment plan.",6.0419323444366455,0.15555555555555553,0.02247191011235955,0.08888888888888889,0.006087466504529703,0.24238325740318908,0.9246611595153809
+What to expect if I have Imperforate anus  (Outlook/Prognosis)?,"With treatment, the outcome of imperforate anus is usually good. The prognosis depends on primary fecal continence.",Answer this question truthfully,"Imperforate anus is a congenital condition where the anal opening is absent or blocked. The outlook and prognosis for individuals with imperforate anus can vary based on several factors, including the severity of the condition, the presence of associated anomalies, and the timing and success of surgical intervention.
+
+1. **Surgical Intervention**: Most individuals with imperforate anus require surgery to create a functional anal opening. The timing and type of surgery can influence outcomes. Early intervention typically leads to better results.
+
+2. **Associated Anomalies**: Many children with imperforate anus may have other congenital anomalies, particularly in the urinary and gastrointestinal systems. The presence of these anomalies can affect overall health and prognosis.
+
+3. **Long-term Outcomes**: With appropriate surgical treatment, many individuals can lead normal lives. However, some may experience complications such as bowel control issues, constipation, or fecal incontinence. Regular follow-up with healthcare providers is essential for managing these potential issues.
+
+4. **Quality of Life**: Most individuals can achieve a good quality of life with proper medical care, support, and rehabilitation. Psychological support may also be beneficial, especially for older children and adults.
+
+Overall, the prognosis for individuals with imperforate anus is generally positive, especially with timely and effective treatment. Regular monitoring and supportive care are crucial for long-term health and well-being.",15.566264152526855,0.11206896551724138,0.02608695652173913,0.07758620689655173,0.006649008676592682,0.26490914875565613,0.9004797339439392
+When to seek urgent medical care when I have Hypothyroidism ?,"Call your health care provider if symptoms of hypothyroidism appear. If you experience either of the following symptoms, seeking urgent medical care as soon as possible.
+Chest pain Palpitation Coma",Answer this question truthfully,"If you have hypothyroidism, you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Severe Fatigue or Weakness**: Extreme tiredness that interferes with daily activities.
+2. **Difficulty Breathing**: Shortness of breath or wheezing.
+3. **Chest Pain**: Any unexplained chest pain or discomfort.
+4. **Confusion or Memory Problems**: Sudden changes in mental status or severe cognitive issues.
+5. **Severe Depression or Mood Changes**: Intense feelings of sadness or hopelessness.
+6. **Cold Intolerance**: Extreme sensitivity to cold that is unusual for you.
+7. **Swelling**: Significant swelling in the face, hands, or feet.
+8. **Menstrual Irregularities**: Heavy or prolonged menstrual bleeding.
+9. **Signs of Myxedema Coma**: This is a rare but life-threatening condition characterized by severe cold intolerance, drowsiness, confusion, and a drop in body temperature.
+
+If you experience any of these symptoms, especially if they are sudden or severe, seek medical attention promptly. Regular follow-ups with your healthcare provider are also important to manage your condition effectively.",2.9374067783355713,0.20833333333333331,0.09473684210526316,0.125,0.02945694707128577,0.2907450720721683,0.9250840544700623
+How common is Shwachman-Diamond syndrome?,Researchers are not sure how common Shwachman-Diamond syndrome is. Several hundred cases have been reported in scientific studies.,Answer this question truthfully,"Shwachman-Diamond syndrome (SDS) is a rare genetic disorder. Its estimated prevalence is approximately 1 in 75,000 to 1 in 100,000 live births. However, the exact incidence may vary by population and geographic region. SDS is characterized by pancreatic insufficiency, bone marrow dysfunction, and skeletal abnormalities.",1.6098597049713135,0.14925373134328357,0.061538461538461535,0.14925373134328357,0.009429247283039352,0.22736378205128205,0.9368579387664795
+What causes Carotid artery stenosis?,"Carotid artery disease occurs when sticky, fatty substances called plaque build up in the inner lining of the arteries. The plaque may slowly block or narrow the carotid artery or cause a clot (thrombus) to form. Clots can lead to stroke.",Answer this question truthfully,"Carotid artery stenosis is primarily caused by atherosclerosis, which is the buildup of fatty deposits (plaques) in the arterial walls. This process can be influenced by several risk factors, including:
+
+1. **High cholesterol levels**: Elevated low-density lipoprotein (LDL) cholesterol can contribute to plaque formation.
+2. **Hypertension**: High blood pressure can damage arteries and promote atherosclerosis.
+3. **Smoking**: Tobacco use is a significant risk factor for vascular disease.
+4. **Diabetes**: This condition can accelerate the development of atherosclerosis.
+5. **Obesity**: Excess body weight is associated with higher cholesterol and blood pressure levels.
+6. **Sedentary lifestyle**: Lack of physical activity can contribute to obesity and cardiovascular risk.
+7. **Age**: The risk of carotid artery stenosis increases with age.
+8. **Family history**: A genetic predisposition to cardiovascular disease can play a role.
+
+Other less common causes may include fibromuscular dysplasia, radiation therapy to the neck, or other inflammatory conditions.",4.894371271133423,0.23404255319148937,0.04301075268817204,0.15957446808510636,0.004443440274506402,0.29167507983158714,0.9268326759338379
+What to expect before Mitral valve surgery (minimally invasive)?,"Always tell your doctor or nurse:
+If you are or could be pregnant What drugs you are taking, even drugs, supplements, or herbs you bought without a prescription.
+You may be able to store blood in the blood bank for transfusions during and after your surgery. Ask your surgeon about how you and your family members can donate blood.
+For the 2-week period before surgery, you may be asked to stop taking drugs that make it harder for your blood to clot. These might cause increased bleeding during the surgery.
+Some of them are aspirin, ibuprofen (Advil, Motrin), and naproxen (Aleve, Naprosyn). If you are taking warfarin (Coumadin) or clopidogrel (Plavix), talk with your surgeon before stopping or changing how you take these drugs.
+Prepare your house for when you get home from the hospital.
+The day before your surgery, shower and shampoo well. You may be asked to wash your whole body below your neck with a special soap. Scrub your chest two or three times with this soap. You also may be asked to take an antibiotic to guard against infection.
+During the days before your surgery:
+Ask your doctor which drugs you should still take on the day of your surgery. If you smoke, you must stop. Ask your doctor for help. Always let your doctor know if you have a cold, flu, fever, herpes breakout, or any other illness in the time leading up to your surgery.
+On the day of the surgery:
+You will usually be asked not to drink or eat anything after midnight the night before your surgery. This includes chewing gum and using breath mints. Rinse your mouth with water if it feels dry, but be careful not to swallow. Take the drugs your doctor told you to take with a small sip of water. Your doctor or nurse will tell you when to arrive at the hospital.",Answer this question truthfully,"Before minimally invasive mitral valve surgery, patients can expect the following:
+
+1. **Preoperative Assessment**: A thorough evaluation including medical history, physical examination, and diagnostic tests such as echocardiograms, chest X-rays, and possibly cardiac catheterization.
+
+2. **Consultations**: Meetings with the surgical team, including the cardiothoracic surgeon and anesthesiologist, to discuss the procedure, risks, benefits, and recovery.
+
+3. **Preoperative Instructions**: Guidance on medications (e.g., stopping blood thinners), dietary restrictions, and what to expect on the day of surgery.
+
+4. **Informed Consent**: Signing a consent form after understanding the procedure and its potential risks.
+
+5. **Preoperative Testing**: Additional tests may be required, such as blood tests or a CT scan, to assess heart function and anatomy.
+
+6. **Anesthesia Consultation**: Discussion about the type of anesthesia to be used during the surgery.
+
+7. **Preparation for Hospital Stay**: Information about the length of stay, what to bring, and arrangements for post-operative care.
+
+8. **Emotional Support**: It’s common to experience anxiety; discussing concerns with healthcare providers or support groups can be helpful.
+
+Patients should follow all preoperative instructions closely to ensure the best possible outcome.",5.004371643066406,0.25599999999999995,0.024096385542168676,0.12399999999999999,0.024822756446013717,0.16969509480299022,0.9135786294937134
+What are normal results?,Neutrophils: 40% to 60% Lymphocytes: 20% to 40% Monocytes: 2% to 8% Eosinophils: 1% to 4% Basophils: 0.5% to 1% Band (young neutrophil): 0% to 3%,Answer this question truthfully,"""Normal results"" can refer to various medical tests and assessments, and what is considered normal can vary based on the specific test, the population being tested, and the laboratory standards. Here are a few examples of common tests and their normal ranges:
+
+1. **Blood Pressure**: Normal is typically defined as systolic < 120 mmHg and diastolic < 80 mmHg (written as <120/80 mmHg).
+
+2. **Blood Glucose**: Fasting blood glucose levels are considered normal if they are between 70 and 99 mg/dL.
+
+3. **Cholesterol Levels**:
+   - Total cholesterol: Less than 200 mg/dL is considered desirable.
+   - LDL (bad cholesterol): Less than 100 mg/dL is optimal.
+   - HDL (good cholesterol): 60 mg/dL and above is considered protective against heart disease.
+
+4. **Complete Blood Count (CBC)**:
+   - Hemoglobin: Normal ranges are approximately 13.5 to 17.5 g/dL for men and 12.0 to 15.5 g/dL for women.
+   - White blood cell count: Normal is typically between 4,500 and 11,000 cells per microliter.
+
+5. **Thyroid Function Tests**:
+   - TSH (Thyroid Stimulating Hormone): Normal range is generally 0.4 to 4.0 mIU/L.
+
+6. **Body Mass Index (BMI)**: A normal BMI is typically between 18.5 and 24.9.
+
+It's important to note that ""normal"" can vary based on individual factors such as age, sex, and health status. Always consult with a healthcare provider for interpretation of test results in the context of individual health.",13.510061740875244,0.09923664122137403,0.023076923076923075,0.06870229007633588,0.002586317417164944,0.1328671328671329,0.8785773515701294
+What are the symptoms of parathyroid cancer?,"Symptoms of parathyroid cancer are mainly caused by a high level of calcium in the blood (hypercalcemia), and may affect different parts of the body. They include:
+Bone pain Constipation Fatigue Fractures Frequent thirst Frequent urination Kidney stones Muscle weakness Nausea Poor appetite Vomiting",Answer this question truthfully,"Parathyroid cancer is rare and can present with various symptoms, often related to hyperparathyroidism due to excessive parathyroid hormone (PTH) production. Common symptoms include:
+
+1. **Hypercalcemia Symptoms**: Increased calcium levels can lead to:
+   - Fatigue
+   - Weakness
+   - Nausea and vomiting
+   - Constipation
+   - Increased thirst and urination
+   - Confusion or cognitive changes
+
+2. **Neck Mass**: A palpable lump in the neck may be present.
+
+3. **Bone Pain**: Due to calcium leaching from bones.
+
+4. **Kidney Stones**: Increased calcium can lead to the formation of kidney stones.
+
+5. **Abdominal Pain**: May occur due to complications from hypercalcemia.
+
+6. **Muscle Weakness**: Generalized weakness may be experienced.
+
+If parathyroid cancer is suspected, it is important to seek medical evaluation for appropriate diagnosis and management.",5.903730869293213,0.32499999999999996,0.0759493670886076,0.15,0.006833730879267924,0.31991117640257627,0.9502521753311157
+What to expect if I have Henoch-Sch%C3%B6nlein purpura  (Outlook/Prognosis)?,The disease usually gets better on its own without treatment.,Answer this question truthfully,"Henoch-Schönlein purpura (HSP), also known as IgA vasculitis, is a small-vessel vasculitis that primarily affects children but can also occur in adults. The prognosis for HSP is generally favorable, with most patients experiencing a complete recovery. Here are some key points regarding the outlook and prognosis:
+
+1. **Symptoms**: HSP is characterized by a tetrad of symptoms: purpura (typically on the buttocks and legs), abdominal pain, arthralgia (joint pain), and kidney involvement (hematuria and proteinuria).
+
+2. **Duration**: Symptoms usually resolve within a few weeks to months. The skin rash often improves first, followed by abdominal and joint symptoms.
+
+3. **Recurrence**: Some individuals may experience recurrent episodes, but these are typically less severe than the initial presentation.
+
+4. **Kidney Involvement**: While most patients have mild kidney involvement that resolves without long-term effects, a small percentage may develop chronic kidney disease. Regular monitoring of kidney function is recommended.
+
+5. **Long-term Outlook**: The long-term prognosis is generally good, especially in children. Most recover completely without significant complications.
+
+6. **Management**: Treatment is often supportive, focusing on symptom relief. Severe cases may require corticosteroids or other immunosuppressive therapies.
+
+In summary, while HSP can cause significant discomfort and complications, the overall outlook is positive, with most patients recovering fully. Regular follow-up with a healthcare provider is important to monitor for any potential complications, especially related to kidney function.",19.232188940048218,0.050420168067226885,0.0,0.03361344537815126,0.0009821828363253031,0.11392405063291143,0.8614804148674011
+When to seek urgent medical care when I have Transposition of the great vessels ?,"Most often, this condition is diagnosed during routine examination. This condition can also be diagnosed before birth using a fetal echocardiogram. If not, it is usually diagnosed soon after a baby is born. Call your infant's health care provider if the baby seems to be having difficulty breathing, if your baby's skin develops a bluish color, especially in the face or trunk. or if the baby seems to have an unusual number of respiratory infections.
+Contact your health care provider if your baby has this condition and new symptoms develop, get worse, or continue after treatment.",Answer this question truthfully,"If you have Transposition of the Great Vessels (TGV), you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Severe shortness of breath**: Difficulty breathing that is sudden or worsening.
+2. **Chest pain or discomfort**: Any new or severe chest pain should be evaluated immediately.
+3. **Rapid or irregular heartbeat**: Palpitations that are new or significantly different from your usual pattern.
+4. **Cyanosis**: A bluish tint to the skin, lips, or nails, indicating low oxygen levels.
+5. **Fainting or loss of consciousness**: Any episodes of syncope or near-syncope.
+6. **Signs of heart failure**: Such as extreme fatigue, swelling in the legs or abdomen, or persistent cough with pink, frothy sputum.
+7. **Infection symptoms**: Fever, chills, or other signs of infection, especially if you have a central line or recent surgery.
+
+Always consult your healthcare provider for personalized advice and follow their recommendations regarding monitoring and emergency situations.",2.913717269897461,0.2549800796812749,0.024096385542168676,0.14342629482071714,0.005604624757042728,0.2030508514460071,0.942245602607727
+What are the symptoms of Hypotension?,"Symptoms may include:
+Blurry vision Confusion Dizziness Fainting Light-headedness Sleepiness Weakness",Answer this question truthfully,"Hypotension, or low blood pressure, can present with various symptoms, including:
+
+1. Dizziness or lightheadedness
+2. Fainting (syncope)
+3. Blurred or narrowing vision
+4. Nausea
+5. Fatigue
+6. Lack of concentration
+
+In some cases, hypotension may not cause noticeable symptoms, especially if it is chronic. However, if symptoms occur, they can be more pronounced when standing up quickly (orthostatic hypotension). If you experience severe symptoms, it's important to seek medical attention.",2.3849036693573,0.14285714285714285,0.0,0.09523809523809525,0.0032177921448438645,0.2714445153061225,0.8758324980735779
+What are the symptoms of Heart murmur?,harmless heart murmur you likely won't have any symptoms and your doctor may discover it when listening to your heart with a stethoscope. presence of this symptoms indicate heart problem: fingertips and lips appear blue Swelling or sudden weight gain Shortness of breath Chronic cough Enlarged liver Enlarged neck veins Poor appetite and failure to grow normally (in infants) Heavy sweating with minimal or no exertion Chest pain Dizziness Fainting,Answer this question truthfully,"A heart murmur itself is not a disease but rather a sound made by blood flowing through the heart. Symptoms associated with heart murmurs can vary depending on the underlying cause. Some individuals may not experience any symptoms, while others may have:
+
+1. **Shortness of breath** - especially during exertion.
+2. **Fatigue** - feeling unusually tired.
+3. **Chest pain** - discomfort or pain in the chest area.
+4. **Palpitations** - feeling of rapid or irregular heartbeats.
+5. **Swelling** - in the legs, abdomen, or veins in the neck.
+6. **Cyanosis** - a bluish tint to the skin, especially around the lips and fingertips.
+
+If a heart murmur is associated with a heart condition, symptoms may be more pronounced and require medical evaluation. Always consult a healthcare professional for an accurate diagnosis and appropriate management.",3.714144468307495,0.3115577889447236,0.06091370558375634,0.12060301507537688,0.011817798925348877,0.22172574292875044,0.9275804758071899
+How is Mitral valve surgery (minimally invasive) done?,"Before your surgery you will receive general anesthesia. This will make you unconscious and unable to feel pain.
+There are several different ways to perform minimally invasive mitral valve surgery.
+Your heart surgeon may make a 2-inch to 3-inch-long cut in the right part of your chest near the sternum (breastbone). Muscles in the area will be divided so your surgeon can reach the heart. A small cut is made in the left side of your heart so the surgeon can repair or replace the mitral valve. In endoscopic surgery, your surgeon makes one to four small holes in your chest. Then your surgeon uses special instruments and a camera to do the surgery. For robotically-assisted valve surgery, the surgeon makes two to four tiny cuts (about Â½ to Â¾ inch) in your chest. The surgeon uses a special computer to control robotic arms during the surgery. The surgeon sees a three-dimensional view of the heart and mitral valve on the computer. This method is very precise.
+You may or may not need to be on a heart lung machine for these types of surgery, but if not, your heart rate will be slowed by medicine or a mechanical device.
+If your surgeon can repair your mitral valve, you may have:
+Ring annuloplasty -- The surgeon repairs the ring-like part around the valve by sewing a ring of metal, cloth, or tissue around the valve. Valve repair -- The surgeon trims, shapes, or rebuilds one or both of the leaflets of the valve. The leaflets are flaps that open and close the valve.
+If your mitral valve is too damaged, you will need a new valve. This is called valve replacement surgery. Your surgeon will remove your mitral valve and sew a new one into place. There are two main types of new valves:
+Mechanical -- made of man-made materials, such as titanium, or ceramic. These valves last the longest, but you will need to take blood thinning medicine, such as warfarin (Coumadin) or aspirin, for the rest of your life. Biological -- made of human or animal tissue. These valves last 10 - 12 years, but you may not need to take blood thinners for life.
+The surgery may take 2 -4 hours.
+This surgery can also be done through a groin artery, with no cuts on your chest. The doctor sends a catheter (flexible tube) with a balloon attached on the end. The balloon stretches the opening of the valve. This procedure is called percutaneous valvuloplasty.",Answer this question truthfully,"Minimally invasive mitral valve surgery is performed using smaller incisions compared to traditional open-heart surgery. The procedure typically involves the following steps:
+
+1. **Anesthesia**: The patient is placed under general anesthesia.
+
+2. **Access**: Instead of a large incision in the chest, surgeons make smaller incisions, often between the ribs or through the right side of the chest. Some techniques may use a small incision in the upper chest or utilize robotic assistance.
+
+3. **Cardiopulmonary Bypass**: In many cases, the heart is temporarily stopped, and a heart-lung machine takes over the function of pumping blood and oxygenating it.
+
+4. **Valve Repair or Replacement**: The surgeon accesses the mitral valve through the small incision. Depending on the condition of the valve, it may be repaired (e.g., by tightening or reinforcing the valve) or replaced with a mechanical or biological prosthetic valve.
+
+5. **Closure**: After the procedure, the heart is restarted, and the heart-lung machine is removed. The incisions are then closed with sutures or staples.
+
+6. **Recovery**: Patients typically experience shorter recovery times and less postoperative pain compared to traditional surgery.
+
+Minimally invasive techniques may include the use of endoscopic tools or robotic systems, which enhance precision and reduce trauma to surrounding tissues. The specific approach may vary based on the patient's condition and the surgeon's expertise.",5.229656457901001,0.403755868544601,0.1130298273155416,0.1971830985915493,0.0294995206238163,0.1862887973873921,0.950171947479248
+What to expect if I have Atrial fibrillation  (Outlook/Prognosis)?,"The disorder is usually controllable with treatment. Many people with atrial fibrillation do very well.
+Atrial fibrillation tends to become a chronic condition, however, it may relapse even with treatment.",Answer this question truthfully,"Atrial fibrillation (AFib) is a common heart rhythm disorder characterized by irregular and often rapid heartbeats. The outlook and prognosis for individuals with AFib can vary based on several factors, including the underlying cause, the presence of other medical conditions, and how well the AFib is managed. Here are some key points to consider:
+
+1. **Symptoms**: Many people with AFib may experience symptoms such as palpitations, shortness of breath, fatigue, dizziness, or chest discomfort. However, some individuals may be asymptomatic.
+
+2. **Risk of Complications**: AFib increases the risk of stroke and heart-related complications. The risk of stroke is particularly significant due to the potential for blood clots to form in the heart.
+
+3. **Management**: AFib can often be managed effectively with medications (such as anticoagulants to reduce stroke risk, and rate or rhythm control medications) and lifestyle changes. In some cases, procedures like cardioversion or ablation may be recommended.
+
+4. **Long-term Outlook**: With appropriate management, many individuals with AFib can lead normal, active lives. However, AFib can be a chronic condition that may require ongoing treatment and monitoring.
+
+5. **Underlying Conditions**: The presence of other health issues, such as hypertension, heart disease, or diabetes, can affect the prognosis. Managing these conditions is crucial for improving outcomes.
+
+6. **Regular Follow-up**: Regular medical follow-up is important to monitor the condition, adjust treatment as necessary, and reduce the risk of complications.
+
+In summary, while AFib can pose risks, many individuals can manage the condition effectively and maintain a good quality of life with appropriate treatment and lifestyle modifications. Always consult with a healthcare provider for personalized advice and management strategies.",5.95316219329834,0.132890365448505,0.033444816053511704,0.07973421926910298,0.007029534349491303,0.2267849820258071,0.9356291890144348
+Who is at highest risk for Lyme disease ?,"Individuals who spend time outdoors and/or have pets that go outdoors in endemic regions are at risk for tick-borne disease.
+Exposure to ticks: Individuals with frequent exposure to dogs and who reside near wooded areas or areas with high grass may also be at increased risk of tick-borne infection. Individuals with outdoor occupations and who work outside with bare or exposed skin are at a high risk of contracting Lyme disease. Failing to remove a tick as soon as you see it on your skin (the longer a tick is attached to your skin, the greater your risk of developing Lyme disease) also increases risk of developing Lyme disease.
+Endemic Regions: About 95% of all reported cases are confined to 14 states including Connecticut, Delaware, Maine, Massachusetts, Minnesota, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, and Wisconsin. Any individual traveling or living within these five geographic areas including New England, Mid-Atlantic, East-North Central, South Atlantic, and West North-Central is at a heightened risk of exposure to Lyme disease.
+Seasonal Variation: The majority of Lyme disease cases are reported during the summer months of May to August. Case incidence increases in May, peaks in June and July, and tapers off in August.
+Rarer forms of Transmission: Cases of blood transfusion and organ transplantation have been recorded as methods of transmission but transmission through this avenue is rare.",Answer this question truthfully,"Individuals at the highest risk for Lyme disease include:
+
+1. **People living in or visiting endemic areas**: Regions where Lyme disease is common, particularly the northeastern, north-central, and Pacific coastal areas of the United States.
+
+2. **Outdoor enthusiasts**: Those who spend time in wooded or grassy areas, such as hikers, campers, and hunters, are more likely to encounter ticks.
+
+3. **Children**: They are often more exposed to tick habitats due to outdoor play.
+
+4. **Pet owners**: Pets can carry ticks into homes, increasing the risk for their owners.
+
+5. **Occupational groups**: People who work outdoors, such as landscapers, forestry workers, and agricultural workers, are at increased risk.
+
+Preventive measures, such as using tick repellents and wearing protective clothing, can help reduce the risk of Lyme disease.",2.534029245376587,0.36363636363636365,0.07756232686980609,0.1377410468319559,0.016835889958553445,0.21638467853282062,0.9624952673912048
+What to expect if I have Lipoma  (Outlook/Prognosis)?,The outlook of lipoma is always good.,Answer this question truthfully,"A lipoma is a benign (non-cancerous) tumor made up of fat tissue. Here’s what you can expect regarding its outlook and prognosis:
+
+1. **Benign Nature**: Lipomas are generally harmless and do not typically cause serious health issues. They are not cancerous and do not spread to other parts of the body.
+
+2. **Symptoms**: Most lipomas are asymptomatic, meaning they do not cause pain or discomfort. However, if a lipoma presses on nerves or other structures, it may cause discomfort or pain.
+
+3. **Growth**: Lipomas can grow slowly over time, but they usually remain small (typically less than 2 inches in diameter). Some may grow larger, but this is less common.
+
+4. **Treatment**: Treatment is not usually necessary unless the lipoma is painful, bothersome, or for cosmetic reasons. Surgical removal is a common option if needed.
+
+5. **Recurrence**: After surgical removal, lipomas can recur, but this is relatively uncommon.
+
+6. **Prognosis**: The overall prognosis for individuals with lipomas is excellent. They are not associated with any serious health risks, and most people live normal, healthy lives without complications.
+
+If you have concerns about a lipoma or notice changes in its size or symptoms, it is advisable to consult a healthcare professional for evaluation.",2.855898380279541,0.04739336492890995,0.009569377990430623,0.03791469194312796,0.0018433053675025912,0.08771929824561404,0.8444064855575562
+When to seek urgent medical care when I have Chronic cold urticaria ?,"Seek immediate assistance if you experience the following severe reactions after sudden exposure to cold:
+Feeling light headed Difficulty breathing Throat swelling
+If you notice mild skin reactions following exposure to cold, see a doctor. Your doctor can rule out any underlying conditions that may be causing the problem.",Answer this question truthfully,"If you have chronic cold urticaria, you should seek urgent medical care in the following situations:
+
+1. **Severe Symptoms**: If you experience severe swelling, difficulty breathing, or tightness in the throat, as these may indicate anaphylaxis, a life-threatening allergic reaction.
+
+2. **Worsening Reactions**: If your hives or welts become increasingly severe or widespread, or if you have symptoms that do not improve with usual treatments.
+
+3. **Persistent Symptoms**: If you have persistent symptoms that do not respond to antihistamines or other medications prescribed by your doctor.
+
+4. **Signs of Infection**: If you notice signs of infection in the affected areas, such as increased redness, warmth, or pus.
+
+5. **New Symptoms**: If you develop new symptoms that are unusual for your condition, such as fever or joint pain.
+
+Always consult with your healthcare provider for personalized advice and management of your condition.",2.5974507331848145,0.2617801047120419,0.07407407407407408,0.14659685863874344,0.01374674588474202,0.2866917293233083,0.9455912113189697
+What are the symptoms of gallbladder cancer?,"Because the gallbladder is located deep inside the body, your doctor cannot see or feel tumors during a routine physical exam. Therefore, it is hard to diagnose gallbladder cancer early. Sometimes, gallbladder cancers are found unexpectedly after removal of the gallbladder for other reasons, such as gallstones. As the cancer progresses, people may notice one or more symptoms as the following:
+Jaundice: Is a yellowing of the sclera and skin. Normally, bilirubin is made in the liver and the liver excretes it into bile. Then bile goes into the intestines eventually leaving the body in the stool. Once the common bile duct becomes blocked, bile can't reach the intestines, and the level of bilirubin builds up. If the bile duct is blocked, bilirubin cannot get through to the intestines then stools may become lighter in color. Abdominal pain: Experiencing abdominal pain due to gallbladder cancer is because advanced gallbladder cancer start to compress other nearby organs. The pain may be constant or it may come and go. Gallbladder enlargement or lump in abdomen: Is because the cancer blocks the bile duct and bile builds up in the gallbladder to enlarge. Sometimes a doctor can feel this enlargement during the physical exam Digestive problems: Patients with gallbladder cancer are unable to digest fatty foods when cancer blocks the release of the bile into the intestine. This can cause nausea and vomiting that tend to be worse after eating. Undigested fat may cause stools to be pale, bulky, and greasy. Weight loss and marasmus, poor appetite: Unintended or unexpected weight loss is very common in patients with gallbladder cancer. These people also complain of being very tired and having little or no appetite.
+Other health problems such as gallstones, hepatitis, and other pancreatic diseases may also cause these symptoms. Only a doctor can tell for sure. A person with any of these symptoms should tell his/her doctor so that problems can be diagnosed and treated as early as possible.",Answer this question truthfully,"Gallbladder cancer symptoms can be quite vague and may resemble other conditions. Common symptoms include:
+
+1. **Abdominal Pain**: Often in the upper right quadrant.
+2. **Nausea and Vomiting**: May occur, especially after eating.
+3. **Jaundice**: Yellowing of the skin and eyes due to bile duct obstruction.
+4. **Unexplained Weight Loss**: Significant and unintended weight loss.
+5. **Loss of Appetite**: Decreased desire to eat.
+6. **Bloating**: A feeling of fullness or swelling in the abdomen.
+7. **Fever**: Sometimes present, particularly if there is an associated infection.
+
+These symptoms can be indicative of various conditions, so it is important to consult a healthcare professional for proper diagnosis and evaluation.",2.7710843086242676,0.2798165137614679,0.07373271889400922,0.14220183486238533,0.008036312826265926,0.1442273240671963,0.9326233863830566
+When to seek urgent medical care when I have Hypersensitivity pneumonitis ?,Call your health care provider if you develop symptoms of hypersensitivity pneumonitis.,Answer this question truthfully,"You should seek urgent medical care for hypersensitivity pneumonitis if you experience any of the following symptoms:
+
+1. **Severe Shortness of Breath**: If you have difficulty breathing or feel like you cannot catch your breath.
+2. **Chest Pain**: Any significant or worsening chest pain that is not relieved by rest.
+3. **High Fever**: A persistent fever that is high (generally above 101°F or 38.3°C) and does not respond to over-the-counter medications.
+4. **Coughing Up Blood**: If you notice blood in your sputum or have a persistent cough that worsens.
+5. **Rapid Heart Rate**: If you experience a significantly increased heart rate or palpitations.
+6. **Confusion or Dizziness**: If you feel faint, confused, or disoriented.
+
+These symptoms may indicate a more severe reaction or complications that require immediate medical attention. Always consult with a healthcare professional if you are unsure about your symptoms.",3.9356770515441895,0.10062893081761005,0.025477707006369425,0.0628930817610063,0.0034192481924344713,0.22274161972112352,0.900737464427948
+Who needs an Amputation?,"Reasons for having an amputation of a lower limb are:
+Severe trauma to the limb that is caused by an accident Poor blood flow to the limb Infections that do not go away or become worse and cannot be controlled or healed Tumors of the lower limb Severe burns or severe frostbite Wounds that do not heal",Answer this question truthfully,"Amputation may be necessary for individuals with certain medical conditions or injuries, including:
+
+1. **Severe Trauma**: Injuries from accidents, such as crush injuries or severe fractures that cannot be repaired.
+
+2. **Peripheral Vascular Disease**: Poor blood circulation due to conditions like diabetes or atherosclerosis can lead to non-healing wounds or gangrene.
+
+3. **Infections**: Severe infections that do not respond to treatment and threaten the patient's life or limb, such as necrotizing fasciitis.
+
+4. **Tumors**: Malignant tumors in bones or soft tissues that require removal to prevent spread.
+
+5. **Congenital Limb Deficiencies**: Some individuals may be born with limbs that are non-functional or severely malformed.
+
+6. **Chronic Pain**: In some cases, chronic pain conditions that do not respond to other treatments may lead to amputation as a last resort.
+
+The decision for amputation is typically made after careful consideration of the patient's overall health, quality of life, and potential for rehabilitation.",3.936189651489258,0.3696682464454976,0.10526315789473684,0.1895734597156398,0.03243305386799615,0.3603094280400625,0.9283007383346558
+When to seek urgent medical care when I have Neonatal jaundice ?,"All babies should be seen by a health care provider in the first 5 days of life to check for jaundice.
+Those who spend less than 24 hours in a hospital should be seen by age 72 hours. Infants sent home between 24 and 48 hours should be seen again by age 96 hours. Infants sent home between 48 and 72 hours should be seen again by age 120 hours.
+Jaundice is an emergency if the baby has a fever, has become listless, or is not feeding well. Jaundice may be dangerous in high-risk newborns.
+Jaundice is generally NOT dangerous in term, otherwise healthy newborns. Call the infant's health care provider if:
+Jaundice is severe (the skin is bright yellow) Jaundice continues to increase after the newborn visit, lasts longer than 2 weeks, or other symptoms develop The feet, especially the soles, are yellow",Answer this question truthfully,"You should seek urgent medical care for neonatal jaundice if:
+
+1. **Jaundice appears within the first 24 hours of life**: This can indicate a more serious underlying condition.
+2. **Jaundice worsens or spreads**: If the jaundice spreads beyond the face and chest or becomes more pronounced.
+3. **The baby is lethargic or difficult to wake**: This can be a sign of severe jaundice or other complications.
+4. **Poor feeding or weight loss**: If the baby is not feeding well or is losing weight, it may require immediate attention.
+5. **Signs of dehydration**: Such as dry mouth, fewer wet diapers, or dark urine.
+6. **High bilirubin levels**: If a healthcare provider has indicated that bilirubin levels are dangerously high or rising rapidly.
+7. **Presence of other symptoms**: Such as fever, vomiting, or unusual irritability.
+
+Always consult a healthcare professional if you have concerns about your baby's health.",3.4847962856292725,0.34812286689419797,0.08247422680412371,0.1569965870307167,0.03635630656401301,0.22152620685478555,0.9609634876251221
+Who is at highest risk for Mouth ulcers ?,"Individuals who have been diagnosed with these conditions may have a higher risk:
+Canker sores Gingivostomatitis Herpes simplex (fever blister) Leukoplakia Oral cancer Oral lichen planus Oral thrush",Answer this question truthfully,"Mouth ulcers, also known as canker sores, can affect anyone, but certain groups are at higher risk. These include:
+
+1. **Individuals with a history of mouth ulcers**: Those who have previously experienced them are more likely to have recurrent episodes.
+2. **People with certain medical conditions**: Conditions such as inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis), celiac disease, and autoimmune disorders (e.g., lupus, Behçet's disease) increase the risk.
+3. **Nutritional deficiencies**: Deficiencies in vitamins and minerals, particularly vitamin B12, folate, iron, and zinc, can contribute to the development of mouth ulcers.
+4. **Stress and hormonal changes**: High stress levels and hormonal fluctuations (e.g., during menstruation) can trigger ulcers.
+5. **Certain medications**: Some medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs) and chemotherapy agents, may increase the risk.
+6. **Tobacco users**: Smoking or using other tobacco products can lead to oral health issues, including ulcers.
+
+Maintaining good oral hygiene and managing stress can help reduce the risk of developing mouth ulcers.",2.2416138648986816,0.15384615384615383,0.031088082901554404,0.09230769230769231,0.0037029897465014655,0.22810570987654327,0.9229689836502075
+What to expect if I have Ectodermal dysplasia  (Outlook/Prognosis)?,"Having ectodermal dysplasia will not shorten your lifespan, but you must pay constant attention to temperature regulation and other problems associated with this condition.",Answer this question truthfully,"Ectodermal dysplasia (ED) is a group of genetic disorders that affect the development of the ectoderm, which is the outermost layer of the embryo that forms skin, hair, nails, and teeth. The outlook and prognosis for individuals with ectodermal dysplasia can vary widely depending on the specific type of ED and the severity of symptoms. Here are some general points to consider:
+
+1. **Physical Symptoms**: Individuals may experience a range of symptoms, including sparse hair, missing or malformed teeth, and dry skin. The severity of these symptoms can differ significantly among individuals.
+
+2. **Dental Issues**: Many people with ED have dental problems, including missing teeth or abnormal tooth shape. Dental care and prosthetic options can help manage these issues.
+
+3. **Heat Intolerance**: Due to reduced sweat glands, individuals may have difficulty regulating body temperature, leading to heat intolerance. This can be managed with appropriate precautions in hot environments.
+
+4. **Skin Care**: Individuals may require specialized skin care to manage dryness and sensitivity.
+
+5. **Psychosocial Impact**: The visible symptoms of ED can affect self-esteem and social interactions. Support from mental health professionals or support groups can be beneficial.
+
+6. **Long-term Outlook**: With appropriate management and care, individuals with ectodermal dysplasia can lead healthy lives. Regular medical and dental check-ups are important for monitoring and addressing any complications.
+
+7. **Genetic Counseling**: Since ED is often inherited, genetic counseling may be recommended for affected individuals and their families to understand the condition and its implications.
+
+Overall, while ectodermal dysplasia can present challenges, many individuals adapt well and can manage their symptoms effectively with the right support and care.",9.487439632415771,0.07534246575342467,0.00689655172413793,0.04794520547945205,0.001706384026831143,0.13765399589000074,0.9150602221488953
+What to expect if I have Kidney abscess  (Outlook/Prognosis)?,"In general, quick diagnosis and treatment of perirenal abscess should lead to a good outcome. Kidney stones must be treated to avoid further infections.
+In rare cases, the infection can spread beyond the kidney area and into the bloodstream, which can be deadly.",Answer this question truthfully,"A kidney abscess is a localized collection of pus in the kidney, often resulting from infection. The outlook and prognosis for a kidney abscess depend on several factors, including the size of the abscess, the underlying cause, the presence of any complications, and the overall health of the patient.
+
+1. **Treatment Response**: Most kidney abscesses can be effectively treated with antibiotics and, in some cases, drainage (either percutaneously or surgically). Early intervention typically leads to a good prognosis.
+
+2. **Complications**: If left untreated, a kidney abscess can lead to serious complications, such as sepsis, kidney damage, or the spread of infection to other areas of the body. These complications can worsen the prognosis.
+
+3. **Recovery**: With appropriate treatment, many patients experience a full recovery. Symptoms such as fever, flank pain, and malaise usually improve within days of starting treatment.
+
+4. **Follow-Up**: Regular follow-up with healthcare providers is important to monitor recovery and ensure that the infection has resolved completely.
+
+5. **Underlying Conditions**: The presence of underlying conditions (e.g., diabetes, immunosuppression) can affect recovery and increase the risk of recurrence.
+
+In summary, the prognosis for a kidney abscess is generally favorable with timely and appropriate treatment, but individual outcomes can vary based on specific circumstances. Always consult a healthcare professional for personalized advice and treatment options.",8.103318691253662,0.21455938697318008,0.05405405405405405,0.13793103448275862,0.008433752484448637,0.24305555555555558,0.9527596831321716
+What to expect if I have Bicuspid aortic stenosis  (Outlook/Prognosis)?,"How well the baby does depends on whether complications of bicuspid aortic valve are present, and how severe they are.
+The presence of other physical problems at birth also can affect how well a baby does.
+Most babies with this condition have no symptoms, and the problem is not diagnosed until they are adults. Some people never find out that they have this problem.",Answer this question truthfully,"Bicuspid aortic stenosis is a condition where the aortic valve has only two leaflets instead of the normal three, leading to narrowing (stenosis) of the valve. Here’s what to expect regarding outlook and prognosis:
+
+1. **Symptoms**: Many individuals with bicuspid aortic stenosis may remain asymptomatic for years. However, as the condition progresses, symptoms such as shortness of breath, chest pain, fatigue, and syncope (fainting) may develop.
+
+2. **Progression**: The condition can progress to severe aortic stenosis, which may require intervention. The rate of progression varies among individuals, but it often occurs more rapidly in those with bicuspid valves compared to normal trileaflet valves.
+
+3. **Intervention**: Once symptoms develop or if the aortic valve area becomes critically narrowed, surgical intervention (such as aortic valve replacement) is typically recommended. This can significantly improve symptoms and quality of life.
+
+4. **Prognosis**: With timely intervention, the prognosis can be quite good. Many patients experience significant improvement in symptoms and life expectancy post-surgery. However, those with bicuspid aortic valves are at increased risk for other cardiovascular issues, including aortic regurgitation, aortic aneurysm, and endocarditis.
+
+5. **Follow-up**: Regular follow-up with a cardiologist is essential for monitoring the condition, especially if you have a bicuspid aortic valve, to assess for progression and manage any complications.
+
+Overall, while bicuspid aortic stenosis can lead to serious complications, early detection and appropriate management can lead to favorable outcomes.",6.093277931213379,0.15540540540540543,0.0272108843537415,0.10135135135135136,0.00660370438568597,0.188280617920712,0.9226664900779724
+Who is at highest risk for Heart murmur ?,"Family history of a heart defect. Uncontrolled high blood pressure (hypertension). Infection of the lining of the heart (endocarditis),
+Factors that increase your baby's risk of developing a heart murmur include: Illnesses during pregnancy. such as uncontrolled diabetes or a rubella infection. Taking certain medications or illegal drugs during pregnancy.",Answer this question truthfully,"Heart murmurs can occur in individuals of any age, but certain groups are at higher risk. These include:
+
+1. **Children**: Many children have innocent (functional) murmurs due to normal blood flow and often outgrow them.
+2. **Pregnant women**: Increased blood volume and changes in circulation can lead to murmurs.
+3. **Individuals with congenital heart defects**: Those born with structural heart issues are at higher risk for abnormal murmurs.
+4. **Older adults**: Age-related changes in heart valves can lead to murmurs, particularly aortic stenosis.
+5. **Individuals with a history of rheumatic fever**: This condition can damage heart valves, leading to murmurs.
+6. **People with certain medical conditions**: Conditions like anemia, hyperthyroidism, or infections (e.g., endocarditis) can also increase the risk of murmurs.
+
+It's important to note that not all murmurs indicate a serious problem; many are benign.",2.610064744949341,0.2421052631578947,0.053191489361702135,0.11578947368421053,0.00546555079737969,0.30153124297868245,0.945931613445282
+How will a toxicology screen feel?,"Blood test: When the needle is inserted to draw blood, some people feel moderate pain, while others feel only a prick or stinging sensation. Afterward, there may be some throbbing.
+Urine test: A urine test involves normal urination. There is no discomfort.",Answer this question truthfully,"A toxicology screen is a laboratory test and does not have a physical sensation associated with it. However, the process typically involves collecting a sample, such as urine, blood, or saliva. The collection may involve a brief moment of discomfort, such as a needle prick for blood draws or the need to urinate for a urine sample. The test itself is performed in a lab and does not involve any sensation for the individual being tested.",1.177886724472046,0.3898305084745763,0.017241379310344827,0.1864406779661017,0.010170757433578342,0.275735294117647,0.9172602295875549
+What causes Giant congenital nevus?,"Bathing trunk nevi are thought to be caused by defects or problems that occur as a baby grows in the womb. However, in some families bathing trunk nevi may be inherited.
+A bathing trunk nevus may occur with:
+Growth of fatty tissue cells (lipomas) Neurofibromatosis Other nevi Spina bifida
+Smaller congenital pigmented or melanocytic nevi are common in children and lead to fewer complications. Larger or giant nevi are fairly rare.",Answer this question truthfully,"Giant congenital nevus is a type of birthmark that is present at birth and characterized by a large, darkly pigmented area of skin. The exact cause of giant congenital nevus is not fully understood, but it is believed to result from a combination of genetic and environmental factors. 
+
+The condition is thought to arise from an abnormal proliferation of melanocytes, the cells responsible for producing pigment in the skin. Genetic mutations may play a role in the development of these nevi, and there is some evidence suggesting a hereditary component, although most cases occur sporadically without a family history.
+
+Giant congenital nevi can vary in size and may be associated with other complications, including an increased risk of melanoma, particularly if they are larger than 20 cm in diameter. Regular monitoring and evaluation by a healthcare professional are recommended for individuals with this condition.",2.2238166332244873,0.31627906976744186,0.028169014084507043,0.1488372093023256,0.006555967189936995,0.25880840047232406,0.9565529227256775
+When to seek urgent medical care when I have Pressure ulcer ?,"Contact your health care provider if an area of the skin blisters or forms an open sore. Contact the provider immediately if there are any signs of an infection. An infection can spread to the rest of the body and cause serious problems. Signs of an infected ulcer include:
+A foul odor from the ulcer Redness and tenderness around the ulcer Skin close to the ulcer is warm and swollen
+Fever, weakness, and confusion are signs that the infection may have spread to the blood or elsewhere in the body.",Answer this question truthfully,"You should seek urgent medical care for a pressure ulcer if you experience any of the following:
+
+1. **Increased Pain**: If the pain around the ulcer worsens significantly or becomes unmanageable.
+2. **Signs of Infection**: Symptoms such as increased redness, swelling, warmth, or pus drainage from the ulcer, or if you develop a fever.
+3. **Rapid Deterioration**: If the ulcer appears to be getting larger or deeper quickly.
+4. **Foul Odor**: A strong, unpleasant smell coming from the ulcer may indicate infection or necrosis.
+5. **Bleeding**: If there is significant bleeding from the ulcer.
+6. **Systemic Symptoms**: If you experience chills, fatigue, or other systemic symptoms that may indicate a serious infection.
+
+Prompt medical evaluation is crucial to prevent complications and promote healing.",2.847625970840454,0.35680751173708924,0.08530805687203791,0.20657276995305163,0.018286425520471616,0.2647457241647978,0.9517431855201721
+Who is at highest risk for Cystic fibrosis ?,"Every person inherits two CFTR genes, one from each parent. Children who inherit two faulty CFTR gene from both parents will have CF.",Answer this question truthfully,"Cystic fibrosis (CF) primarily affects individuals of Caucasian descent, particularly those of Northern European ancestry, where the carrier frequency is about 1 in 25. It is less common in other ethnic groups, with lower carrier rates in African and Asian populations. Additionally, individuals with a family history of CF or those who are carriers of the CFTR gene mutation are at higher risk.",1.2331960201263428,0.09302325581395347,0.023809523809523808,0.06976744186046512,0.0074019459920145365,0.17443647540983606,0.8798683881759644
+What to expect if I have Allergic conjunctivitis  (Outlook/Prognosis)?,"Treatment often relieves symptoms, but they can return if you continue to be exposed to the allergen.",Answer this question truthfully,"Allergic conjunctivitis is an inflammation of the conjunctiva caused by allergens. The outlook for individuals with allergic conjunctivitis is generally positive. Here are key points regarding the prognosis:
+
+1. **Symptoms**: Common symptoms include redness, itching, tearing, and swelling of the eyes. Symptoms can vary in severity depending on exposure to allergens.
+
+2. **Duration**: Symptoms may be seasonal (associated with pollen) or perennial (related to indoor allergens like dust mites or pet dander). Seasonal allergic conjunctivitis typically resolves when the allergen is no longer present.
+
+3. **Management**: Most cases can be effectively managed with antihistamines, mast cell stabilizers, or corticosteroid eye drops. Avoiding known allergens is also crucial.
+
+4. **Complications**: Allergic conjunctivitis is usually not serious and does not lead to long-term eye damage. However, chronic inflammation can lead to complications if not managed properly.
+
+5. **Prognosis**: With appropriate treatment and allergen avoidance, most individuals experience significant relief from symptoms and a good quality of life.
+
+If symptoms persist or worsen, it is advisable to consult an eye care professional for further evaluation and management.",3.646995782852173,0.09375,0.010526315789473686,0.07291666666666667,0.0025314655109303108,0.1375,0.915834903717041
+What Causes Colon Polyps?,"Polyps of the colon and rectum are most often benign. This means they are not a cancer and do not spread. You may have one or many polyps. They become more common with age. There are many types of polyps.
+Adenomatous polyps are a common type. They are gland -like growths that develop on the mucous membrane that lines the large intestine. They are also called adenomas and are most often one of the following:
+Tubular polyp, which protrudes out in the lumen (open space) of the colon Villous adenoma, which is sometimes flat and spreading, and is more likely to become a cancer
+When adenomas become cancerous, they are known as adenocarcinomas. Adenocarcinomas are cancers that originate in glandular tissue cells. Adenocarcinoma is the most common type of colorectal cancer.
+Other types of polyps are:
+Hyperplastic polyp, which rarely, if ever, develop into cancer Serrated polyp, which is less common, but may develop into cancer over time
+A small number of people with polyps may also be linked to some inherited disorders, including:
+Familial adenomatous polyposis (FAP) Gardner syndrome (a type of FAP) Juvenile polyposis (disease that causes many benign growths in the intestine, usually before 20 years old) Lynch syndrome (HNPCC, a disease that raises the chance of many types of cancer, including in the intestine) Peutz-Jeghers syndrome (disease that causes intestinal polyps, usually in the small intestine and usually benign)",Answer this question truthfully,"Colon polyps are growths on the lining of the colon or rectum. The exact cause of colon polyps is not fully understood, but several factors are known to contribute to their development:
+
+1. **Genetic Factors**: Certain inherited conditions, such as familial adenomatous polyposis (FAP) and Lynch syndrome (hereditary nonpolyposis colorectal cancer), significantly increase the risk of developing polyps.
+
+2. **Age**: The risk of colon polyps increases with age, particularly in individuals over 50.
+
+3. **Diet**: A diet high in red or processed meats and low in fruits, vegetables, and fiber may increase the risk of polyps.
+
+4. **Obesity**: Being overweight or obese is associated with a higher risk of developing colon polyps.
+
+5. **Smoking and Alcohol**: Tobacco use and excessive alcohol consumption are linked to an increased risk of polyps.
+
+6. **Inflammatory Bowel Disease**: Conditions like ulcerative colitis and Crohn's disease can increase the likelihood of polyp formation.
+
+7. **Sedentary Lifestyle**: Lack of physical activity may contribute to the risk of developing polyps.
+
+Regular screening and colonoscopies are recommended, especially for individuals at higher risk, to detect and remove polyps early.",2.823540449142456,0.3942307692307692,0.0676328502415459,0.1778846153846154,0.053056769174875125,0.2237658125083145,0.9438906908035278
+What to expect if I have Munchausen syndrome by proxy  (Outlook/Prognosis)?,"This is a difficult disorder to treat in parents. There is little information available about the best types of treatment or what the outcome will be. It usually requires years of psychiatric support.
+Children may require medical care to treat injuries the parent inflicted, as well as psychiatric care to deal with depression, anxiety, and other conditions that can be provoked by child abuse.
+Some children may die from infections or other injuries inflicted by parents with Munchausen syndrome by proxy.",Answer this question truthfully,"Munchausen syndrome by proxy, now referred to as Factitious Disorder Imposed on Another, is a serious mental health condition where a caregiver intentionally produces or feigns illness in another person, typically a child, to gain attention or sympathy. 
+
+**Outlook/Prognosis:**
+
+1. **Diagnosis and Treatment**: The prognosis can improve significantly with early diagnosis and appropriate treatment. Treatment often involves psychotherapy, which can help the individual address underlying psychological issues.
+
+2. **Risk of Harm**: Without intervention, the condition can lead to severe physical and emotional harm to the victim, and the caregiver may continue to engage in harmful behaviors.
+
+3. **Long-term Effects**: The prognosis for the victim can vary widely depending on the extent of the abuse and the timeliness of intervention. Early recognition and removal from the harmful situation can lead to better outcomes.
+
+4. **Recurrence**: Individuals with this disorder may have a high risk of recurrence if they do not receive adequate psychological support and treatment.
+
+5. **Legal and Social Implications**: There may be legal consequences for the caregiver, and social services may become involved to protect the victim.
+
+Overall, the outlook is contingent on the recognition of the disorder, the willingness of the caregiver to engage in treatment, and the safety and well-being of the victim.",5.24111795425415,0.2620689655172414,0.027777777777777776,0.1103448275862069,0.017445322053772836,0.2657684498587571,0.9553428888320923
+How to prepare for Endometrial biopsy?,"There is no special preparation for the biopsy. You may want to take ibuprofen (Advil, Motrin IB) or acetaminophen (Tylenol) 1 hour before the procedure to reduce cramping.",Answer this question truthfully,"Preparing for an endometrial biopsy typically involves the following steps:
+
+1. **Consultation**: Discuss any medications you are taking with your healthcare provider, as some may need to be adjusted or stopped prior to the procedure.
+
+2. **Timing**: The biopsy is usually scheduled during the first half of your menstrual cycle, often between days 5 and 14, unless otherwise directed by your doctor.
+
+3. **Medications**: You may be advised to take over-the-counter pain relievers, such as ibuprofen, before the procedure to help minimize discomfort.
+
+4. **Avoiding Intercourse**: Refrain from sexual intercourse for a few days before the biopsy, as advised by your doctor.
+
+5. **Hygiene**: Maintain good hygiene before the procedure, but avoid douching or using vaginal medications unless instructed.
+
+6. **Transportation**: Arrange for someone to drive you home if you are receiving sedation or if you feel anxious about the procedure.
+
+7. **Questions**: Prepare any questions or concerns you may have to discuss with your healthcare provider before the biopsy.
+
+Always follow the specific instructions provided by your healthcare provider, as they may have tailored recommendations based on your individual health needs.",3.7648911476135254,0.15094339622641512,0.06666666666666668,0.12264150943396225,0.01841077898101012,0.22859712230215828,0.9174883365631104
+Who is at highest risk for Polio ?,"Person's at higher risk include those who:
+Lack immunization against polio and are exposed to the virus Travel to an area that has experienced a polio outbreak
+In areas where there is an outbreak, those most likely to get the disease include children, pregnant women, and the elderly. The disease is more common in the summer and fall. Between 1840 and the 1950s, polio was a worldwide epidemic. Since the development of polio vaccines, the incidence of the disease has been greatly reduced. Polio has been wiped out in a number of countries. There have been very few cases of polio in the Western hemisphere since the late 1970s. Children in the United States are now routinely vaccinated against the disease. Outbreaks still occur in the developed world, usually in groups of people who have not been vaccinated. Polio often occurs after someone travels to a region where the disease is common. Thanks to a massive, global, vaccination campaign over the past 20 years, polio exists only in a few countries in Africa and Asia.",Answer this question truthfully,"Individuals at the highest risk for polio include:
+
+1. **Unvaccinated Individuals**: Those who have not received the polio vaccine are at the greatest risk of contracting the disease.
+2. **Children Under 5 Years Old**: Young children are more susceptible to polio, particularly in areas where the virus is still circulating.
+3. **Travelers to Endemic Regions**: People traveling to countries where polio is still endemic or where outbreaks occur are at increased risk.
+4. **Immunocompromised Individuals**: Those with weakened immune systems, such as individuals with certain medical conditions or those undergoing immunosuppressive treatments, are at higher risk.
+5. **Healthcare Workers**: Individuals working in healthcare settings in areas with polio outbreaks may be at increased risk of exposure.
+
+Vaccination is the most effective way to prevent polio and protect at-risk populations.",2.0200159549713135,0.3856209150326797,0.09868421052631578,0.17647058823529413,0.02146875358872099,0.218958642931559,0.9597207307815552
+Why this medication is prescribed?,"Pravastatin is used together with lifestyle changes (diet, weight-loss, exercise) to reduce the amount of cholesterol (a fat-like substance) and other fatty substances in the blood. Pravastatin is in a class of medications called HMG-CoA reductase inhibitors (statins). It works by slowing the production of cholesterol in the body.
+Buildup of cholesterol and other fats along the walls of the blood vessels (a process known as atherosclerosis) decreases blood flow and, therefore, the oxygen supply to the heart, brain, and other parts of the body. Lowering blood levels of cholesterol and other fats may help to decrease your chances of getting heart disease, angina (chest pain), strokes, and heart attacks. In addition to taking a cholesterol-lowering medication, making certain changes in your daily habits can also lower your cholesterol blood levels. You should eat a diet that is low in saturated fat and cholesterol (see SPECIAL DIETARY), exercise 30 minutes on most, if not all days, and lose weight if you are overweight.",Answer this question truthfully,"To provide an accurate answer, I would need to know the specific medication you are referring to. Different medications are prescribed for various conditions, so please specify the name of the medication.",0.919729471206665,0.11055276381909548,0.020304568527918784,0.08040201005025126,0.0002591525588787461,0.04745951982132886,0.8740640878677368
+What to expect if I have Child psychological abuse and neglect  (Outlook/Prognosis)?,"With treatment, many children and parents can be reunited as a family.
+The long-term outcome depends on:
+How severe the abuse was For how long the child was abused The success of therapy and parenting classes",Answer this question truthfully,"The outlook for individuals who have experienced childhood psychological abuse and neglect can vary widely based on several factors, including the severity and duration of the abuse, the individual's resilience, the presence of supportive relationships, and access to mental health resources.
+
+**Prognosis:**
+
+1. **Short-term Effects:** Children may exhibit symptoms such as anxiety, depression, low self-esteem, behavioral issues, and difficulties in relationships. They may struggle with emotional regulation and have challenges in academic settings.
+
+2. **Long-term Effects:** Adults who experienced psychological abuse and neglect in childhood may face ongoing mental health issues, including chronic depression, anxiety disorders, post-traumatic stress disorder (PTSD), and difficulties in forming healthy relationships. They may also be at higher risk for substance abuse and other maladaptive coping mechanisms.
+
+3. **Resilience Factors:** Positive outcomes are more likely when individuals have access to supportive relationships, effective therapy, and coping strategies. Early intervention and therapeutic support can significantly improve prognosis.
+
+4. **Therapeutic Interventions:** Evidence-based therapies, such as cognitive-behavioral therapy (CBT), trauma-focused therapy, and supportive counseling, can help individuals process their experiences and develop healthier coping mechanisms.
+
+5. **Support Systems:** Building a strong support network, including family, friends, and mental health professionals, can enhance recovery and improve overall well-being.
+
+Overall, while childhood psychological abuse and neglect can have profound effects, many individuals can heal and lead fulfilling lives with appropriate support and intervention.",5.375938892364502,0.17910447761194032,0.03007518796992481,0.08208955223880597,0.002796451479951747,0.23099119498455467,0.8996977806091309
+What are the symptoms of Head lice?,"Symptoms of head lice include:
+Intense itching of the scalp Small, red bumps on the scalp, neck, and shoulders (bumps may become crusty and ooze) Tiny white specks (eggs, or nits) on the bottom of each hair that are hard to get off
+Lice on scalp and clothing may be difficult to see, unless there are a lot of them.",Answer this question truthfully,"The symptoms of head lice infestation (pediculosis capitis) include:
+
+1. **Itching**: The most common symptom, caused by an allergic reaction to louse bites.
+2. **Red or irritated scalp**: Due to scratching and the presence of lice.
+3. **Visible lice or nits**: Adult lice are small, about the size of a sesame seed, and nits (lice eggs) are tiny, oval, and usually yellow or white, attached to hair shafts.
+4. **Sores or infections**: Resulting from scratching the scalp.
+5. **Feeling of something moving in the hair**: Some individuals may report a sensation of movement.
+
+If you suspect a head lice infestation, it's advisable to consult a healthcare professional for diagnosis and treatment options.",3.073244571685791,0.3699421965317919,0.05847953216374269,0.23121387283236994,0.032110501770760906,0.26875,0.9505008459091187
+What causes Encopresis?,"Encopresis is frequently associated with constipation and fecal impaction. Often, hard fecal material remains in the colon and the child only passes a soft or semi-liquid stool around the impacted stool. Leakage of stool may occur during the day or night. There are rarely physical causes other than constipation (sometimes present since infancy).
+Other causes may be related to:
+A lack of toilet training Toilet training at too early an age Emotional disturbance such as oppositional defiant disorder Conduct disorder
+Whatever the cause the child may develop associated shame, guilt, or loss of self-esteem. The child may try to hide the discovery of the problem.",Answer this question truthfully,"Encopresis, the involuntary passage of stool in inappropriate places, is often caused by a combination of factors, including:
+
+1. **Chronic Constipation**: The most common cause, where stool becomes hard and difficult to pass, leading to a buildup in the colon and eventual overflow.
+
+2. **Psychological Factors**: Stress, anxiety, or behavioral issues can contribute, especially in children who may associate bowel movements with negative experiences.
+
+3. **Dietary Factors**: Low fiber intake and inadequate fluid consumption can lead to constipation.
+
+4. **Medical Conditions**: Certain conditions, such as hypothyroidism, neurological disorders, or gastrointestinal issues, can affect bowel function.
+
+5. **Toilet Training Issues**: Negative experiences during toilet training can lead to fear or resistance to using the toilet.
+
+Treatment typically involves addressing the underlying causes, such as managing constipation, providing behavioral therapy, and ensuring a supportive environment.",3.113464117050171,0.3416666666666667,0.06722689075630253,0.15833333333333335,0.028538191827653697,0.23402982683346904,0.9658487439155579
+What are the symptoms of Tetralogy of Fallot?,"Clubbing of fingers (skin or bone enlargement around the fingernails) Cyanosis, which becomes more pronounced when the baby is upset Difficult feeding (poor feeding habits) Failure to gain weight Passing out Poor development Squatting during episodes of cyanosis",Answer this question truthfully,"Tetralogy of Fallot (ToF) is a congenital heart defect characterized by four specific heart abnormalities. The symptoms can vary in severity but commonly include:
+
+1. **Cyanosis**: A bluish tint to the skin, lips, and nails due to low oxygen levels in the blood.
+2. **Difficulty Breathing**: Especially during physical activity or feeding in infants.
+3. **Heart Murmur**: An abnormal sound heard during a heartbeat, often detected during a physical exam.
+4. **Fatigue**: Increased tiredness during exertion or play.
+5. **Poor Growth**: Infants may not gain weight or grow as expected.
+6. **Tet spells**: Episodes of increased cyanosis, often triggered by exertion, crying, or feeding, which may require the child to squat to relieve symptoms.
+
+If you suspect someone has symptoms of ToF, it is important to seek medical evaluation.",3.598008394241333,0.22754491017964074,0.024242424242424242,0.1317365269461078,0.005245840752496166,0.22654514515376134,0.9362556338310242
+What to expect if I have Syncope  (Outlook/Prognosis)?,"Prognosis of syncope depends on:
+Underlying causes: Syncope caused by cardiovascular diseases may be life-threatening. Prognosis of vasovagal syncope is relatively better. Whether the patient is associated with severe complications, such as falling, can lead to a cerebral hemorrhage.",Answer this question truthfully,"Syncope, or fainting, is a temporary loss of consciousness typically caused by a decrease in blood flow to the brain. The outlook and prognosis for someone experiencing syncope depend on the underlying cause. Here are some key points to consider:
+
+1. **Underlying Causes**: Syncope can result from various factors, including vasovagal responses, orthostatic hypotension, cardiac issues, neurological conditions, or metabolic disturbances. Identifying the cause is crucial for prognosis.
+
+2. **Recurrence**: Some individuals may experience recurrent episodes, while others may have a single event. The likelihood of recurrence often depends on the underlying cause.
+
+3. **Complications**: While syncope itself is usually benign, it can lead to injuries from falls. Cardiac-related syncope may indicate a more serious condition, requiring further evaluation and management.
+
+4. **Diagnosis and Management**: A thorough evaluation, including a medical history, physical examination, and possibly diagnostic tests (like ECG, echocardiogram, or tilt-table testing), is essential. Treatment may involve lifestyle changes, medication, or addressing the underlying condition.
+
+5. **Prognosis**: Generally, the prognosis is good for most individuals, especially if the cause is benign and manageable. However, if syncope is due to a serious underlying condition, the prognosis will depend on the nature and management of that condition.
+
+If you experience syncope, it is important to consult a healthcare provider for a proper diagnosis and management plan.",5.084867715835571,0.186046511627907,0.0703125,0.12403100775193798,0.007807340569676681,0.2691903612303291,0.9502493739128113
+Who is at highest risk for Paraganglioma ?,"Usually, there are no known risk factors. Paraganglioma have been associated with changes (mutations) in a gene responsible for the enzyme succinate dehydrogenase (SDHD).",Answer this question truthfully,"Individuals at the highest risk for paraganglioma include those with a family history of the condition, particularly if they have inherited genetic syndromes such as:
+
+1. **Multiple Endocrine Neoplasia type 2 (MEN 2)** - specifically MEN 2A and 2B.
+2. **Von Hippel-Lindau (VHL) syndrome** - which can lead to various tumors, including paragangliomas.
+3. **Neurofibromatosis type 1 (NF1)** - associated with various tumors, including paragangliomas.
+4. **Succinate dehydrogenase (SDH) gene mutations** - particularly SDHB, SDHC, and SDHD mutations, which are linked to hereditary paraganglioma-pheochromocytoma syndromes.
+
+Additionally, individuals with a personal history of other neuroendocrine tumors or those exposed to certain environmental factors may also be at increased risk.",2.9143898487091064,0.23076923076923075,0.03125000000000001,0.12307692307692308,0.010866919259689188,0.3209237661234263,0.9456724524497986
+What causes Pica?,"Pica is seen more in young children than adults. Between 10 and 32% of children ages 1 - 6 have these behaviors.
+Pica can occur during pregnancy.
+In some cases, conditions due to a lack of certain nutrients, such as iron deficiency anemia and zinc deficiency, may trigger the unusual cravings.
+Pica may also occur in adults who crave a certain texture in their mouth.",Answer this question truthfully,"Pica is a psychological disorder characterized by the persistent consumption of non-nutritive substances, such as dirt, clay, chalk, or paper. The exact cause of pica is not fully understood, but several factors may contribute to its development:
+
+1. **Nutritional Deficiencies**: Deficiencies in iron, zinc, or other essential nutrients may lead individuals to crave non-food items.
+
+2. **Psychological Factors**: Conditions such as obsessive-compulsive disorder (OCD), autism spectrum disorders, or developmental disabilities can be associated with pica.
+
+3. **Cultural Practices**: In some cultures, the consumption of certain non-food items may be a traditional practice.
+
+4. **Stress or Trauma**: Emotional distress, stress, or trauma can trigger pica behaviors, particularly in children.
+
+5. **Pregnancy**: Some pregnant women may experience pica, often related to cravings or nutritional deficiencies.
+
+6. **Mental Health Disorders**: Other mental health issues, such as schizophrenia or intellectual disabilities, may also be linked to pica.
+
+If pica is suspected, it is important to consult a healthcare professional for proper evaluation and management.",3.8183131217956543,0.3157894736842105,0.04424778761061947,0.13157894736842105,0.010465555863174783,0.2850409210708836,0.9584510326385498
+Who is at highest risk for Pinguecula ?,"People who are exposed to a great deal of sunlight (and consequently UV light), who live in tropical climates, and who suffer from eye irritation are at an increased risk of pinguecula. Certain occupations that may potentially damage the eyes, such as welding, also increase the risk.",Answer this question truthfully,"Individuals at the highest risk for developing pinguecula are typically those who have prolonged exposure to ultraviolet (UV) light, such as:
+
+1. **Outdoor Workers**: People who work outdoors, such as farmers, fishermen, and construction workers, are more likely to be exposed to UV rays.
+2. **Age**: Older adults are at increased risk, as pinguecula is more common in individuals over 50 years of age.
+3. **Geographic Location**: People living in sunny, high-altitude areas where UV exposure is greater.
+4. **Environmental Factors**: Those exposed to dust, wind, and dry conditions may also be at higher risk.
+
+Protective measures, such as wearing sunglasses with UV protection, can help reduce the risk.",1.658184289932251,0.3184713375796178,0.10322580645161292,0.20382165605095542,0.018305479321046973,0.4109839811475566,0.9569380879402161
+When to seek urgent medical care when I have Klinefelter%27s syndrome ?,"Call for an appointment with your health care provider if a boy does not develop secondary sexual characteristics at puberty.
+A genetics counselor can provide information about this condition, and help explain abnormal chromosome findings and possible complications. The counselor will also be familiar with local and national support groups.
+An endocrinologist and infertility specialist may also be helpful.",Answer this question truthfully,"Individuals with Klinefelter syndrome (47,XXY) may experience various health issues that could require urgent medical care. You should seek immediate medical attention if you experience:
+
+1. **Severe Pain**: Sudden or severe pain in the abdomen or testicular area.
+2. **Signs of Infection**: Fever, chills, or unusual discharge, especially if related to the reproductive system.
+3. **Breathing Difficulties**: Shortness of breath or chest pain.
+4. **Mental Health Crises**: Severe depression, anxiety, or thoughts of self-harm.
+5. **Endocrine Issues**: Symptoms of adrenal crisis (e.g., severe fatigue, low blood pressure, confusion) if you have been diagnosed with adrenal insufficiency.
+6. **Uncontrolled Diabetes Symptoms**: High blood sugar levels leading to confusion, excessive thirst, or frequent urination.
+
+Regular check-ups with healthcare providers are also important for managing potential complications associated with Klinefelter syndrome, such as hormonal imbalances, infertility, and increased risk of certain health conditions.",2.6657633781433105,0.13793103448275862,0.0,0.07881773399014778,0.0031709823323673217,0.14102564102564105,0.9373083710670471
+How is the ELISA done?,"Blood is typically drawn from a vein, usually from the inside of the elbow or the back of the hand. The site is cleaned with germ-killing medicine (antiseptic). The health care provider wraps an elastic band around the upper arm to apply pressure to the area and make the vein swell with blood.
+Next, the health care provider gently inserts a needle into the vein. The blood collects into an airtight vial or tube attached to the needle. The elastic band is removed from your arm.
+Once the blood has been collected, the needle is removed, and the puncture site is covered to stop any bleeding.
+In infants or young children, a sharp tool called a lancet may be used to puncture the skin and make it bleed. The blood collects into a small glass tube called a pipette, or onto a slide or test strip. A bandage may be placed over the area if there is any bleeding.
+The sample is sent to a laboratory where the targeted antibody (or antigen) is linked to an enzyme. If the target substance is in the sample, the test solution turns a different color. When the needle is inserted to draw blood, some people feel moderate pain, while others feel only a prick or stinging sensation. Afterward, there may be some throbbing.",Answer this question truthfully,"The Enzyme-Linked Immunosorbent Assay (ELISA) is a widely used laboratory technique for detecting and quantifying proteins, antibodies, or hormones in a sample. Here’s a concise overview of the procedure:
+
+1. **Coating the Plate**: A microtiter plate is coated with a specific antigen or antibody, depending on the type of ELISA being performed. This is done by adding the coating solution to the wells and incubating it, usually overnight at 4°C.
+
+2. **Blocking**: After coating, the wells are washed to remove unbound substances. A blocking solution (often containing proteins like BSA or non-fat dry milk) is added to prevent non-specific binding. This is incubated for a set time.
+
+3. **Sample Addition**: The sample (serum, plasma, or other biological fluids) is added to the wells. If the target analyte is present, it will bind to the coated antigen or antibody. This step is followed by incubation.
+
+4. **Washing**: The wells are washed multiple times to remove unbound substances.
+
+5. **Detection Antibody**: A secondary antibody, which is linked to an enzyme (such as horseradish peroxidase or alkaline phosphatase), is added. This antibody binds to the target analyte. After incubation, the wells are washed again.
+
+6. **Substrate Addition**: A substrate for the enzyme is added. The enzyme catalyzes a reaction that produces a detectable signal, usually a color change.
+
+7. **Stopping the Reaction**: A stop solution (often an acid) is added to halt the enzymatic reaction.
+
+8. **Measurement**: The intensity of the color change is measured using a spectrophotometer. The absorbance is proportional to the concentration of the target analyte in the sample.
+
+9. **Analysis**: Results are compared to a standard curve generated from known concentrations of the analyte to quantify the amount in the samples.
+
+This method is highly sensitive and specific, making it a valuable tool in diagnostics and research.",4.539771318435669,0.3625954198473283,0.06513409961685823,0.19465648854961837,0.0373355984921491,0.2585123576831384,0.9534839987754822
+Who is at highest risk for  stromal ovarian tumors ?,"Clinical data has suggested that the development of sexcord/ stromal ovarian tumors is related to several factors.
+Some drugs or treatment protocols: Recent studies show that fertility drugs, androgens and estrogen replacement therapy may increase the risk. Pregnancy:Increasing age at first term pregnancy. Life-style: A rich-fat diet and obesity may increase the risk of getting ovarian cancer. Age: Clinical data suggest that age also plays a role in the development of some subtypes of stromal ovarian tumors. Preterm birth is risk factor for the developement.",Answer this question truthfully,"Stromal ovarian tumors, which are a type of sex-cord stromal tumor, are relatively rare and can occur in women of any age. However, certain factors may increase the risk:
+
+1. **Age**: They are more commonly diagnosed in women between the ages of 40 and 60.
+2. **Hormonal Factors**: Women with conditions that affect hormone levels, such as polycystic ovary syndrome (PCOS), may have an increased risk.
+3. **Genetic Factors**: A family history of ovarian cancer or genetic mutations (such as BRCA1 and BRCA2) can increase the risk of various ovarian tumors, including stromal tumors.
+4. **Previous Ovarian Tumors**: Women who have had other types of ovarian tumors may be at higher risk.
+
+Overall, while these factors can increase risk, stromal tumors remain uncommon compared to other types of ovarian tumors. Regular gynecological check-ups and awareness of symptoms can aid in early detection.",8.774075031280518,0.31896551724137934,0.08695652173913045,0.1982758620689655,0.04961304488802215,0.26328234183191696,0.9721444249153137
+How to do Exposure Therapy?,"Some of the rules for constructing a good program of Exposure Therapy are:
+The subject should have a final goal which should represent non-phobic behavior. This might be (for example) to hold a large snake and rub it against their cheek for several minutes. They should also have in mind a series of intermediate steps such that once they have partially habituated to one step the next is close enough to it that they can readily move on. Such a sequence is called a hierarchy. It may be explicit, in the form of a list of increasingly challenging tasks, or implicit, in the form of a set of principles for escalating the exposure. The therapist will decide which of these will be more useful for the subject. (A useful way of constructing such a hierarchy is the Method of Factors. At every stage the subjects self-exposure should be completely voluntary - a criterion that may be derived from the theory of cognitive dissonance. One important corollary of this principle is that, at every moment, the subject must have an easy way of terminating the exposure. By choosing not to escape - and therefore practising a competing response - the subject thereby weakens the arousal-escape connection. The arousal experienced at any point should be the maximum that the subject is prepared to accept (this is the main difference between Exposure Therapy and Systematic desensitization). It's useful if at each stage the subject asks themselves ""is there anything more I could do?"" By considering which factors they can manipulate they should be able to keep moving smoothly up their hierarchy. Research by Marks and Rachmann citation needed demonstrated that optimum results are obtained with daily practice lasting at least an hour; and that the daily session should be ended by allowing the level of arousal to fall off to around half its peak value. For this reason it's useful for the subject to keep a note of their arousal level on a 0-8 scale (where 0=no arousal and 8=intolerable arousal). Before this fall-off phase the level of arousal should be maintained at an uncomfortable but tolerable level.",Answer this question truthfully,"Exposure therapy is a psychological treatment designed to help individuals confront their fears in a controlled and gradual manner. Here are the key steps involved in conducting exposure therapy:
+
+1. **Assessment**: Begin with a thorough assessment to identify the specific fears or phobias the individual is experiencing.
+
+2. **Education**: Educate the individual about the nature of their fear and the principles of exposure therapy, including how avoidance can reinforce fear.
+
+3. **Create a Fear Hierarchy**: Collaborate with the individual to develop a list of feared situations or stimuli, ranking them from least to most anxiety-provoking.
+
+4. **Gradual Exposure**: Start with the least anxiety-provoking item on the hierarchy. This can be done through:
+   - **In Vivo Exposure**: Directly facing the feared situation in real life.
+   - **Imaginal Exposure**: Visualizing or imagining the feared situation.
+   - **Virtual Reality Exposure**: Using technology to simulate the feared environment.
+
+5. **Practice Relaxation Techniques**: Teach the individual relaxation strategies (e.g., deep breathing, mindfulness) to manage anxiety during exposure.
+
+6. **Repeated Exposure**: Encourage repeated exposure to the feared situation until anxiety decreases. This may involve multiple sessions.
+
+7. **Cognitive Restructuring**: Help the individual challenge and reframe negative thoughts associated with the fear.
+
+8. **Gradual Progression**: Move up the fear hierarchy as the individual becomes more comfortable with each level.
+
+9. **Review and Reinforce**: After completing exposure tasks, review the experience and reinforce the progress made.
+
+10. **Follow-Up**: Schedule follow-up sessions to monitor progress and address any remaining fears.
+
+It is important to conduct exposure therapy under the guidance of a trained mental health professional to ensure safety and effectiveness.",3.146209239959717,0.31039999999999995,0.025682182985553772,0.15360000000000001,0.010906079461198056,0.1759998707498457,0.9460019469261169
+When to seek urgent medical care when I have Neuroblastoma ?,"Call your health care provider if symptoms of neuroblastoma develop. If you experience either of the following symptoms, seeking urgent medical care as soon as possible:
+Abdominal pain in child Bone pain in child",Answer this question truthfully,"If you or someone you know has neuroblastoma, it is important to seek urgent medical care in the following situations:
+
+1. **Severe Pain**: If there is sudden or severe pain that is not manageable with over-the-counter medications.
+2. **Difficulty Breathing**: Any signs of respiratory distress or difficulty breathing.
+3. **Neurological Changes**: New or worsening symptoms such as confusion, seizures, weakness, or loss of coordination.
+4. **Fever or Infection Signs**: High fever, chills, or signs of infection, especially if there is a risk of neutropenia (low white blood cell count).
+5. **Uncontrolled Vomiting**: Persistent vomiting that prevents keeping food or fluids down.
+6. **Changes in Urination or Bowel Movements**: Significant changes, such as blood in urine or stool, or inability to urinate.
+7. **Swelling or Lumps**: Rapidly growing lumps or swelling in the abdomen or other areas.
+8. **Fatigue or Weakness**: Extreme fatigue or weakness that interferes with daily activities.
+
+Always consult with a healthcare provider for personalized advice and to discuss any concerning symptoms.",3.22635817527771,0.20999999999999996,0.050505050505050504,0.09999999999999998,0.0075231726115620665,0.30036642482279885,0.9213813543319702
+What if I don't want to use the reference manager? What if I just want to type the references in myself?,"You are not required to use the reference manager. You can do the following:
+Step 1: Place a <ref>... </ref> immediately after the sentence where you want a footnote number to appear.
+Step 2: Type the text of the note between the ref tags. For example if I typed this
+It would appear as this
+Note: If you intend on using the same manual reference more than once, you will need to assign a name to the reference. You can do this by writing <ref name=""anythingyouwanthere"">... </ref>. Your name can be anything you want. Without a name, every manual reference will be viewed as a unique reference. This means that a reference used multiple times will show up as multiple references instead of just the one.",Answer this question truthfully,"If you prefer to type your references manually instead of using a reference manager, you can certainly do so. Here are some tips to ensure accuracy and consistency:
+
+1. **Choose a Citation Style**: Decide on a citation style (e.g., APA, MLA, Chicago, etc.) and follow its specific formatting rules for each type of source (books, journal articles, websites, etc.).
+
+2. **Gather Necessary Information**: For each reference, collect all required information, such as author(s), title, publication year, publisher, volume, issue, page numbers, and DOI or URL if applicable.
+
+3. **Create a Reference List**: Organize your references alphabetically by the last name of the first author. Ensure that the formatting (italics, punctuation, capitalization) adheres to the chosen citation style.
+
+4. **Double-Check for Accuracy**: Verify that all details are correct and that the references are complete. This includes checking for typos and ensuring that all cited works are included in the reference list.
+
+5. **Maintain Consistency**: Use the same format throughout your document to maintain a professional appearance.
+
+By following these steps, you can effectively manage your references without a reference manager.",2.7986934185028076,0.3818770226537217,0.09120521172638436,0.18770226537216828,0.012792951204066769,0.26091446221304077,0.950158417224884
+When to seek urgent medical care when I have Hydrocephalus ?,Seek medical attention IMMEDIATELY if you suspect hydrocephalus or see any of the signs or symptoms listed above. Hydrocephalus is a severe condition that could result in death if left untreated,Answer this question truthfully,"If you have hydrocephalus, you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Severe headache**: A sudden, severe headache that is different from your usual headaches.
+2. **Nausea and vomiting**: Persistent nausea or vomiting, especially if it is accompanied by other symptoms.
+3. **Changes in vision**: Blurred or double vision, or sudden loss of vision.
+4. **Altered mental status**: Confusion, drowsiness, or difficulty waking up.
+5. **Seizures**: New onset of seizures or changes in seizure patterns.
+6. **Difficulty walking or coordination issues**: Sudden problems with balance or coordination.
+7. **Weakness or numbness**: Sudden weakness or numbness in any part of the body.
+
+These symptoms may indicate increased intracranial pressure or complications related to hydrocephalus, which require immediate medical evaluation.",2.934067726135254,0.24358974358974358,0.03896103896103896,0.15384615384615385,0.008513346786431833,0.2698513800424628,0.9070572257041931
+When to seek urgent medical care when I have Salivary gland tumors ?,"Call your health care provider if:
+You have pain when eating or chewing You notice a lump in the mouth, under the jaw, or in the neck that does not go away in 2 - 3 weeks or is getting larger",Answer this question truthfully,"If you have salivary gland tumors, you should seek urgent medical care if you experience any of the following symptoms:
+
+1. **Rapid Growth of the Tumor**: If the tumor increases in size quickly.
+2. **Severe Pain**: Sudden or severe pain in the area of the tumor.
+3. **Difficulty Breathing or Swallowing**: If you experience significant difficulty in breathing or swallowing.
+4. **Nerve Involvement Symptoms**: Weakness or numbness in the face, especially if it affects one side.
+5. **Persistent Swelling**: Swelling that does not improve or worsens over time.
+6. **Fever or Signs of Infection**: If you develop a fever or signs of infection, such as redness, warmth, or discharge from the area.
+7. **Unexplained Weight Loss**: Significant weight loss without trying.
+
+If you have any concerns about your symptoms or the nature of your salivary gland tumor, it is important to consult with a healthcare professional promptly.",2.1236236095428467,0.24598930481283424,0.06486486486486487,0.17112299465240643,0.009814377113058301,0.2713877457704618,0.9294958710670471
